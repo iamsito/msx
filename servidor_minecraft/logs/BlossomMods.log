@@ -42,3 +42,8 @@
 [2025-01-07 03:17:37] [Server thread/DEBUG] (BlossomLib): genericCountdown for 3c3b563d-c762-335c-a4a1-5d85abbdcd0b has been reset after 4 ticks
 [2025-01-07 03:17:38] [Server thread/DEBUG] (BlossomLib): genericCountdown for 3c3b563d-c762-335c-a4a1-5d85abbdcd0b has been reset after 0 ticks
 [2025-01-07 03:17:41] [Server thread/DEBUG] (BlossomLib): genericCountdown for 3c3b563d-c762-335c-a4a1-5d85abbdcd0b has ended
+[2025-01-07 19:25:14] [main/ INFO] (BlossomLib): BlossomLib mixins loading
+[2025-01-07 19:25:24] [main/TRACE] (BlossomLib): register config manager BlossomTpa.json
+[2025-01-07 19:25:24] [main/TRACE] (BlossomLib): loading config BlossomTpa.json
+[2025-01-07 19:25:24] [main/TRACE] (BlossomLib): saving config BlossomTpa.json
+[2025-01-07 19:25:26] [main/ INFO] (BlossomLib): BlossomLib has starting

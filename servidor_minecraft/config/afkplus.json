@@ -1,6 +1,6 @@
 {
   "___comment": "AfkPlus-1.21.3-1.7.4 Config",
-  "config_date": "Tue, 7 Jan 2025 02:51:44 GMT",
+  "config_date": "Tue, 7 Jan 2025 19:25:25 GMT",
   "afk_plus": {
     "enableAfkCommand": true,
     "enableNoAfkCommand": true,

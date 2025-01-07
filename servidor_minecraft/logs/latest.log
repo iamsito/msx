@@ -1,9 +1,9 @@
-[02:51:32] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[02:51:32] [ForkJoinPool-1-worker-3/WARN]: Mod mr_vanilla_refresh uses the version 1.4.26c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '26c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[02:51:32] [main/WARN]: Warnings were found!
+[19:25:13] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[19:25:13] [ForkJoinPool-1-worker-4/WARN]: Mod mr_vanilla_refresh uses the version 1.4.26c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '26c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:25:14] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.3.2 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[02:51:32] [main/INFO]: Loading 150 mods:
+[19:25:14] [main/INFO]: Loading 152 mods:
 	- afkplus 1.7.4
 	   |-- com_moandjiezana_toml_toml4j 0.7.2
 	   |-- corelib 0.2.2-SNAPSHOT
@@ -162,6 +162,8 @@
 	- servux 0.4.3
 	- sit-oth3r 1.2.1+1.21.3
 	- skeletonhorsespawn 4.0
+	- skinrestorer 2.2.1+1.21-fabric
+	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
 	- stackable 1.3.1
 	- styledplayerlist 3.6.0+1.21.2
 	   |-- placeholder-api 2.5.0+1.21.2
@@ -181,367 +183,175 @@
 	- villagernames 8.1
 	- waystones 21.3.3
 	- zombiehorsespawn 5.1
-[02:51:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:51:32] [main/INFO]: Compatibility level set to JAVA_21
-[02:51:33] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Invalid type for config 'Bigger radius bookshelf for enchanting table' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config '1 tick delay copper bulb' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Backup Enchantments' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Bundle's Enchantment' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Banner trophies' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Bonemeal small flowers' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Bonemeal coral fan/block' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Day counter' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Deepslate generator' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Glow berry gives glow effect' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Wash filled map with Cauldron' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Invisible item frame' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Click through sign/itemframe' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Faster minecart' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Faster oxidization' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Sneak through sweet berry' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'No level limit anvil' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Prevent farmland trampling' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Torch burns target' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'No set spawn on sleep' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Sleep doesn't skip weather' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Shulker label' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Usable suspicious block' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'XP crops' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Wet sponge dry in warm biome' in category 'general'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Bundle place function' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Check Villagers schedule' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Clock shows current time' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Hoe harvests crops' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Mace rotate blocks' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Trident can call thunder storm' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Shear can pickpocket villager' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Shear can defuse TNT' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Shear prevents plant from growing' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Spyglass what is that?' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Waxed copper indicator' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Slime chunk detector' in category 'item'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config '9 lives cat' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Baby nametag' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Silent nametag' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Brushable parrot/chicken' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Chicken egg try hatch on despawn' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Explosive sniffer' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Sniffer sniff moss block' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Fox bury items' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Pat you pets' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Piglin treats golden trimmed armor as golden armor' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Horse can seat on boat' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'No tamed horse wandering' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Rabbit breed after eats carrot crops' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Random size fishes/squid' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Smaller bee' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Snow Golem produces powder snow' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Wandering trader announcer' in category 'entity'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Suspicious sand/gravel recipe' in category 'recipe'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Hydrophobic elytra' in category 'cursed'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'End stone is cheese' in category 'cursed'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Reverse phantom spawn condition' in category 'cursed'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Enable permission system' in category 'command'. Override with default value...
-[02:51:33] [main/WARN]: Invalid type for config 'Emote commands' in category 'command'. Override with default value...
-[02:51:33] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[02:51:33] [main/INFO]: Loaded configuration file for Lithium: 140 options available, 1 override(s) found
-[02:51:33] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:51:33] [main/WARN]: Error loading class: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders (java.lang.ClassNotFoundException: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders)
-[02:51:33] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
-[02:51:33] [main/WARN]: @Mixin target net.minecraft.class_634 was not found iamsteve.mixins.json:ChatMessageMixin from mod iamsteve
-[02:51:34] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[02:51:34] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[02:51:34] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[02:51:34] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[02:51:34] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[02:51:34] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[02:51:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[02:51:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:51:38] [main/WARN]: @Final field field_36535:Ljava/util/List; in diversity.mixins.json:general.enchantTableAcceptFurtherBookshelf.EnchantingTableBlockMixin from mod diversity should be final
-[02:51:44] [main/INFO]: AfkPlus-1.21.3-1.7.4
-[02:51:44] [main/INFO]: Author: sakura-ryoko
-[02:51:44] [main/INFO]: Description: Show which players are afk in the player list
-[02:51:44] [main/INFO]: loadEach(): Config defaults for [./afkplus.json]
-[02:51:45] [main/INFO]: Loading Collective version 7.89.
-[02:51:45] [main/INFO]: Loading
-[02:51:45] [main/INFO]: Register commands...
-[02:51:45] [main/INFO]: Register events...
-[02:51:45] [main/INFO]: Init done
-[02:51:45] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[02:51:45] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[02:51:45] [main/INFO]: Registering sounds
-[02:51:45] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
-[02:51:45] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
-[02:51:45] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[02:51:45] [main/INFO]: Constructing common components for leavesbegone:main
-[02:51:45] [main/INFO]: MoreColorAPI-1.21.3-0.2.2-SNAPSHOT
-[02:51:45] [main/INFO]: Author: sakura-ryoko
-[02:51:45] [main/INFO]: Description: Add additional colors for Text Placeholder API
-[02:51:45] [main/INFO]: loadEach(): Config defaults for [more-color-api/more-color-api.json]
-[02:51:45] [main/INFO]: MoreTools loaded!
-[02:51:45] [main/INFO]: Loading Noisium.
-[02:51:45] [main/INFO]: Config 'onlyhammersandexcavators' is missing, generating default one...
-[02:51:45] [main/INFO]: [STDOUT]: All 20 have been set properly
-[02:51:45] [main/INFO]: Registering Item Groups for onlyhammersandexcavators
-[02:51:45] [main/INFO]: forge?
-[02:51:45] [main/INFO]: Constructing common components for puzzleslib:main
-[02:51:45] [main/INFO]: Creating new `server-config.json`
-[02:51:45] [main/INFO]: Creating new `sitting-config.json`
-[02:51:45] [main/INFO]: Got a maximum stack size of 2147483647
-[02:51:45] [main/INFO]: Configured to: 128
-[02:51:46] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[02:51:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:51:48] [main/INFO]: No existing world data, creating new world
-[02:51:50] [main/INFO]: Loaded 1490 recipes
-[02:51:50] [main/INFO]: Loaded 1820 advancements
-[02:51:50] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 141 translation keys
-[02:51:50] [main/INFO]: Applied 244 biome modifications to 74 of 75 new biomes in 20.68 ms
-[02:51:50] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
-[02:51:50] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:51:50] [Server thread/INFO]: Loading properties
-[02:51:50] [Server thread/INFO]: Default game type: SURVIVAL
-[02:51:50] [Server thread/INFO]: Generating keypair
-[02:51:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:51:50] [Server thread/INFO]: Using epoll channel type
-[02:51:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:51:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:51:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:51:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:51:51] [Server thread/INFO]: Preparing level "world"
-[02:51:57] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[02:51:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:51:57] [Server thread/INFO]: Time elapsed: 2 ms
-[02:51:57] [Server thread/INFO]: Done (6.795s)! For help, type "help"
-[02:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
-[02:53:00] [Server thread/INFO]: pause-when-empty-seconds rule set, pausing server at 1199, 25199
-[02:53:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:53:28] [Server thread/INFO]: iam[/127.204.221.6:54767] logged in with entity id 49 at (611.5, 84.0, -477.5)
-[02:53:28] [Server thread/INFO]: iam joined the game
-[02:53:28] [Server thread/INFO]: Unpausing server: onPlayerLogin, 0:00:27 at 1199, 25199
-[02:53:28] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[02:53:36] [Server thread/INFO]: Received custom sitting settings from iam!
-[02:53:36] [Server thread/INFO]: Enabling client-side enhancements for player: iam
-[02:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8158ms or 163 ticks behind
-[02:58:17] [Server thread/INFO]: [Not Secure] <iam> i am steve
-[02:58:33] [Server thread/INFO]: [Not Secure] <iam> iam steve
-[02:58:37] [Server thread/INFO]: [Not Secure] <iam> i am steve
-[02:58:55] [Server thread/INFO]: Made iam a server operator
-[02:59:01] [Server thread/INFO]: [Not Secure] [Server] i am steve
-[02:59:09] [Server thread/INFO]: [iam: Set own game mode to Creative Mode]
-[02:59:37] [Server thread/WARN]: iam moved too quickly! 0.07743547728659905,0.0,-10.553112516639544
-[03:00:20] [Server thread/WARN]: iam moved too quickly! 4.031922518151987,-4.7248417075728355,-7.85717281840914
-[03:00:25] [Worker-Main-1/WARN]: Couldn't find template pool reference: revampedvillages:outpost/points
-[03:00:58] [Server thread/WARN]: iam moved too quickly! 9.665539739356632,0.0,2.9834047529232066
-[03:01:49] [Server thread/WARN]: iam moved too quickly! -7.98435176284886,2.109723374334564,6.811481931567414
-[03:02:34] [Server thread/WARN]: iam moved too quickly! -0.45304815490487726,3.374905881169525,9.613808836632302
-[03:07:03] [Server thread/WARN]: iam moved too quickly! 3.8663056711807258,1.7007968010235857,9.562918940592112
-[03:07:06] [Server thread/WARN]: iam moved too quickly! 1.23289562121181,-10.238864037758347,1.6403333085631857
-[03:12:19] [Server thread/INFO]: Marcus_988[/127.240.142.226:43711] logged in with entity id 14370 at (615.5, 79.0, -475.5)
-[03:12:19] [Server thread/INFO]: Marcus_988 joined the game
-[03:12:20] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
-[03:12:20] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
-[03:12:30] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:12:36] [Server thread/INFO]: [Not Secure] <Marcus_988> mucho mod
-[03:12:52] [Server thread/INFO]: [Not Secure] <Marcus_988> dia 2¿
-[03:13:10] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:14:26] [Server thread/INFO]: [iam: Set own game mode to Survival Mode]
-[03:14:44] [Server thread/INFO]: [Not Secure] <Marcus_988> iam
-[03:14:46] [Server thread/INFO]: [Not Secure] <iam> dime
-[03:15:07] [Server thread/INFO]: [Not Secure] <Marcus_988> hay lag e
-[03:15:14] [Server thread/INFO]: [Not Secure] <iam> dale tab
-[03:15:22] [Server thread/INFO]: [Not Secure] <iam> ahi ves tu ping
-[03:15:24] [Server thread/INFO]: [Not Secure] <Marcus_988> 456
-[03:15:26] [Server thread/INFO]: [Not Secure] <iam> yo no tengo lag
-[03:15:33] [Server thread/INFO]: [Not Secure] <iam> yo tengo 287
-[03:15:52] [Server thread/INFO]: Marcus_988 has made the advancement [Monster Hunter]
-[03:16:02] [Server thread/INFO]: [Not Secure] <Marcus_988> poque siemre te salvo
-[03:16:16] [Server thread/INFO]: [Not Secure] <iam> porqu eres gei
-[03:16:18] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:16:26] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:16:44] [Server thread/INFO]: [Not Secure] <Marcus_988> jaj
-[03:16:49] [Server thread/INFO]: [Not Secure] <Marcus_988> puto creeper de mierda
-[03:17:15] [Server thread/INFO]: [Not Secure] <Marcus_988> aldea e
-[03:17:21] [Server thread/INFO]: [Not Secure] <Marcus_988> tp
-[03:18:33] [Server thread/INFO]: [Not Secure] <Marcus_988> tu eres mongo?
-[03:18:40] [Server thread/INFO]: [Not Secure] <Marcus_988> lo unico que sirve son las patatas
-[03:18:45] [Server thread/INFO]: [Not Secure] <iam> comida infinita shaval
-[03:19:08] [Server thread/INFO]: [Not Secure] <iam> puse un mod de estaciones tambien viste
-[03:19:16] [Server thread/INFO]: [Not Secure] <Marcus_988> no me gusta esto del inventario en la pantalla e payaso
-[03:19:25] [Server thread/INFO]: [Not Secure] <iam> pp cambialo
-[03:19:27] [Server thread/INFO]: [Not Secure] <iam> toca O
-[03:20:08] [Server thread/INFO]: [Not Secure] <Marcus_988> pero coge las librerias mongo
-[03:20:24] [Server thread/INFO]: [Not Secure] <Marcus_988> y las camas
-[03:20:53] [Server thread/INFO]: [Not Secure] <Marcus_988> ojo tartas
-[03:21:16] [Server thread/INFO]: [Not Secure] <Marcus_988> y un horno de estos buenardos
-[03:22:15] [Server thread/INFO]: iam lost connection: Timed out
-[03:22:15] [Server thread/INFO]: iam left the game
-[03:22:15] [Server thread/WARN]: handleDisconnection() called twice
-[03:22:19] [Server thread/INFO]: [Not Secure] <Marcus_988> jaja
-[03:22:44] [Server thread/INFO]: Villager class_1646['Alisia'/17837, l='ServerLevel[world]', x=806.52, y=83.05, z=-642.21] died, message: 'Alisia drowned'
-[03:22:44] [Server thread/INFO]: Named entity class_1646['Alisia'/17837, l='ServerLevel[world]', x=806.52, y=83.05, z=-642.21] died: Alisia drowned
-[03:22:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@c3a0f1e[id=3c3b563d-c762-335c-a4a1-5d85abbdcd0b,name=iam,properties={}] lost connection: Timed out
-[03:23:17] [Server thread/INFO]: [Not Secure] <Marcus_988> entras o no?
-[03:23:34] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:23:34] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:23:34] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_nugget
-[03:23:34] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:23:34] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_nugget
-[03:23:34] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:23:38] [Server thread/INFO]: Marcus_988 has made the advancement [Acquire Hardware]
-[03:23:51] [Server thread/INFO]: iam[/127.204.221.6:48233] logged in with entity id 19898 at (759.423234410692, 79.17675927506424, -632.2528654936923)
-[03:23:52] [Server thread/INFO]: iam joined the game
-[03:23:52] [Server thread/INFO]: Received custom sitting settings from iam!
-[03:23:52] [Server thread/INFO]: Enabling client-side enhancements for player: iam
-[03:24:11] [Server thread/INFO]: [Not Secure] <Marcus_988> pilla cama
-[03:24:22] [Server thread/INFO]: iam lost connection: Timed out
-[03:24:22] [Server thread/INFO]: iam left the game
-[03:24:31] [Server thread/INFO]: Marcus_988 has made the advancement [Isn't It Iron Pick]
-[03:25:34] [Server thread/INFO]: iam[/127.204.221.6:54207] logged in with entity id 20294 at (757.5962599156232, 78.0, -631.7991719452212)
-[03:25:34] [Server thread/INFO]: iam joined the game
-[03:25:35] [Server thread/INFO]: Received custom sitting settings from iam!
-[03:25:36] [Server thread/INFO]: Enabling client-side enhancements for player: iam
-[03:26:04] [Server thread/INFO]: iam lost connection: Timed out
-[03:26:04] [Server thread/INFO]: iam left the game
-[03:26:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@43862ab3[id=3c3b563d-c762-335c-a4a1-5d85abbdcd0b,name=iam,properties={}] lost connection: Timed out
-[03:26:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a185f47[id=3c3b563d-c762-335c-a4a1-5d85abbdcd0b,name=iam,properties={}] lost connection: Disconnected
-[03:27:06] [Server thread/INFO]: iam[/127.204.221.6:59727] logged in with entity id 20569 at (757.5962599156232, 78.0, -631.7991719452212)
-[03:27:06] [Server thread/INFO]: iam joined the game
-[03:27:06] [Server thread/INFO]: Received custom sitting settings from iam!
-[03:27:06] [Server thread/INFO]: Enabling client-side enhancements for player: iam
-[03:27:12] [Server thread/INFO]: [Not Secure] <Marcus_988> que te pasa veo
-[03:27:20] [Server thread/INFO]: [Not Secure] <iam> pp no se
-[03:27:25] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:27:26] [Server thread/INFO]: iam has made the advancement [Sweet Dreams]
-[03:27:32] [Server thread/INFO]: Marcus_988 has made the advancement [Sweet Dreams]
-[03:28:13] [Server thread/INFO]: [Not Secure] <Marcus_988> tom a
-[03:28:41] [Server thread/INFO]: [Not Secure] <Marcus_988> que tienes?
-[03:28:51] [Server thread/INFO]: iam lost connection: Timed out
-[03:28:51] [Server thread/INFO]: iam left the game
-[03:29:47] [Server thread/INFO]: Marcus_988 has made the advancement [Diamonds!]
-[03:30:10] [Server thread/INFO]: iam[/127.204.221.6:32877] logged in with entity id 21444 at (748.8141194137279, 79.5, -643.4624205013251)
-[03:30:10] [Server thread/INFO]: iam joined the game
-[03:30:10] [Server thread/INFO]: Received custom sitting settings from iam!
-[03:30:10] [Server thread/INFO]: Enabling client-side enhancements for player: iam
-[03:30:24] [Server thread/INFO]: [Not Secure] <Marcus_988> toma
-[03:30:55] [Server thread/INFO]: iam lost connection: Timed out
-[03:30:55] [Server thread/INFO]: iam left the game
-[03:31:08] [Server thread/INFO]: Villager class_1646['Ollie'/18124, l='ServerLevel[world]', x=839.95, y=65.30, z=-698.33] died, message: 'Ollie was slain by Marcus_988'
-[03:31:08] [Server thread/INFO]: Named entity class_1646['Ollie'/18124, l='ServerLevel[world]', x=839.95, y=65.30, z=-698.33] died: Ollie was slain by Marcus_988
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_nugget
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_nugget
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_nugget
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_nugget
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:iron_ingot
-[03:31:30] [Server thread/INFO]: Marcus_988 has made the advancement [Suit Up]
-[03:31:54] [Server thread/INFO]: [Not Secure] [Server] pp tengo muy mala conexion
-[03:32:01] [Server thread/INFO]: [Not Secure] [Server] no se por que
-[03:32:08] [Server thread/INFO]: [Not Secure] <Marcus_988> pp y que vas a hacer?
-[03:32:14] [Server thread/INFO]: [Not Secure] [Server] pp nada
-[03:32:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:32:18] [Server thread/INFO]: sigue jugando tu si quieres<--[HERE]
-[03:32:19] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:32:28] [Server thread/INFO]: [Not Secure] [Server] sigue jugando tu si quieres
-[03:32:34] [Server thread/INFO]: [Not Secure] <Marcus_988> ok
-[03:32:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:32:38] [Server thread/INFO]: por cierto<--[HERE]
-[03:32:54] [Server thread/INFO]: [Not Secure] [Server] pon
-[03:32:58] [Server thread/INFO]: [Not Secure] [Server] i am steve
-[03:33:02] [Server thread/INFO]: [Not Secure] [Server] en el chat
-[03:33:07] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:33:11] [Server thread/INFO]: [Not Secure] <Marcus_988> jajaj
-[03:33:22] [Server thread/INFO]: [Not Secure] <Marcus_988> para esa tonteria 46 mods?
-[03:33:40] [Server thread/INFO]: [Not Secure] <Marcus_988> my name is optimus prime
-[03:33:44] [Server thread/INFO]: [Not Secure] [Server] tambien hay un mod de un cero artico
-[03:33:45] [Server thread/INFO]: [Not Secure] <Marcus_988> que caca
-[03:33:55] [Server thread/INFO]: [Not Secure] [Server] cerdo
-[03:34:03] [Server thread/INFO]: [Not Secure] <Marcus_988> el de optimus veo
-[03:34:27] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:36:37] [Server thread/INFO]: [Not Secure] <Marcus_988> casa in de fuking montaña te sirve?
-[03:38:53] [Server thread/INFO]: [Not Secure] <Marcus_988> espero que hayas puesto mods de nuevas armaduras y cosas asi
-[03:39:42] [Server thread/INFO]: [Not Secure] <Marcus_988> ?
-[03:40:14] [Server thread/INFO]: [Not Secure] <Marcus_988> callate ya
-[03:40:53] [Server thread/INFO]: [Not Secure] <Marcus_988> porque coño tengo un stak de 128 puto tontop?
-[03:43:22] [Server thread/INFO]: [Not Secure] <Marcus_988> unete
-[03:45:34] [Server thread/INFO]: [Not Secure] <Marcus_988> iam
-[03:46:21] [Server thread/INFO]: [Not Secure] <Marcus_988> todo yo
-[03:47:41] [Server thread/INFO]: [Not Secure] <Marcus_988> aa
-[03:48:46] [Server thread/INFO]: [Not Secure] <Marcus_988> iam veo
-[03:49:00] [Server thread/INFO]: Marcus_988 has made the advancement [Stone Age]
-[03:50:07] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:14] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:17] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:18] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:19] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:20] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:20] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:21] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:21] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:50:22] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:50:24] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:50:25] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:50:25] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:50:26] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:50:34] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:50:37] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[03:51:14] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:51:19] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:42] [Server thread/INFO]: [Not Secure] <Marcus_988> adios
-[03:54:44] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:48] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:48] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:49] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:50] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:50] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:51] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:51] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:52] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:53] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:53] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:54] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:54] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:55] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:54:58] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:59] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:54:59] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:00] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:55:01] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:55:03] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:04] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:04] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:05] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:55:06] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:55:07] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:55:08] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:09] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:10] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:10] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:11] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:11] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:12] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:13] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[03:55:13] [Server thread/INFO]: [Not Secure] <Marcus_988> i am stevet
-[03:55:25] [Server thread/INFO]: [Not Secure] <Marcus_988> me voi
-[03:55:27] [Server thread/INFO]: Marcus_988 lost connection: Disconnected
-[03:55:27] [Server thread/INFO]: Marcus_988 left the game
-[03:56:27] [Server thread/INFO]: pause-when-empty-seconds rule set, pausing server at 76632, 117284
-[03:56:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:25:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:25:14] [main/INFO]: Compatibility level set to JAVA_21
+[19:25:14] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:14] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[19:25:14] [main/INFO]: Loaded configuration file for Lithium: 140 options available, 1 override(s) found
+[19:25:15] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:25:15] [main/WARN]: Error loading class: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders (java.lang.ClassNotFoundException: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders)
+[19:25:15] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
+[19:25:15] [main/WARN]: @Mixin target net.minecraft.class_634 was not found iamsteve.mixins.json:ChatMessageMixin from mod iamsteve
+[19:25:15] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[19:25:15] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[19:25:15] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[19:25:15] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[19:25:15] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[19:25:15] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[19:25:16] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[19:25:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:25:20] [main/WARN]: @Final field field_36535:Ljava/util/List; in diversity.mixins.json:general.enchantTableAcceptFurtherBookshelf.EnchantingTableBlockMixin from mod diversity should be final
+[19:25:25] [main/INFO]: AfkPlus-1.21.3-1.7.4
+[19:25:25] [main/INFO]: Author: sakura-ryoko
+[19:25:25] [main/INFO]: Description: Show which players are afk in the player list
+[19:25:25] [main/INFO]: loadEach(): Read config for [config/afkplus.json]
+[19:25:26] [main/INFO]: Loading Collective version 7.89.
+[19:25:26] [main/INFO]: Loading
+[19:25:26] [main/INFO]: Register commands...
+[19:25:26] [main/INFO]: Register events...
+[19:25:26] [main/INFO]: Init done
+[19:25:26] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[19:25:26] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[19:25:26] [main/INFO]: Registering sounds
+[19:25:26] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[19:25:26] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[19:25:26] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[19:25:26] [main/INFO]: Constructing common components for leavesbegone:main
+[19:25:26] [main/INFO]: MoreColorAPI-1.21.3-0.2.2-SNAPSHOT
+[19:25:26] [main/INFO]: Author: sakura-ryoko
+[19:25:26] [main/INFO]: Description: Add additional colors for Text Placeholder API
+[19:25:26] [main/INFO]: loadEach(): Read config for [config/more-color-api.json]
+[19:25:26] [main/INFO]: MoreTools loaded!
+[19:25:26] [main/INFO]: Loading Noisium.
+[19:25:26] [main/INFO]: [STDOUT]: All 20 have been set properly
+[19:25:26] [main/INFO]: Registering Item Groups for onlyhammersandexcavators
+[19:25:26] [main/INFO]: There is a 1% chance that instead of Frog, you get Froge!
+[19:25:26] [main/INFO]: Constructing common components for puzzleslib:main
+[19:25:27] [main/INFO]: Got a maximum stack size of 2147483647
+[19:25:27] [main/INFO]: Configured to: 128
+[19:25:27] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[19:25:28] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:25:31] [main/INFO]: Loaded 1490 recipes
+[19:25:31] [main/INFO]: Loaded 1820 advancements
+[19:25:31] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 141 translation keys
+[19:25:31] [main/INFO]: Applied 244 biome modifications to 74 of 75 new biomes in 18.89 ms
+[19:25:31] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[19:25:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:25:31] [Server thread/INFO]: Loading properties
+[19:25:31] [Server thread/INFO]: Default game type: SURVIVAL
+[19:25:31] [Server thread/INFO]: Generating keypair
+[19:25:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:25:31] [Server thread/INFO]: Using epoll channel type
+[19:25:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:25:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:25:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:25:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:25:31] [Server thread/INFO]: Preparing level "world"
+[19:25:32] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[19:25:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:25:32] [Server thread/INFO]: Time elapsed: 86 ms
+[19:25:32] [Server thread/INFO]: Done (0.702s)! For help, type "help"
+[19:26:32] [Server thread/INFO]: pause-when-empty-seconds rule set, pausing server at 77831, 118483
+[19:26:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:27:07] [ForkJoinPool.commonPool-worker-2/WARN]: Failed to fetch skin: not found
+[19:27:13] [Server thread/INFO]: Marcus_988[/127.14.94.31:53077] logged in with entity id 44 at (901.6135061394594, 120.0, -416.3626924085564)
+[19:27:13] [Server thread/INFO]: Marcus_988 joined the game
+[19:27:13] [Server thread/INFO]: Unpausing server: onPlayerLogin, 0:00:41 at 77831, 118483
+[19:27:14] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[19:27:14] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
+[19:27:14] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
+[19:27:38] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
+[19:27:42] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:27:50] [Server thread/INFO]: [Not Secure] <Marcus_988> iam steve
+[19:28:00] [Server thread/INFO]: [Not Secure] <Marcus_988> te unes o no?
+[19:28:06] [Server thread/INFO]: [Not Secure] [Server] me resingo en el tlauncher
+[19:28:13] [Server thread/INFO]: [Not Secure] <Marcus_988> te unes o no?
+[19:28:15] [Server thread/INFO]: [Not Secure] [Server] se esta descargando algo ahora
+[19:28:37] [Server thread/INFO]: [Not Secure] [Server] entro cuando se me termine de descargar la cagalera esta
+[19:28:41] [Server thread/INFO]: Marcus_988 lost connection: Disconnected
+[19:28:41] [Server thread/INFO]: Marcus_988 left the game
+[19:28:48] [ForkJoinPool.commonPool-worker-2/WARN]: Failed to fetch skin: not found
+[19:28:51] [Server thread/INFO]: Marcus_988[/127.130.37.65:56513] logged in with entity id 638 at (915.1535966143015, 120.0, -421.5007401831679)
+[19:28:51] [Server thread/INFO]: Marcus_988 joined the game
+[19:28:51] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
+[19:28:52] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
+[19:29:03] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:29:07] [Server thread/INFO]: [Not Secure] [Server] hola
+[19:29:07] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:29:12] [Server thread/INFO]: [Not Secure] [Server] a
+[19:29:19] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:29:34] [Server thread/INFO]: [Not Secure] <Marcus_988> cuanto te demoras?
+[19:29:44] [Server thread/INFO]: [Not Secure] [Server] son 86mb
+[19:29:54] [Server thread/INFO]: [Not Secure] [Server] y va por 41
+[19:30:05] [Server thread/INFO]: [Not Secure] [Server] pokito
+[19:30:12] [Server thread/INFO]: [Not Secure] [Server] i am steve
+[19:30:15] [Server thread/INFO]: Marcus_988 lost connection: Disconnected
+[19:30:15] [Server thread/INFO]: Marcus_988 left the game
+[19:31:10] [ForkJoinPool.commonPool-worker-2/WARN]: Failed to fetch skin: not found
+[19:31:15] [Server thread/INFO]: Marcus_988[/127.14.94.31:43195] logged in with entity id 1217 at (903.5817999460211, 120.0, -409.7351461230566)
+[19:31:15] [Server thread/INFO]: Marcus_988 joined the game
+[19:31:15] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
+[19:31:15] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
+[19:31:22] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:31:28] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:31:41] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:32:07] [Server thread/INFO]: [Not Secure] <Marcus_988> te tengo un regalo
+[19:32:22] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:32:28] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:33:03] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:33:06] [Server thread/INFO]: Incorrect argument for command
+[19:33:06] [Server thread/INFO]: ...arcus_988 903 125 -409[D<--[HERE]
+[19:33:19] [Server thread/INFO]: Teleported Marcus_988 to 903.500000, 125.000000, -408.500000
+[19:33:22] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:33:37] [Server thread/INFO]: [Not Secure] [Server] jijijj
+[19:33:40] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:33:47] [Server thread/INFO]: [Not Secure] <Marcus_988> a
+[19:33:49] [Server thread/INFO]: [Not Secure] [Server] sex
+[19:33:53] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
+[19:33:54] [Server thread/INFO]: [Not Secure] [Server] uuuuuuuuuuuuuuuuuuuuuuuuu
+[19:34:11] [Server thread/INFO]: [Not Secure] <Marcus_988> pp i si pones algun mod porno o algo asi
+[19:34:15] [Server thread/INFO]: [Not Secure] <Marcus_988> a mi me sirve
+[19:34:30] [Server thread/INFO]: [Not Secure] <Marcus_988> ve
+[19:34:32] [Server thread/INFO]: [Not Secure] <Marcus_988> o
+[19:34:38] [Server thread/INFO]: [Not Secure] [Server] pp tendria que buscar a ver si hay algun mod porno para esta version
+[19:34:47] [Server thread/INFO]: [Not Secure] <Marcus_988> busca busca
+[19:34:50] [Server thread/INFO]: [Not Secure] <Marcus_988> pero unete ya
+[19:35:04] [Server thread/INFO]: [Not Secure] [Server] pp se me puso a descargar otra pi ga
+[19:35:10] [Server thread/INFO]: [Not Secure] <Marcus_988> ño asere
+[19:35:26] [Server thread/INFO]: [Not Secure] [Server] pp no importa 
+[19:35:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:35:33] [Server thread/INFO]: voy buscando mientras tanto mas mods pa ponerle al server<--[HERE]
+[19:35:46] [Server thread/INFO]: [Not Secure] [Server] voy buiscando mientras tanto mas mods pa poner
+[19:35:52] [Server thread/INFO]: [Not Secure] <Marcus_988> porno
+[19:38:28] [Server thread/INFO]: [Not Secure] <Marcus_988> encontraste algo?
+[19:39:01] [Server thread/INFO]: [Not Secure] [Server] pp no
+[19:39:12] [Server thread/INFO]: [Not Secure] [Server] es que esta version como es muy nueva no tiene muchos mods
+[19:39:25] [Server thread/INFO]: [Not Secure] [Server] y ademas estamos en fabric, que la mayoria de mods no son muy espectaculares
+[19:39:30] [Server thread/INFO]: [Not Secure] <Marcus_988> pp pero seguro que alguno ya tendra no?
+[19:39:33] [Server thread/INFO]: [Not Secure] [Server] a diferencia de los de forge
+[19:39:50] [Server thread/INFO]: [Not Secure] [Server] pp los mods porno esos estan en versiones mas viejas
+[19:39:57] [Server thread/INFO]: [Not Secure] [Server] como la 1.18
+[19:40:04] [Server thread/INFO]: [Not Secure] <Marcus_988> :(
+[19:40:06] [Server thread/INFO]: [Not Secure] [Server] la 1.12, la 1.16
+[19:40:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:40:17] [Server thread/INFO]: tambien podemos jugar en esas versiones<--[HERE]
+[19:40:25] [Server thread/INFO]: [Not Secure] [Server] tambien podemos jugar en esas versiones
+[19:40:27] [Server thread/INFO]: [Not Secure] <Marcus_988> ya te unes?
+[19:40:36] [Server thread/INFO]: [Not Secure] <Marcus_988> yo tengo la 16.5
+[19:40:40] [Server thread/INFO]: [Not Secure] <Marcus_988> y la 21
+[19:43:48] [Server thread/INFO]: [Not Secure] <Marcus_988> pp
+[19:43:59] [Server thread/INFO]: [Not Secure] <Marcus_988> creo q hay un jenny mod en la 1.21
+[19:45:03] [Server thread/INFO]: [Not Secure] <Marcus_988> iam
+[19:45:06] [Server thread/INFO]: [Not Secure] <Marcus_988> unete veo
