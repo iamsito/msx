@@ -1,134 +1,351 @@
-[00:14:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[00:14:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[00:14:26] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[00:14:26] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[00:14:26] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - Chunky (1.4.28), Geyser-Spigot (2.5.0-SNAPSHOT), Timber (1.4.3), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
-[00:14:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:14:30] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[00:14:30] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[00:14:31] [ServerMain/INFO]: No existing world data, creating new world
-[00:14:31] [ServerMain/INFO]: Loaded 1337 recipes
-[00:14:31] [ServerMain/INFO]: Loaded 1448 advancements
-[00:14:32] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:14:32] [Server thread/INFO]: Loading properties
-[00:14:32] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[00:14:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[00:14:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:14:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:14:33] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[00:14:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[00:14:34] [Server thread/INFO]: Default game type: SURVIVAL
-[00:14:34] [Server thread/INFO]: Generating keypair
-[00:14:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:14:34] [Server thread/INFO]: Using epoll channel type
-[00:14:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:14:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:14:35] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:14:35] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[00:14:36] [Server thread/INFO]: [floodgate] Took 979ms to boot Floodgate
-[00:14:36] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
-[00:14:36] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.4.3
-[00:14:36] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.5.0-SNAPSHOT
-[00:14:36] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[00:14:36] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[00:14:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:14:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:14:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:14:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:14:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:14:36] [Server thread/INFO]: Preparing level "world"
-[00:14:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[00:14:42] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 202.4ms
-[00:14:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:14:46] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:47] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:47] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:48] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:48] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:49] [Server thread/INFO]: Preparing spawn area: 8%
-[00:14:49] [Server thread/INFO]: Preparing spawn area: 18%
-[00:14:50] [Server thread/INFO]: Preparing spawn area: 18%
-[00:14:50] [Server thread/INFO]: Preparing spawn area: 18%
-[00:14:51] [Server thread/INFO]: Preparing spawn area: 24%
-[00:14:51] [Server thread/INFO]: Preparing spawn area: 46%
-[00:14:52] [Server thread/INFO]: Preparing spawn area: 51%
-[00:14:52] [Server thread/INFO]: Preparing spawn area: 51%
-[00:14:53] [Server thread/INFO]: Preparing spawn area: 53%
-[00:14:53] [Server thread/INFO]: Preparing spawn area: 73%
-[00:14:54] [Server thread/INFO]: Time elapsed: 7173 ms
-[00:14:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:14:54] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:54] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:55] [Server thread/INFO]: Preparing spawn area: 18%
-[00:14:55] [Server thread/INFO]: Preparing spawn area: 32%
-[00:14:56] [Server thread/INFO]: Preparing spawn area: 67%
-[00:14:56] [Server thread/INFO]: Time elapsed: 2083 ms
-[00:14:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:14:56] [Server thread/INFO]: Preparing spawn area: 2%
-[00:14:56] [Server thread/INFO]: Time elapsed: 418 ms
-[00:14:56] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
-[00:14:57] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
-[00:14:57] [Server thread/INFO]: [Timber] Enabling Timber v1.4.3
-[00:14:57] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.5.0-SNAPSHOT
-[00:14:57] [Server thread/INFO]: [spark] Starting background profiler...
-[00:14:57] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:14:57] [Server thread/INFO]: [Geyser-Spigot] 
-[00:14:57] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.5.0-b721 (git-master-1eedf19)
-[00:14:57] [Server thread/INFO]: [Geyser-Spigot] 
-[00:14:57] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[00:15:01] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[00:15:01] [Server thread/INFO]: [Geyser-Spigot] Done (3.871s)! Run /geyser help for help!
-[00:15:01] [Server thread/INFO]: Done preparing level "world" (24.884s)
-[00:15:01] [Server thread/INFO]: Running delayed init tasks
-[00:15:01] [Server thread/INFO]: Done (36.537s)! For help, type "help"
-[00:15:01] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 1.21.50. Download it here: https://geysermc.org/download
-[00:16:39] [Server thread/INFO]: Made iamdx0 a server operator
-[00:16:48] [User Authenticator #0/INFO]: UUID of player Marcus_988 is abdfa706-479d-3047-a226-350e9072f00e
-[00:16:50] [Server thread/INFO]: Marcus_988 joined the game
-[00:16:50] [Server thread/INFO]: Marcus_988[/127.194.169.33:42361] logged in with entity id 29 at ([world]7.5, 91.0, 9.5)
-[00:17:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> a
-[00:17:11] [Server thread/INFO]: [Not Secure] [Server] va lag?
-[00:17:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> el peor spawn del mundo
-[00:17:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> no
-[00:17:27] [Server thread/INFO]: [Not Secure] [Server] pp no se el mundo es new
-[00:17:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> a
-[00:18:08] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> va bastante bine
-[00:18:24] [Server thread/INFO]: [Not Secure] [Server] pp a lo mejor es porque tienes buena internet
-[00:18:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> si
-[00:18:35] [Server thread/INFO]: [Not Secure] [Server] a lo mejor cuando tengas un poco peor sera muy mierda
-[00:18:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> pusiste el tunel de NY?
-[00:19:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-i<--[HERE]
-[00:19:39] [Server thread/INFO]: [Not Secure] [Server] si
-[00:19:49] [Server thread/INFO]: [Not Secure] [Server] si
-[00:19:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> ok
-[00:20:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> sabes cual es el desierto rojo?
-[00:20:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> el spawn esta al lado de uno
-[00:21:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> en estos deciertos hat muchas minas de estas q tienen carrileS DE TRENES
-[00:21:09] [Server thread/INFO]: [Not Secure] [Server] ajenadro se va a unir contigo
-[00:21:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> q son buenas
-[00:21:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> ok
-[00:21:21] [Server thread/INFO]: Made Marcus_988 a server operator
-[00:21:28] [Server thread/INFO]: Marcus_988 has made the advancement [Stone Age]
-[00:21:34] [Server thread/INFO]: [Not Secure] [Server] pa que te puedas hacer tp a el o algo deso
-[00:21:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Marcus_988> gracais
-[00:22:21] [Server thread/INFO]: Marcus_988 has made the advancement [Getting an Upgrade]
-[00:22:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Marcus_988> buenos bluguins
-[00:23:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Marcus_988> a
-[00:24:06] [Server thread/INFO]: Marcus_988 has made the advancement [Monster Hunter]
-[00:25:10] [Async Chat Thread - #4/INFO]: [Not Secure] <Marcus_988> a
-[00:27:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Marcus_988> pusiste superbiomas¿?
-[00:28:04] [Async Chat Thread - #6/INFO]: [Not Secure] <Marcus_988> a
-[00:29:20] [Server thread/INFO]: [Not Secure] [Server] no
-[00:31:15] [Async Chat Thread - #9/INFO]: [Not Secure] <Marcus_988> a
-[00:36:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Marcus_988> a
-[00:38:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Marcus_988> te consegui una cama
-[00:40:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Marcus_988> y comida
-[00:42:06] [Server thread/INFO]: Marcus_988 has made the advancement [Suit Up]
-[00:42:07] [Server thread/INFO]: Marcus_988 has made the advancement [Isn't It Iron Pick]
-[00:42:07] [Server thread/INFO]: Marcus_988 has made the advancement [Acquire Hardware]
-[00:43:30] [Async Chat Thread - #17/INFO]: [Not Secure] <Marcus_988> pp voy a comerç
-[00:43:36] [Async Chat Thread - #17/INFO]: [Not Secure] <Marcus_988> vengo ahora
-[00:43:46] [Server thread/INFO]: Marcus_988 lost connection: Disconnected
-[00:43:46] [Server thread/INFO]: Marcus_988 left the game
+[02:51:32] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[02:51:32] [ForkJoinPool-1-worker-3/WARN]: Mod mr_vanilla_refresh uses the version 1.4.26c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '26c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:51:32] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.3.2 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[02:51:32] [main/INFO]: Loading 150 mods:
+	- afkplus 1.7.4
+	   |-- com_moandjiezana_toml_toml4j 0.7.2
+	   |-- corelib 0.2.2-SNAPSHOT
+	   |-- fabric-api-base 0.4.50+119c825640
+	   |-- fabric-resource-loader-v0 3.0.6+fd37071f40
+	   \-- more-color-api 0.2.2-SNAPSHOT
+	        \-- corelib 0.2.2-SNAPSHOT
+	- almanac 1.4.4
+	- appleskin 3.0.6+mc1.21.3
+	- babiesforever 1.2.0
+	- balm-fabric 21.3.5
+	   \-- kuma_api 21.3.3
+	- blossom-lib 2.5.11+1.21.4
+	   \-- server_translations_api 2.4.0+1.21.2-rc1
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- blossom-tpa 2.2.7+1.21.4
+	- carryon 2.2.3
+	- cloth-config 16.0.143
+	   \-- cloth-basic-math 0.6.1
+	- cobweb 1.3.0
+	- collective 7.89
+	- connected-doors 1.3+1.21.2
+	- ctov 3.5.4
+	- day_dream 1.0.13
+	- diversity 2.2.1
+	- elevatorid 1.21.3-1.13.1
+	   \-- forgeconfigapiport 21.3.2
+	        |-- com_electronwill_night-config_core 3.8.1
+	        \-- com_electronwill_night-config_toml 3.8.1
+	- fabric-api 0.114.0+1.21.3
+	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
+	   |-- fabric-biome-api-v1 14.0.7+add2a48640
+	   |-- fabric-block-api-v1 1.0.28+fd37071f40
+	   |-- fabric-block-view-api-v2 1.0.16+fd37071f40
+	   |-- fabric-blockrenderlayer-v1 2.0.4+fd37071f40
+	   |-- fabric-client-tags-api-v1 1.1.25+a730659c40
+	   |-- fabric-command-api-v1 1.2.58+f71b366f40
+	   |-- fabric-command-api-v2 2.2.37+c9d82ab240
+	   |-- fabric-commands-v0 0.2.75+df3654b340
+	   |-- fabric-content-registries-v0 9.1.8+fd37071f40
+	   |-- fabric-convention-tags-v1 2.1.4+7f945d5b40
+	   |-- fabric-convention-tags-v2 2.9.4+129f0c1f40
+	   |-- fabric-crash-report-info-v1 0.3.3+fd37071f40
+	   |-- fabric-data-attachment-api-v1 1.4.0+dbad41f140
+	   |-- fabric-data-generation-api-v1 21.1.2+a730659c40
+	   |-- fabric-dimensions-v1 4.0.7+fd37071f40
+	   |-- fabric-entity-events-v1 2.0.8+825023f840
+	   |-- fabric-events-interaction-v0 2.0.12+c2c3ac4740
+	   |-- fabric-game-rule-api-v1 1.0.59+fd37071f40
+	   |-- fabric-item-api-v1 11.1.7+fd37071f40
+	   |-- fabric-item-group-api-v1 4.1.17+fd37071f40
+	   |-- fabric-key-binding-api-v1 1.0.53+fd37071f40
+	   |-- fabric-keybindings-v0 0.2.51+df3654b340
+	   |-- fabric-lifecycle-events-v1 2.5.1+6da5ef6940
+	   |-- fabric-loot-api-v2 3.0.26+3f89f5a540
+	   |-- fabric-loot-api-v3 1.0.14+fd37071f40
+	   |-- fabric-message-api-v1 6.0.21+fd37071f40
+	   |-- fabric-model-loading-api-v1 3.0.9+fd37071f40
+	   |-- fabric-networking-api-v1 4.3.5+fd37071f40
+	   |-- fabric-object-builder-api-v1 17.0.9+fd37071f40
+	   |-- fabric-particles-v1 4.0.10+fd37071f40
+	   |-- fabric-recipe-api-v1 7.0.5+8ea69ff840
+	   |-- fabric-registry-sync-v0 5.4.1+3f3c499540
+	   |-- fabric-renderer-api-v1 4.0.5+fd37071f40
+	   |-- fabric-renderer-indigo 1.9.5+fd37071f40
+	   |-- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
+	   |-- fabric-rendering-fluids-v1 3.1.15+fd37071f40
+	   |-- fabric-rendering-v0 1.1.84+df3654b340
+	   |-- fabric-rendering-v1 8.0.8+6922831640
+	   |-- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
+	   |-- fabric-screen-api-v1 2.0.34+fd37071f40
+	   |-- fabric-screen-handler-api-v1 1.3.103+fd37071f40
+	   |-- fabric-sound-api-v1 1.0.29+fd37071f40
+	   |-- fabric-tag-api-v1 1.0.0+a730659c40
+	   |-- fabric-transfer-api-v1 5.4.3+cb44d14340
+	   \-- fabric-transitive-access-wideners-v1 6.2.0+54a41b1c40
+	- fabric-language-kotlin 1.13.0+kotlin.2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.26.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
+	- fabric-permissions-api-v0 0.3.3
+	- fabricloader 0.16.9
+	   \-- mixinextras 0.4.1
+	- fallingtree 1.21.3.3
+	- fence_on_slab 1.0.0+mc1.21.3
+	- followersteleporttoo 2.6
+	- fsit 2.7.3+mc1.21.2
+	- geophilic 3.1.5
+	- glitchcore 2.2.0.5
+	   \-- net_jodah_typetools 0.6.3
+	- harvest_with_ease 9.4.0
+	- healingcampfire 6.1
+	- htm 1.1.14
+	   |-- common-protection-api 1.0.0
+	   \-- server_translations_api 2.4.0+1.21.2-rc1
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- iamsteve 1.0.0
+	- image2map 0.8.0+1.21.3
+	   |-- map-canvas-api 0.5.0+1.21.3
+	   \-- sgui 1.7.2+1.21.2
+	- incendium 5.4.3
+	- java 21
+	- kleeslabs 21.3.1
+	- ksyxis 1.3.2
+	- leavesbegone 21.3.0
+	- letmedespawn 1.4.4
+	- lithium 0.14.3+mc1.21.3
+	- lithostitched 1.3.5
+	- minecraft 1.21.3
+	- moretools 1.8.0+1.21.3
+	- mr_lukis_grandcapitals 1.1.1
+	- mr_vanilla_refresh 1.4.26c
+	- nohostilesaroundcampfire 7.1
+	- noisium 2.4.0+mc1.21.2-1.21.3
+	- nullscape 1.2.10
+	- onlyhammersandexcavators 1.21.3-0.1
+	- owo 0.12.18+1.21.2
+	   |-- blue_endless_jankson 1.2.2
+	   |-- io_wispforest_endec 0.1.9
+	   |-- io_wispforest_endec_gson 0.1.6
+	   |-- io_wispforest_endec_jankson 0.1.6
+	   \-- io_wispforest_endec_netty 0.1.5
+	- polymer-bundled 0.10.2+1.21.3
+	   |-- polymer-autohost 0.10.2+1.21.3
+	   |    \-- io_netty_netty-codec-http 4.1.82
+	   |-- polymer-blocks 0.10.2+1.21.3
+	   |-- polymer-common 0.10.2+1.21.3
+	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |-- polymer-core 0.10.2+1.21.3
+	   |    |-- polymer-networking 0.10.2+1.21.3
+	   |    |    \-- polymer-common 0.10.2+1.21.3
+	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   |    \-- polymer-registry-sync-manipulator 0.10.2+1.21.3
+	   |-- polymer-resource-pack 0.10.2+1.21.3
+	   |    \-- polymer-common 0.10.2+1.21.3
+	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	   \-- polymer-virtual-entity 0.10.2+1.21.3
+	        \-- polymer-common 0.10.2+1.21.3
+	             \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- puzzleslib 21.3.16
+	- readyplayerfun 3.0.0.0
+	   \-- spectrelib 0.17.2+1.21
+	- scarecrowsterritory 1.1.11
+	- sereneseasons 10.2.0.1
+	   \-- net_jodah_typetools 0.6.3
+	- servux 0.4.3
+	- sit-oth3r 1.2.1+1.21.3
+	- skeletonhorsespawn 4.0
+	- stackable 1.3.1
+	- styledplayerlist 3.6.0+1.21.2
+	   |-- placeholder-api 2.5.0+1.21.2
+	   |-- player-data-api 0.6.0+1.21
+	   \-- predicate-api 0.6.0+1.21.2
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.18
+	- tms 1.2.2
+	- toms_mobs 2.1.3+1.21.2
+	   \-- bil 1.1.12+1.21.2
+	- universal-graves 3.5.0+1.21.2
+	   |-- common-protection-api 1.0.0
+	   |-- placeholder-api 2.5.0+1.21.2
+	   |-- predicate-api 0.6.0+1.21.2
+	   \-- server_translations_api 2.4.0+1.21.2-rc1
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- villagernames 8.1
+	- waystones 21.3.3
+	- zombiehorsespawn 5.1
+[02:51:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:51:32] [main/INFO]: Compatibility level set to JAVA_21
+[02:51:33] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Invalid type for config 'Bigger radius bookshelf for enchanting table' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config '1 tick delay copper bulb' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Backup Enchantments' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Bundle's Enchantment' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Banner trophies' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Bonemeal small flowers' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Bonemeal coral fan/block' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Day counter' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Deepslate generator' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Glow berry gives glow effect' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Wash filled map with Cauldron' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Invisible item frame' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Click through sign/itemframe' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Faster minecart' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Faster oxidization' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Sneak through sweet berry' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'No level limit anvil' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Prevent farmland trampling' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Torch burns target' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'No set spawn on sleep' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Sleep doesn't skip weather' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Shulker label' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Usable suspicious block' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'XP crops' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Wet sponge dry in warm biome' in category 'general'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Bundle place function' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Check Villagers schedule' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Clock shows current time' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Hoe harvests crops' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Mace rotate blocks' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Trident can call thunder storm' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Shear can pickpocket villager' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Shear can defuse TNT' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Shear prevents plant from growing' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Spyglass what is that?' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Waxed copper indicator' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Slime chunk detector' in category 'item'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config '9 lives cat' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Baby nametag' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Silent nametag' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Brushable parrot/chicken' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Chicken egg try hatch on despawn' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Explosive sniffer' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Sniffer sniff moss block' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Fox bury items' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Pat you pets' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Piglin treats golden trimmed armor as golden armor' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Horse can seat on boat' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'No tamed horse wandering' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Rabbit breed after eats carrot crops' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Random size fishes/squid' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Smaller bee' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Snow Golem produces powder snow' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Wandering trader announcer' in category 'entity'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Suspicious sand/gravel recipe' in category 'recipe'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Hydrophobic elytra' in category 'cursed'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'End stone is cheese' in category 'cursed'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Reverse phantom spawn condition' in category 'cursed'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Enable permission system' in category 'command'. Override with default value...
+[02:51:33] [main/WARN]: Invalid type for config 'Emote commands' in category 'command'. Override with default value...
+[02:51:33] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[02:51:33] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[02:51:33] [main/INFO]: Loaded configuration file for Lithium: 140 options available, 1 override(s) found
+[02:51:33] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:51:33] [main/WARN]: Error loading class: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders (java.lang.ClassNotFoundException: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders)
+[02:51:33] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
+[02:51:33] [main/WARN]: @Mixin target net.minecraft.class_634 was not found iamsteve.mixins.json:ChatMessageMixin from mod iamsteve
+[02:51:34] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[02:51:34] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[02:51:34] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[02:51:34] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[02:51:34] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[02:51:34] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[02:51:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[02:51:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:51:38] [main/WARN]: @Final field field_36535:Ljava/util/List; in diversity.mixins.json:general.enchantTableAcceptFurtherBookshelf.EnchantingTableBlockMixin from mod diversity should be final
+[02:51:44] [main/INFO]: AfkPlus-1.21.3-1.7.4
+[02:51:44] [main/INFO]: Author: sakura-ryoko
+[02:51:44] [main/INFO]: Description: Show which players are afk in the player list
+[02:51:44] [main/INFO]: loadEach(): Config defaults for [./afkplus.json]
+[02:51:45] [main/INFO]: Loading Collective version 7.89.
+[02:51:45] [main/INFO]: Loading
+[02:51:45] [main/INFO]: Register commands...
+[02:51:45] [main/INFO]: Register events...
+[02:51:45] [main/INFO]: Init done
+[02:51:45] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[02:51:45] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[02:51:45] [main/INFO]: Registering sounds
+[02:51:45] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[02:51:45] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[02:51:45] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
+[02:51:45] [main/INFO]: Constructing common components for leavesbegone:main
+[02:51:45] [main/INFO]: MoreColorAPI-1.21.3-0.2.2-SNAPSHOT
+[02:51:45] [main/INFO]: Author: sakura-ryoko
+[02:51:45] [main/INFO]: Description: Add additional colors for Text Placeholder API
+[02:51:45] [main/INFO]: loadEach(): Config defaults for [more-color-api/more-color-api.json]
+[02:51:45] [main/INFO]: MoreTools loaded!
+[02:51:45] [main/INFO]: Loading Noisium.
+[02:51:45] [main/INFO]: Config 'onlyhammersandexcavators' is missing, generating default one...
+[02:51:45] [main/INFO]: [STDOUT]: All 20 have been set properly
+[02:51:45] [main/INFO]: Registering Item Groups for onlyhammersandexcavators
+[02:51:45] [main/INFO]: forge?
+[02:51:45] [main/INFO]: Constructing common components for puzzleslib:main
+[02:51:45] [main/INFO]: Creating new `server-config.json`
+[02:51:45] [main/INFO]: Creating new `sitting-config.json`
+[02:51:45] [main/INFO]: Got a maximum stack size of 2147483647
+[02:51:45] [main/INFO]: Configured to: 128
+[02:51:46] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[02:51:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:51:48] [main/INFO]: No existing world data, creating new world
+[02:51:50] [main/INFO]: Loaded 1490 recipes
+[02:51:50] [main/INFO]: Loaded 1820 advancements
+[02:51:50] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 141 translation keys
+[02:51:50] [main/INFO]: Applied 244 biome modifications to 74 of 75 new biomes in 20.68 ms
+[02:51:50] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
+[02:51:50] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:51:50] [Server thread/INFO]: Loading properties
+[02:51:50] [Server thread/INFO]: Default game type: SURVIVAL
+[02:51:50] [Server thread/INFO]: Generating keypair
+[02:51:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:51:50] [Server thread/INFO]: Using epoll channel type
+[02:51:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:51:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:51:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:51:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:51:51] [Server thread/INFO]: Preparing level "world"
+[02:51:57] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[02:51:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:51:57] [Server thread/INFO]: Time elapsed: 2 ms
+[02:51:57] [Server thread/INFO]: Done (6.795s)! For help, type "help"
+[02:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
+[02:53:00] [Server thread/INFO]: pause-when-empty-seconds rule set, pausing server at 1199, 25199
+[02:53:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:53:28] [Server thread/INFO]: iam[/127.204.221.6:54767] logged in with entity id 49 at (611.5, 84.0, -477.5)
+[02:53:28] [Server thread/INFO]: iam joined the game
+[02:53:28] [Server thread/INFO]: Unpausing server: onPlayerLogin, 0:00:27 at 1199, 25199
+[02:53:28] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[02:53:36] [Server thread/INFO]: Received custom sitting settings from iam!
+[02:53:36] [Server thread/INFO]: Enabling client-side enhancements for player: iam
+[02:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8158ms or 163 ticks behind
+[02:58:17] [Server thread/INFO]: [Not Secure] <iam> i am steve
+[02:58:33] [Server thread/INFO]: [Not Secure] <iam> iam steve
+[02:58:37] [Server thread/INFO]: [Not Secure] <iam> i am steve
+[02:58:55] [Server thread/INFO]: Made iam a server operator
+[02:59:01] [Server thread/INFO]: [Not Secure] [Server] i am steve
+[02:59:09] [Server thread/INFO]: [iam: Set own game mode to Creative Mode]
+[02:59:37] [Server thread/WARN]: iam moved too quickly! 0.07743547728659905,0.0,-10.553112516639544
+[03:00:20] [Server thread/WARN]: iam moved too quickly! 4.031922518151987,-4.7248417075728355,-7.85717281840914
+[03:00:25] [Worker-Main-1/WARN]: Couldn't find template pool reference: revampedvillages:outpost/points
+[03:00:58] [Server thread/WARN]: iam moved too quickly! 9.665539739356632,0.0,2.9834047529232066
+[03:01:49] [Server thread/WARN]: iam moved too quickly! -7.98435176284886,2.109723374334564,6.811481931567414
+[03:02:34] [Server thread/WARN]: iam moved too quickly! -0.45304815490487726,3.374905881169525,9.613808836632302
+[03:07:03] [Server thread/WARN]: iam moved too quickly! 3.8663056711807258,1.7007968010235857,9.562918940592112
+[03:07:06] [Server thread/WARN]: iam moved too quickly! 1.23289562121181,-10.238864037758347,1.6403333085631857

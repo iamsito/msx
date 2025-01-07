@@ -1,0 +1,5 @@
+[Server]
+	#Show status message on first player login after server unpaused.
+	enableWelcomeMessage = true
+	#Welcome message users see when joining. '%' is variable for the time elapsed.
+	welcomeMessage = "Welcome back! Server resumed after %s."

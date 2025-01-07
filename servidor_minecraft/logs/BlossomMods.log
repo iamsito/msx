@@ -1,0 +1,5 @@
+[2025-01-07 02:51:33] [main/ INFO] (BlossomLib): BlossomLib mixins loading
+[2025-01-07 02:51:43] [main/TRACE] (BlossomLib): register config manager BlossomTpa.json
+[2025-01-07 02:51:43] [main/TRACE] (BlossomLib): loading config BlossomTpa.json
+[2025-01-07 02:51:43] [main/TRACE] (BlossomLib): saving config BlossomTpa.json
+[2025-01-07 02:51:45] [main/ INFO] (BlossomLib): BlossomLib has starting
