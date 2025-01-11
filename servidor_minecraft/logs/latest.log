@@ -1,357 +1,107 @@
-[19:25:13] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[19:25:13] [ForkJoinPool-1-worker-4/WARN]: Mod mr_vanilla_refresh uses the version 1.4.26c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '26c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[19:25:14] [main/WARN]: Warnings were found!
- - Mod 'Forge Config API Port' (forgeconfigapiport) 21.3.2 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
-[19:25:14] [main/INFO]: Loading 152 mods:
-	- afkplus 1.7.4
-	   |-- com_moandjiezana_toml_toml4j 0.7.2
-	   |-- corelib 0.2.2-SNAPSHOT
-	   |-- fabric-api-base 0.4.50+119c825640
-	   |-- fabric-resource-loader-v0 3.0.6+fd37071f40
-	   \-- more-color-api 0.2.2-SNAPSHOT
-	        \-- corelib 0.2.2-SNAPSHOT
-	- almanac 1.4.4
-	- appleskin 3.0.6+mc1.21.3
-	- babiesforever 1.2.0
-	- balm-fabric 21.3.5
-	   \-- kuma_api 21.3.3
-	- blossom-lib 2.5.11+1.21.4
-	   \-- server_translations_api 2.4.0+1.21.2-rc1
-	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	- blossom-tpa 2.2.7+1.21.4
-	- carryon 2.2.3
-	- cloth-config 16.0.143
-	   \-- cloth-basic-math 0.6.1
-	- cobweb 1.3.0
-	- collective 7.89
-	- connected-doors 1.3+1.21.2
-	- ctov 3.5.4
-	- day_dream 1.0.13
-	- diversity 2.2.1
-	- elevatorid 1.21.3-1.13.1
-	   \-- forgeconfigapiport 21.3.2
-	        |-- com_electronwill_night-config_core 3.8.1
-	        \-- com_electronwill_night-config_toml 3.8.1
-	- fabric-api 0.114.0+1.21.3
-	   |-- fabric-api-lookup-api-v1 1.6.81+fd37071f40
-	   |-- fabric-biome-api-v1 14.0.7+add2a48640
-	   |-- fabric-block-api-v1 1.0.28+fd37071f40
-	   |-- fabric-block-view-api-v2 1.0.16+fd37071f40
-	   |-- fabric-blockrenderlayer-v1 2.0.4+fd37071f40
-	   |-- fabric-client-tags-api-v1 1.1.25+a730659c40
-	   |-- fabric-command-api-v1 1.2.58+f71b366f40
-	   |-- fabric-command-api-v2 2.2.37+c9d82ab240
-	   |-- fabric-commands-v0 0.2.75+df3654b340
-	   |-- fabric-content-registries-v0 9.1.8+fd37071f40
-	   |-- fabric-convention-tags-v1 2.1.4+7f945d5b40
-	   |-- fabric-convention-tags-v2 2.9.4+129f0c1f40
-	   |-- fabric-crash-report-info-v1 0.3.3+fd37071f40
-	   |-- fabric-data-attachment-api-v1 1.4.0+dbad41f140
-	   |-- fabric-data-generation-api-v1 21.1.2+a730659c40
-	   |-- fabric-dimensions-v1 4.0.7+fd37071f40
-	   |-- fabric-entity-events-v1 2.0.8+825023f840
-	   |-- fabric-events-interaction-v0 2.0.12+c2c3ac4740
-	   |-- fabric-game-rule-api-v1 1.0.59+fd37071f40
-	   |-- fabric-item-api-v1 11.1.7+fd37071f40
-	   |-- fabric-item-group-api-v1 4.1.17+fd37071f40
-	   |-- fabric-key-binding-api-v1 1.0.53+fd37071f40
-	   |-- fabric-keybindings-v0 0.2.51+df3654b340
-	   |-- fabric-lifecycle-events-v1 2.5.1+6da5ef6940
-	   |-- fabric-loot-api-v2 3.0.26+3f89f5a540
-	   |-- fabric-loot-api-v3 1.0.14+fd37071f40
-	   |-- fabric-message-api-v1 6.0.21+fd37071f40
-	   |-- fabric-model-loading-api-v1 3.0.9+fd37071f40
-	   |-- fabric-networking-api-v1 4.3.5+fd37071f40
-	   |-- fabric-object-builder-api-v1 17.0.9+fd37071f40
-	   |-- fabric-particles-v1 4.0.10+fd37071f40
-	   |-- fabric-recipe-api-v1 7.0.5+8ea69ff840
-	   |-- fabric-registry-sync-v0 5.4.1+3f3c499540
-	   |-- fabric-renderer-api-v1 4.0.5+fd37071f40
-	   |-- fabric-renderer-indigo 1.9.5+fd37071f40
-	   |-- fabric-rendering-data-attachment-v1 0.3.54+73761d2e40
-	   |-- fabric-rendering-fluids-v1 3.1.15+fd37071f40
-	   |-- fabric-rendering-v0 1.1.84+df3654b340
-	   |-- fabric-rendering-v1 8.0.8+6922831640
-	   |-- fabric-resource-conditions-api-v1 5.0.8+fd37071f40
-	   |-- fabric-screen-api-v1 2.0.34+fd37071f40
-	   |-- fabric-screen-handler-api-v1 1.3.103+fd37071f40
-	   |-- fabric-sound-api-v1 1.0.29+fd37071f40
-	   |-- fabric-tag-api-v1 1.0.0+a730659c40
-	   |-- fabric-transfer-api-v1 5.4.3+cb44d14340
-	   \-- fabric-transitive-access-wideners-v1 6.2.0+54a41b1c40
-	- fabric-language-kotlin 1.13.0+kotlin.2.1.0
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.0
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.26.1
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.9.0
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.6.0
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.6.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.7.3
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.7.3
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.7.3
-	- fabric-permissions-api-v0 0.3.3
-	- fabricloader 0.16.9
-	   \-- mixinextras 0.4.1
-	- fallingtree 1.21.3.3
-	- fence_on_slab 1.0.0+mc1.21.3
-	- followersteleporttoo 2.6
-	- fsit 2.7.3+mc1.21.2
-	- geophilic 3.1.5
-	- glitchcore 2.2.0.5
-	   \-- net_jodah_typetools 0.6.3
-	- harvest_with_ease 9.4.0
-	- healingcampfire 6.1
-	- htm 1.1.14
-	   |-- common-protection-api 1.0.0
-	   \-- server_translations_api 2.4.0+1.21.2-rc1
-	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	- iamsteve 1.0.0
-	- image2map 0.8.0+1.21.3
-	   |-- map-canvas-api 0.5.0+1.21.3
-	   \-- sgui 1.7.2+1.21.2
-	- incendium 5.4.3
-	- java 21
-	- kleeslabs 21.3.1
-	- ksyxis 1.3.2
-	- leavesbegone 21.3.0
-	- letmedespawn 1.4.4
-	- lithium 0.14.3+mc1.21.3
-	- lithostitched 1.3.5
-	- minecraft 1.21.3
-	- moretools 1.8.0+1.21.3
-	- mr_lukis_grandcapitals 1.1.1
-	- mr_vanilla_refresh 1.4.26c
-	- nohostilesaroundcampfire 7.1
-	- noisium 2.4.0+mc1.21.2-1.21.3
-	- nullscape 1.2.10
-	- onlyhammersandexcavators 1.21.3-0.1
-	- owo 0.12.18+1.21.2
-	   |-- blue_endless_jankson 1.2.2
-	   |-- io_wispforest_endec 0.1.9
-	   |-- io_wispforest_endec_gson 0.1.6
-	   |-- io_wispforest_endec_jankson 0.1.6
-	   \-- io_wispforest_endec_netty 0.1.5
-	- polymer-bundled 0.10.2+1.21.3
-	   |-- polymer-autohost 0.10.2+1.21.3
-	   |    \-- io_netty_netty-codec-http 4.1.82
-	   |-- polymer-blocks 0.10.2+1.21.3
-	   |-- polymer-common 0.10.2+1.21.3
-	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |-- polymer-core 0.10.2+1.21.3
-	   |    |-- polymer-networking 0.10.2+1.21.3
-	   |    |    \-- polymer-common 0.10.2+1.21.3
-	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |    \-- polymer-registry-sync-manipulator 0.10.2+1.21.3
-	   |-- polymer-resource-pack 0.10.2+1.21.3
-	   |    \-- polymer-common 0.10.2+1.21.3
-	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   \-- polymer-virtual-entity 0.10.2+1.21.3
-	        \-- polymer-common 0.10.2+1.21.3
-	             \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	- puzzleslib 21.3.16
-	- readyplayerfun 3.0.0.0
-	   \-- spectrelib 0.17.2+1.21
-	- scarecrowsterritory 1.1.11
-	- sereneseasons 10.2.0.1
-	   \-- net_jodah_typetools 0.6.3
-	- servux 0.4.3
-	- sit-oth3r 1.2.1+1.21.3
-	- skeletonhorsespawn 4.0
-	- skinrestorer 2.2.1+1.21-fabric
-	   \-- org_mineskin_java-client 3.0.1-SNAPSHOT
-	- stackable 1.3.1
-	- styledplayerlist 3.6.0+1.21.2
-	   |-- placeholder-api 2.5.0+1.21.2
-	   |-- player-data-api 0.6.0+1.21
-	   \-- predicate-api 0.6.0+1.21.2
-	- supermartijn642configlib 1.1.8
-	- supermartijn642corelib 1.1.18
-	- tms 1.2.2
-	- toms_mobs 2.1.3+1.21.2
-	   \-- bil 1.1.12+1.21.2
-	- universal-graves 3.5.0+1.21.2
-	   |-- common-protection-api 1.0.0
-	   |-- placeholder-api 2.5.0+1.21.2
-	   |-- predicate-api 0.6.0+1.21.2
-	   \-- server_translations_api 2.4.0+1.21.2-rc1
-	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	- villagernames 8.1
-	- waystones 21.3.3
-	- zombiehorsespawn 5.1
-[19:25:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/msx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:25:14] [main/INFO]: Compatibility level set to JAVA_21
-[19:25:14] [main/WARN]: Reference map '[common]ctov-common-refmap.json' for ctov-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'kleeslabs.refmap.json' for kleeslabs.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/WARN]: Reference map 'leavesbegone.fabric.refmap.json' for leavesbegone.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:14] [main/INFO]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
-[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
-[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
-[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
-[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
-[19:25:14] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
-[19:25:14] [main/INFO]: Loaded configuration file for Lithium: 140 options available, 1 override(s) found
-[19:25:15] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:15] [main/WARN]: Error loading class: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders (java.lang.ClassNotFoundException: fuzs/iteminteractions/impl/world/item/container/ItemContentsProviders)
-[19:25:15] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
-[19:25:15] [main/WARN]: @Mixin target net.minecraft.class_634 was not found iamsteve.mixins.json:ChatMessageMixin from mod iamsteve
-[19:25:15] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[19:25:15] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[19:25:15] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[19:25:15] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[19:25:15] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[19:25:15] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[19:25:16] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[19:25:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:25:20] [main/WARN]: @Final field field_36535:Ljava/util/List; in diversity.mixins.json:general.enchantTableAcceptFurtherBookshelf.EnchantingTableBlockMixin from mod diversity should be final
-[19:25:25] [main/INFO]: AfkPlus-1.21.3-1.7.4
-[19:25:25] [main/INFO]: Author: sakura-ryoko
-[19:25:25] [main/INFO]: Description: Show which players are afk in the player list
-[19:25:25] [main/INFO]: loadEach(): Read config for [config/afkplus.json]
-[19:25:26] [main/INFO]: Loading Collective version 7.89.
-[19:25:26] [main/INFO]: Loading
-[19:25:26] [main/INFO]: Register commands...
-[19:25:26] [main/INFO]: Register events...
-[19:25:26] [main/INFO]: Init done
-[19:25:26] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[19:25:26] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[19:25:26] [main/INFO]: Registering sounds
-[19:25:26] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
-[19:25:26] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
-[19:25:26] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it.
-[19:25:26] [main/INFO]: Constructing common components for leavesbegone:main
-[19:25:26] [main/INFO]: MoreColorAPI-1.21.3-0.2.2-SNAPSHOT
-[19:25:26] [main/INFO]: Author: sakura-ryoko
-[19:25:26] [main/INFO]: Description: Add additional colors for Text Placeholder API
-[19:25:26] [main/INFO]: loadEach(): Read config for [config/more-color-api.json]
-[19:25:26] [main/INFO]: MoreTools loaded!
-[19:25:26] [main/INFO]: Loading Noisium.
-[19:25:26] [main/INFO]: [STDOUT]: All 20 have been set properly
-[19:25:26] [main/INFO]: Registering Item Groups for onlyhammersandexcavators
-[19:25:26] [main/INFO]: There is a 1% chance that instead of Frog, you get Froge!
-[19:25:26] [main/INFO]: Constructing common components for puzzleslib:main
-[19:25:27] [main/INFO]: Got a maximum stack size of 2147483647
-[19:25:27] [main/INFO]: Configured to: 128
-[19:25:27] [main/INFO]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[19:25:28] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:25:31] [main/INFO]: Loaded 1490 recipes
-[19:25:31] [main/INFO]: Loaded 1820 advancements
-[19:25:31] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 141 translation keys
-[19:25:31] [main/INFO]: Applied 244 biome modifications to 74 of 75 new biomes in 18.89 ms
-[19:25:31] [Server thread/INFO]: Dispatching loading event for config leavesbegone-server.toml
-[19:25:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[19:25:31] [Server thread/INFO]: Loading properties
-[19:25:31] [Server thread/INFO]: Default game type: SURVIVAL
-[19:25:31] [Server thread/INFO]: Generating keypair
-[19:25:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:25:31] [Server thread/INFO]: Using epoll channel type
-[19:25:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:25:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:25:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:25:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:25:31] [Server thread/INFO]: Preparing level "world"
-[19:25:32] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
-[19:25:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:25:32] [Server thread/INFO]: Time elapsed: 86 ms
-[19:25:32] [Server thread/INFO]: Done (0.702s)! For help, type "help"
-[19:26:32] [Server thread/INFO]: pause-when-empty-seconds rule set, pausing server at 77831, 118483
-[19:26:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:27:07] [ForkJoinPool.commonPool-worker-2/WARN]: Failed to fetch skin: not found
-[19:27:13] [Server thread/INFO]: Marcus_988[/127.14.94.31:53077] logged in with entity id 44 at (901.6135061394594, 120.0, -416.3626924085564)
-[19:27:13] [Server thread/INFO]: Marcus_988 joined the game
-[19:27:13] [Server thread/INFO]: Unpausing server: onPlayerLogin, 0:00:41 at 77831, 118483
-[19:27:14] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
-[19:27:14] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
-[19:27:14] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
-[19:27:38] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[19:27:42] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:27:50] [Server thread/INFO]: [Not Secure] <Marcus_988> iam steve
-[19:28:00] [Server thread/INFO]: [Not Secure] <Marcus_988> te unes o no?
-[19:28:06] [Server thread/INFO]: [Not Secure] [Server] me resingo en el tlauncher
-[19:28:13] [Server thread/INFO]: [Not Secure] <Marcus_988> te unes o no?
-[19:28:15] [Server thread/INFO]: [Not Secure] [Server] se esta descargando algo ahora
-[19:28:37] [Server thread/INFO]: [Not Secure] [Server] entro cuando se me termine de descargar la cagalera esta
-[19:28:41] [Server thread/INFO]: Marcus_988 lost connection: Disconnected
-[19:28:41] [Server thread/INFO]: Marcus_988 left the game
-[19:28:48] [ForkJoinPool.commonPool-worker-2/WARN]: Failed to fetch skin: not found
-[19:28:51] [Server thread/INFO]: Marcus_988[/127.130.37.65:56513] logged in with entity id 638 at (915.1535966143015, 120.0, -421.5007401831679)
-[19:28:51] [Server thread/INFO]: Marcus_988 joined the game
-[19:28:51] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
-[19:28:52] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
-[19:29:03] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:29:07] [Server thread/INFO]: [Not Secure] [Server] hola
-[19:29:07] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:29:12] [Server thread/INFO]: [Not Secure] [Server] a
-[19:29:19] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:29:34] [Server thread/INFO]: [Not Secure] <Marcus_988> cuanto te demoras?
-[19:29:44] [Server thread/INFO]: [Not Secure] [Server] son 86mb
-[19:29:54] [Server thread/INFO]: [Not Secure] [Server] y va por 41
-[19:30:05] [Server thread/INFO]: [Not Secure] [Server] pokito
-[19:30:12] [Server thread/INFO]: [Not Secure] [Server] i am steve
-[19:30:15] [Server thread/INFO]: Marcus_988 lost connection: Disconnected
-[19:30:15] [Server thread/INFO]: Marcus_988 left the game
-[19:31:10] [ForkJoinPool.commonPool-worker-2/WARN]: Failed to fetch skin: not found
-[19:31:15] [Server thread/INFO]: Marcus_988[/127.14.94.31:43195] logged in with entity id 1217 at (903.5817999460211, 120.0, -409.7351461230566)
-[19:31:15] [Server thread/INFO]: Marcus_988 joined the game
-[19:31:15] [Server thread/INFO]: Received custom sitting settings from Marcus_988!
-[19:31:15] [Server thread/INFO]: Enabling client-side enhancements for player: Marcus_988
-[19:31:22] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:31:28] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:31:41] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:32:07] [Server thread/INFO]: [Not Secure] <Marcus_988> te tengo un regalo
-[19:32:22] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:32:28] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:33:03] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:33:06] [Server thread/INFO]: Incorrect argument for command
-[19:33:06] [Server thread/INFO]: ...arcus_988 903 125 -409[D<--[HERE]
-[19:33:19] [Server thread/INFO]: Teleported Marcus_988 to 903.500000, 125.000000, -408.500000
-[19:33:22] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:33:37] [Server thread/INFO]: [Not Secure] [Server] jijijj
-[19:33:40] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:33:47] [Server thread/INFO]: [Not Secure] <Marcus_988> a
-[19:33:49] [Server thread/INFO]: [Not Secure] [Server] sex
-[19:33:53] [Server thread/INFO]: [Not Secure] <Marcus_988> i am steve
-[19:33:54] [Server thread/INFO]: [Not Secure] [Server] uuuuuuuuuuuuuuuuuuuuuuuuu
-[19:34:11] [Server thread/INFO]: [Not Secure] <Marcus_988> pp i si pones algun mod porno o algo asi
-[19:34:15] [Server thread/INFO]: [Not Secure] <Marcus_988> a mi me sirve
-[19:34:30] [Server thread/INFO]: [Not Secure] <Marcus_988> ve
-[19:34:32] [Server thread/INFO]: [Not Secure] <Marcus_988> o
-[19:34:38] [Server thread/INFO]: [Not Secure] [Server] pp tendria que buscar a ver si hay algun mod porno para esta version
-[19:34:47] [Server thread/INFO]: [Not Secure] <Marcus_988> busca busca
-[19:34:50] [Server thread/INFO]: [Not Secure] <Marcus_988> pero unete ya
-[19:35:04] [Server thread/INFO]: [Not Secure] [Server] pp se me puso a descargar otra pi ga
-[19:35:10] [Server thread/INFO]: [Not Secure] <Marcus_988> ño asere
-[19:35:26] [Server thread/INFO]: [Not Secure] [Server] pp no importa 
-[19:35:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:35:33] [Server thread/INFO]: voy buscando mientras tanto mas mods pa ponerle al server<--[HERE]
-[19:35:46] [Server thread/INFO]: [Not Secure] [Server] voy buiscando mientras tanto mas mods pa poner
-[19:35:52] [Server thread/INFO]: [Not Secure] <Marcus_988> porno
-[19:38:28] [Server thread/INFO]: [Not Secure] <Marcus_988> encontraste algo?
-[19:39:01] [Server thread/INFO]: [Not Secure] [Server] pp no
-[19:39:12] [Server thread/INFO]: [Not Secure] [Server] es que esta version como es muy nueva no tiene muchos mods
-[19:39:25] [Server thread/INFO]: [Not Secure] [Server] y ademas estamos en fabric, que la mayoria de mods no son muy espectaculares
-[19:39:30] [Server thread/INFO]: [Not Secure] <Marcus_988> pp pero seguro que alguno ya tendra no?
-[19:39:33] [Server thread/INFO]: [Not Secure] [Server] a diferencia de los de forge
-[19:39:50] [Server thread/INFO]: [Not Secure] [Server] pp los mods porno esos estan en versiones mas viejas
-[19:39:57] [Server thread/INFO]: [Not Secure] [Server] como la 1.18
-[19:40:04] [Server thread/INFO]: [Not Secure] <Marcus_988> :(
-[19:40:06] [Server thread/INFO]: [Not Secure] [Server] la 1.12, la 1.16
-[19:40:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:40:17] [Server thread/INFO]: tambien podemos jugar en esas versiones<--[HERE]
-[19:40:25] [Server thread/INFO]: [Not Secure] [Server] tambien podemos jugar en esas versiones
-[19:40:27] [Server thread/INFO]: [Not Secure] <Marcus_988> ya te unes?
-[19:40:36] [Server thread/INFO]: [Not Secure] <Marcus_988> yo tengo la 16.5
-[19:40:40] [Server thread/INFO]: [Not Secure] <Marcus_988> y la 21
-[19:43:48] [Server thread/INFO]: [Not Secure] <Marcus_988> pp
-[19:43:59] [Server thread/INFO]: [Not Secure] <Marcus_988> creo q hay un jenny mod en la 1.21
-[19:45:03] [Server thread/INFO]: [Not Secure] <Marcus_988> iam
-[19:45:06] [Server thread/INFO]: [Not Secure] <Marcus_988> unete veo
+[11Jan2025 19:55:03.226] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11Jan2025 19:55:03.229] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[11Jan2025 19:55:03.310] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/msx/servidor_minecraft/config/fml.toml is not correct. Correcting
+[11Jan2025 19:55:03.312] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[11Jan2025 19:55:03.312] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[11Jan2025 19:55:03.313] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[11Jan2025 19:55:03.313] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[11Jan2025 19:55:03.326] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11Jan2025 19:55:03.402] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/msx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11Jan2025 19:55:03.615] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jan2025 19:55:03.617] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jan2025 19:55:03.661] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jan2025 19:55:03.662] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11Jan2025 19:55:03.741] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[11Jan2025 19:55:05.033] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Jan2025 19:55:10.405] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11Jan2025 19:55:10.408] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11Jan2025 19:55:10.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jan2025 19:55:11.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[11Jan2025 19:55:12.032] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Jan2025 19:55:12.072] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[11Jan2025 19:55:12.072] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[11Jan2025 19:55:13.705] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[11Jan2025 19:55:13.841] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[11Jan2025 19:55:14.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[11Jan2025 19:55:14.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jan2025 19:55:14.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jan2025 19:55:14.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jan2025 19:55:14.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jan2025 19:55:14.552] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jan2025 19:55:14.642] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jan2025 19:55:14.643] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jan2025 19:55:14.643] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jan2025 19:55:14.643] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jan2025 19:55:14.670] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[11Jan2025 19:55:14.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[11Jan2025 19:55:14.671] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[11Jan2025 19:55:14.672] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[11Jan2025 19:55:14.672] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[11Jan2025 19:55:14.673] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[11Jan2025 19:55:14.673] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[11Jan2025 19:55:14.673] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[11Jan2025 19:55:14.674] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[11Jan2025 19:55:14.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jan2025 19:55:20.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jan2025 19:55:21.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 19:55:21.554] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 19:55:21.968] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 19:55:22.129] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 19:55:22.673] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 19:55:23.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 19:55:23.614] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[11Jan2025 19:55:24.116] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[11Jan2025 19:55:24.630] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[11Jan2025 19:55:25.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[11Jan2025 19:55:25.613] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[11Jan2025 19:55:26.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[11Jan2025 19:55:26.611] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[11Jan2025 19:55:27.110] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[11Jan2025 19:55:27.609] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[11Jan2025 19:55:28.108] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
+[11Jan2025 19:55:28.606] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[11Jan2025 19:55:29.109] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[11Jan2025 19:55:29.605] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[11Jan2025 19:55:30.105] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[11Jan2025 19:55:30.606] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[11Jan2025 19:55:31.104] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[11Jan2025 19:55:31.625] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[11Jan2025 19:55:32.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[11Jan2025 19:55:32.605] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[11Jan2025 19:55:33.104] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
+[11Jan2025 19:55:33.606] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[11Jan2025 19:55:34.136] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[11Jan2025 19:55:34.620] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[11Jan2025 19:55:35.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[11Jan2025 19:55:35.604] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[11Jan2025 19:55:36.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[11Jan2025 19:55:36.604] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[11Jan2025 19:55:37.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
+[11Jan2025 19:55:37.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[11Jan2025 19:55:38.109] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[11Jan2025 19:55:38.609] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[11Jan2025 19:55:39.106] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
+[11Jan2025 19:55:39.624] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[11Jan2025 19:55:40.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[11Jan2025 19:55:40.605] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[11Jan2025 19:55:41.104] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[11Jan2025 19:55:41.613] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[11Jan2025 19:55:42.104] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[11Jan2025 19:55:42.612] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[11Jan2025 19:55:43.124] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
+[11Jan2025 19:55:43.611] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[11Jan2025 19:55:44.122] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[11Jan2025 19:55:44.606] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[11Jan2025 19:55:45.105] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[11Jan2025 19:55:45.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[11Jan2025 19:55:46.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[11Jan2025 19:55:46.588] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 25985 ms
+[11Jan2025 19:55:46.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (31.928s)! For help, type "help"
+[11Jan2025 19:55:46.605] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jan2025 19:58:18.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b59df8d[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.191.16.189:46721) lost connection: Disconnected
+[11Jan2025 19:59:46.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] gays
+[11Jan2025 20:00:29.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@321da9b7[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.16.181.252:41899) lost connection: Disconnected
+[11Jan2025 20:00:50.255] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e671c95[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.16.181.252:36213) lost connection: Disconnected
+[11Jan2025 20:01:07.455] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6352ec60[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.191.16.189:55151) lost connection: Disconnected
+[11Jan2025 20:01:11.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26d74778[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.16.181.252:33723) lost connection: Disconnected
+[11Jan2025 20:04:24.305] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@606b93c0[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.191.16.189:39163) lost connection: Disconnected
