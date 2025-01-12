@@ -917,3 +917,57 @@
 [12Jan2025 20:27:35.270] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [12Jan2025 20:28:51.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b10240b[id=<null>,name=iam,properties={},legacy=false] (/127.181.106.146:51411) lost connection: Disconnected
 [12Jan2025 20:32:09.479] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6442c07e[id=<null>,name=iam,properties={},legacy=false] (/127.181.106.146:55033) lost connection: Disconnected
+[12Jan2025 20:37:59.417] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ad_astra:main] rejected their client side version number
+[12Jan2025 20:37:59.418] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jan2025 20:37:59.429] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60060cef[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.225:42309) lost connection: Connection closed - mismatched mod channel list
+[12Jan2025 20:38:05.979] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@65a0a9cd[id=<null>,name=iam,properties={},legacy=false] (/127.181.106.146:33713): Took too long to log in
+[12Jan2025 20:38:05.980] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65a0a9cd[id=<null>,name=iam,properties={},legacy=false] (/127.181.106.146:33713) lost connection: Took too long to log in
+[12Jan2025 20:38:06.029] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jan2025 20:38:16.937] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ad_astra:main] rejected their client side version number
+[12Jan2025 20:38:16.938] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[12Jan2025 20:38:16.979] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14f0a57[id=<null>,name=iam,properties={},legacy=false] (/127.28.105.250:54783) lost connection: Connection closed - mismatched mod channel list
+[12Jan2025 20:40:28.338] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[12Jan2025 20:40:28.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.225:57319] logged in with entity id 280 at (82.5, 74.0, -101.5)
+[12Jan2025 20:40:28.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[12Jan2025 20:40:28.565] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[12Jan2025 20:42:17.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.90.101.47:46637] logged in with entity id 1089 at (78.5, 71.0, -121.5)
+[12Jan2025 20:42:17.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[12Jan2025 20:42:17.800] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[12Jan2025 20:42:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Creative Mode]
+[12Jan2025 20:42:56.346] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:village_plains) took 0 ms
+[12Jan2025 20:43:49.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[12Jan2025 20:43:54.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> nuevo mundo?
+[12Jan2025 20:44:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> si
+[12Jan2025 20:44:06.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Minecraft Comes Alive]
+[12Jan2025 20:44:09.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que pinga es esto?
+[12Jan2025 20:44:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hola aurelia
+[12Jan2025 20:44:25.686] [ForkJoinPool.commonPool-worker-2/ERROR] [forge.net.mca.MCA/]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.openai.com/v1/chat/completions
+[12Jan2025 20:44:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> :(
+[12Jan2025 20:44:33.422] [ForkJoinPool.commonPool-worker-2/ERROR] [forge.net.mca.MCA/]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.openai.com/v1/chat/completions
+[12Jan2025 20:44:34.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ?¿
+[12Jan2025 20:44:42.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hola mila
+[12Jan2025 20:44:42.255] [ForkJoinPool.commonPool-worker-2/ERROR] [forge.net.mca.MCA/]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.openai.com/v1/chat/completions
+[12Jan2025 20:44:43.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=-131} BlockPos{x=81, y=69, z=-128}
+[12Jan2025 20:44:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hola mila
+[12Jan2025 20:44:51.392] [ForkJoinPool.commonPool-worker-2/ERROR] [forge.net.mca.MCA/]: java.io.IOException: Server returned HTTP response code: 429 for URL: https://api.openai.com/v1/chat/completions
+[12Jan2025 20:44:56.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> eres un putero de pinga
+[12Jan2025 20:44:59.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=-131} BlockPos{x=81, y=69, z=-128}
+[12Jan2025 20:45:27.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=-131} BlockPos{x=81, y=69, z=-128}
+[12Jan2025 20:45:27.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=67, z=-131} BlockPos{x=81, y=68, z=-128}
+[12Jan2025 20:45:28.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[12Jan2025 20:45:39.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pq no se rompe el arboool?
+[12Jan2025 20:45:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> Tre chop
+[12Jan2025 20:45:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pero esq no se rompe
+[12Jan2025 20:45:53.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tienes que darle varias veces pa que se rompa
+[12Jan2025 20:45:56.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> lo seeeeeee
+[12Jan2025 20:45:57.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
+[12Jan2025 20:46:00.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pero no se rompeeeeeee
+[12Jan2025 20:46:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Survival Mode]
+[12Jan2025 20:46:11.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Creative Mode]
+[12Jan2025 20:46:20.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> tremenda pinga de mod
+[12Jan2025 20:46:21.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Survival Mode]
+[12Jan2025 20:46:33.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> y el hacha esa beo
+[12Jan2025 20:46:35.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ?
+[12Jan2025 20:46:38.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Creative Mode]
+[12Jan2025 20:46:44.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Survival Mode]
+[12Jan2025 20:46:49.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no se rompe
