@@ -127,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dripstone_caves": "2025-01-13 05:18:34 +0000",
       "minecraft:forest": "2025-01-13 04:33:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-13 04:35:11 +0000"
     },
@@ -314,13 +315,26 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-13 04:55:23 +0000"
+      "minecraft:skeleton": "2025-01-13 04:55:23 +0000",
+      "minecraft:zombie": "2025-01-13 05:23:26 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-01-13 04:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-13 05:26:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-13 05:26:45 +0000"
     },
     "done": true
   },
