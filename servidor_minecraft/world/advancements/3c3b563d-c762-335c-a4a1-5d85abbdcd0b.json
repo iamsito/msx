@@ -53,6 +53,12 @@
     },
     "done": false
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-13 05:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-13 05:22:28 +0000"
@@ -79,6 +85,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:slime": "2025-01-13 05:45:32 +0000",
       "minecraft:zombie": "2025-01-13 05:22:13 +0000"
     },
     "done": false
@@ -107,9 +114,27 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-13 05:47:44 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-13 05:47:14 +0000"
     },
     "done": true
   },
@@ -200,11 +225,24 @@
     },
     "done": true
   },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-13 05:56:31 +0000",
+      "pumpkin_pie": "2025-01-13 05:28:07 +0000"
+    },
+    "done": false
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
@@ -242,6 +280,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-13 05:28:07 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-13 05:06:09 +0000"
@@ -257,6 +301,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-13 05:39:56 +0000"
     },
     "done": true
   },
@@ -296,9 +346,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:07 +0000"
     },
     "done": true
   },
@@ -323,6 +385,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-13 05:29:07 +0000"
     },
     "done": true
   },

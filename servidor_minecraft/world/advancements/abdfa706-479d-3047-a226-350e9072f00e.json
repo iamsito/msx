@@ -127,6 +127,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-13 05:54:37 +0000",
       "minecraft:dripstone_caves": "2025-01-13 05:18:34 +0000",
       "minecraft:forest": "2025-01-13 04:33:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-13 04:35:11 +0000"
@@ -303,7 +304,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-01-13 04:52:41 +0000"
+      "cooked_mutton": "2025-01-13 04:52:41 +0000",
+      "pumpkin_pie": "2025-01-13 05:48:56 +0000",
+      "cooked_salmon": "2025-01-13 05:55:58 +0000"
     },
     "done": false
   },
@@ -326,6 +329,24 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-13 05:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-13 05:47:35 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-13 05:26:42 +0000"
@@ -335,6 +356,42 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-01-13 05:26:45 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-01-13 05:44:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-13 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2025-01-13 05:51:31 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:08 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-13 05:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-13 05:29:08 +0000"
     },
     "done": true
   },
