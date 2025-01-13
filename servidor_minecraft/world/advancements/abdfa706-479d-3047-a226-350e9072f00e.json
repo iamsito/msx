@@ -319,6 +319,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-13 04:55:23 +0000",
+      "minecraft:spider": "2025-01-13 06:00:34 +0000",
+      "minecraft:witch": "2025-01-13 06:01:56 +0000",
       "minecraft:zombie": "2025-01-13 05:23:26 +0000"
     },
     "done": false
@@ -332,6 +334,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-01-13 05:29:46 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-13 06:03:35 +0000"
     },
     "done": true
   },
@@ -353,6 +361,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 06:01:56 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-01-13 05:26:45 +0000"
@@ -365,9 +379,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 06:01:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-13 05:36:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 06:01:01 +0000"
     },
     "done": true
   },
