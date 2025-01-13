@@ -130,7 +130,8 @@
       "minecraft:river": "2025-01-13 05:54:37 +0000",
       "minecraft:dripstone_caves": "2025-01-13 05:18:34 +0000",
       "minecraft:forest": "2025-01-13 04:33:14 +0000",
-      "minecraft:old_growth_birch_forest": "2025-01-13 04:35:11 +0000"
+      "minecraft:old_growth_birch_forest": "2025-01-13 04:35:11 +0000",
+      "minecraft:plains": "2025-01-13 22:29:17 +0000"
     },
     "done": false
   },
@@ -322,6 +323,7 @@
       "minecraft:skeleton": "2025-01-13 04:55:23 +0000",
       "minecraft:spider": "2025-01-13 06:00:34 +0000",
       "minecraft:witch": "2025-01-13 06:01:56 +0000",
+      "minecraft:enderman": "2025-01-13 22:24:16 +0000",
       "minecraft:zombie": "2025-01-13 05:23:26 +0000"
     },
     "done": false
@@ -394,7 +396,9 @@
   },
   "quark:get_all_corundum": {
     "criteria": {
-      "yellow": "2025-01-13 05:51:31 +0000"
+      "blue": "2025-01-13 22:27:38 +0000",
+      "yellow": "2025-01-13 05:51:31 +0000",
+      "black": "2025-01-13 22:27:35 +0000"
     },
     "done": false
   },
@@ -437,6 +441,30 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-01-13 06:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-01-13 22:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-13 22:18:05 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-01-13 22:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-13 22:16:24 +0000"
     },
     "done": true
   },
