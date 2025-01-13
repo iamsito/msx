@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2025-01-13 06:30:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
@@ -91,6 +97,12 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
@@ -114,6 +126,12 @@
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
   },
   "minecraft:story/deflect_arrow": {
     "criteria": {
@@ -175,6 +193,18 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-01-13 05:11:09 +0000",
@@ -196,6 +226,12 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
@@ -213,6 +249,12 @@
       "has_the_recipe": "2025-01-13 05:06:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_black": {
     "criteria": {
@@ -288,11 +330,23 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-13 05:06:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -311,6 +365,12 @@
       "has_item": "2025-01-13 05:39:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_cyan": {
     "criteria": {
@@ -371,6 +431,24 @@
       "requirement": "2025-01-13 05:06:09 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-13 06:31:26 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_orange": {
     "criteria": {
