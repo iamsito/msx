@@ -1161,3 +1161,129 @@ Missing minecraft:block:
 [13Jan2025 06:19:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> asere que lag
 [13Jan2025 06:19:37.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved too quickly! 2.9727081457461537,-5.766367993957516,7.750297002962245
 [13Jan2025 06:19:41.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> toma tu puta piel de mierda
+[13Jan2025 06:20:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mi mochila que
+[13Jan2025 06:20:40.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved too quickly! 7.194212218272469,3.552121543067578,6.115689673518631
+[13Jan2025 06:20:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> cuidadi
+[13Jan2025 06:21:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> joder
+[13Jan2025 06:21:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ponle esta mejora tambien
+[13Jan2025 06:21:17.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=220, y=64, z=20} BlockPos{x=221, y=62, z=20}
+[13Jan2025 06:21:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> me quitaste la mesa de herreriaa
+[13Jan2025 06:22:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp son la 1 y pico y tengo clase mañana
+[13Jan2025 06:22:22.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp desconectate
+[13Jan2025 06:22:28.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> todos saben que eres un pusi
+[13Jan2025 06:22:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ender
+[13Jan2025 06:23:40.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> como le saco la cama?
+[13Jan2025 06:23:58.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> el saco
+[13Jan2025 06:24:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp voy
+[13Jan2025 06:24:43.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> me voy
+[13Jan2025 06:24:59.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> NOOOOOOOOOOOOO
+[13Jan2025 06:25:12.965] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 3
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: net.minecraftforge.eventbus.EventBus$$Lambda$4271/0x000077d744b5c4c8@7f7e213e
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$4271/0x000077d744b5c4c8@14848a06
+		8: net.minecraftforge.eventbus.EventBus$$Lambda$4271/0x000077d744b5c4c8@53992471
+		9: net.minecraftforge.eventbus.EventBus$$Lambda$4271/0x000077d744b5c4c8@690e8b02
+		10: net.minecraftforge.eventbus.EventBus$$Lambda$4271/0x000077d744b5c4c8@67f720cc
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[13Jan2025 06:25:12.966] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@e57311d, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23189!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23189!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23189!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23264!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23259!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[13Jan2025 06:25:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que llevo?
+[13Jan2025 06:25:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> como?
+[13Jan2025 06:25:37.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ponlo en el piso
+[13Jan2025 06:25:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> mirala
+[13Jan2025 06:25:48.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> en el inventario
+[13Jan2025 06:25:53.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y dale a la cama
+[13Jan2025 06:26:08.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> e velda
+[13Jan2025 06:26:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ponla en el piso
+[13Jan2025 06:26:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> rapido
+[13Jan2025 06:26:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no
+[13Jan2025 06:26:26.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> expermineto
+[13Jan2025 06:26:33.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> experimento
+[13Jan2025 06:26:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que no
+[13Jan2025 06:26:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> porfis
+[13Jan2025 06:26:42.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ven
+[13Jan2025 06:26:50.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> quiero ver que pasa con la cama si me la llevo
+[13Jan2025 06:26:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que no veo
+[13Jan2025 06:27:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> eres cieo?
+[13Jan2025 06:27:09.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ciego
+[13Jan2025 06:27:20.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> tp
+[13Jan2025 06:27:26.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
+[13Jan2025 06:27:49.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que qerias?
+[13Jan2025 06:28:08.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> jaja
+[13Jan2025 06:28:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dame
+[13Jan2025 06:28:35.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> :(
+[13Jan2025 06:28:39.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> jiji
+[13Jan2025 06:28:52.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp
+[13Jan2025 06:28:56.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> dime beo
+[13Jan2025 06:28:57.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> tengo clases
+[13Jan2025 06:29:05.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Kicked Marcus_988: Kicked by an operator]
+[13Jan2025 06:29:05.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Kicked by an operator
+[13Jan2025 06:29:05.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
+[13Jan2025 06:29:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Creative Mode]
+[13Jan2025 06:30:13.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has completed the challenge [Chisels & Bits!]
