@@ -787,3 +787,46 @@ Missing minecraft:block:
 [13Jan2025 05:06:09.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.28.105.250:58241] logged in with entity id 3824 at (23.5, 77.0, -33.5)
 [13Jan2025 05:06:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
 [13Jan2025 05:06:09.048] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[13Jan2025 05:08:33.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.225.223.67:59705] logged in with entity id 4466 at (118.44302233021715, 76.0, -50.61601405992501)
+[13Jan2025 05:08:33.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[13Jan2025 05:08:33.532] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[13Jan2025 05:08:52.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Disconnected
+[13Jan2025 05:08:52.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
+[13Jan2025 05:11:44.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.171.119.186:55847] logged in with entity id 5390 at (118.44302233021715, 76.0, -50.61601405992501)
+[13Jan2025 05:11:44.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[13Jan2025 05:11:44.914] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[13Jan2025 05:12:02.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to Marcus_988]
+[13Jan2025 05:12:08.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ola
+[13Jan2025 05:12:16.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp
+[13Jan2025 05:12:22.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tu me ves con la skin
+[13Jan2025 05:12:23.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> esa
+[13Jan2025 05:12:30.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> eres un rey
+[13Jan2025 05:12:31.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> o con la default
+[13Jan2025 05:12:34.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> muy feo
+[13Jan2025 05:12:39.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a un rey
+[13Jan2025 05:12:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si
+[13Jan2025 05:12:47.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> seguro porque soy op
+[13Jan2025 05:13:05.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[13Jan2025 05:13:10.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Spectator Mode]
+[13Jan2025 05:13:19.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Survival Mode]
+[13Jan2025 05:13:23.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pinga
+[13Jan2025 05:13:43.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp quiero mucho hierro
+[13Jan2025 05:13:50.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pal securitycraft
+[13Jan2025 05:13:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> yo te quiero a ti bb
+[13Jan2025 05:14:08.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ai tia para para que me meo tia
+[13Jan2025 05:14:35.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Stone Age]
+[13Jan2025 05:15:01.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Getting an Upgrade]
+[13Jan2025 05:15:52.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp
+[13Jan2025 05:15:55.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> una pregunta
+[13Jan2025 05:15:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> sak
+[13Jan2025 05:16:00.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ask
+[13Jan2025 05:16:13.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> quien le gusta a Casca? gustabo o grifith?
+[13Jan2025 05:16:29.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> gustabo
+[13Jan2025 05:16:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[13Jan2025 05:16:55.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> esq casa vez que ve a grifith como que sabves
+[13Jan2025 05:17:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> dios
+[13Jan2025 05:17:09.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ven a ver esto
+[13Jan2025 05:17:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mina
+[13Jan2025 05:17:23.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> te hago tp?
+[13Jan2025 05:17:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no
+[13Jan2025 05:17:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pero es gigante
