@@ -670,3 +670,9 @@
 [13Jan2025 01:26:11.394] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alexandrina}[style={}] has been infected
 [13Jan2025 01:26:28.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
 [13Jan2025 01:26:28.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[13Jan2025 01:28:03.808] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.28.105.250:39539] logged in with entity id 834 at (20.468281078307733, 105.20000004768372, -476.44481281265377)
+[13Jan2025 01:28:03.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[13Jan2025 01:28:03.836] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[13Jan2025 01:28:33.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[13Jan2025 01:28:33.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[13Jan2025 01:30:24.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d5e7c9e[id=<null>,name=iam,properties={},legacy=false] (/127.28.105.250:48405) lost connection: Disconnected
