@@ -1056,3 +1056,59 @@
 [13Jan2025 23:08:41.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5034044d[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.178.129.146:36601) lost connection: Disconnected
 [13Jan2025 23:09:13.564] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54603f89[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.178.129.146:35015) lost connection: Disconnected
 [13Jan2025 23:10:35.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[13Jan2025 23:12:26.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[13Jan2025 23:12:30.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam was kicked for floating too long!
+[13Jan2025 23:12:30.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Flying is not enabled on this server
+[13Jan2025 23:12:30.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[13Jan2025 23:13:00.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:53917] logged in with entity id 24399 at (1480.026509426069, 105.7397338688598, 430.03187142933325)
+[13Jan2025 23:13:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[13Jan2025 23:13:00.390] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[13Jan2025 23:13:00.392] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[13Jan2025 23:13:00.941] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[13Jan2025 23:13:12.964] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@559d6e01[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.37.45.111:45627) lost connection: Disconnected
+[13Jan2025 23:13:30.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[13Jan2025 23:13:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[13Jan2025 23:13:49.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a6af194[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.112.16.99:46097) lost connection: Disconnected
+[13Jan2025 23:14:24.156] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2565e174[id=<null>,name=Marcus_988,properties={},legacy=false] (/127.112.16.99:35217) lost connection: Disconnected
+[13Jan2025 23:14:25.672] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iam[/127.204.221.6:47257] logged in with entity id 24650 at (1480.026509426069, 105.7397338688598, 430.03187142933325)
+[13Jan2025 23:14:25.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam joined the game
+[13Jan2025 23:14:25.691] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to iam
+[13Jan2025 23:14:25.692] [Server thread/INFO] [Jade/]: Syncing config to iam (3c3b563d-c762-335c-a4a1-5d85abbdcd0b)
+[13Jan2025 23:14:26.234] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from iam
+[13Jan2025 23:14:55.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam lost connection: Timed out
+[13Jan2025 23:14:55.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game
+[13Jan2025 23:15:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jan2025 23:15:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[13Jan2025 23:15:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Jan2025 23:15:19.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jan2025 23:15:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jan2025 23:15:19.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jan2025 23:15:19.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jan2025 23:15:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jan2025 23:15:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[13Jan2025 23:15:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[13Jan2025 23:15:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[13Jan2025 23:15:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[13Jan2025 23:15:19.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[13Jan2025 23:15:19.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[13Jan2025 23:15:19.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jan2025 23:15:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[13Jan2025 23:15:19.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[13Jan2025 23:15:19.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[13Jan2025 23:15:19.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[13Jan2025 23:15:19.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[13Jan2025 23:15:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[13Jan2025 23:15:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[13Jan2025 23:15:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[13Jan2025 23:15:20.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
