@@ -865,3 +865,51 @@
 [14Jan2025 02:58:39.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
 [14Jan2025 02:58:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
 [14Jan2025 02:59:07.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=988, y=65, z=277} BlockPos{x=989, y=65, z=277}
+[14Jan2025 02:59:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[14Jan2025 02:59:30.525] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3d835ab8[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:51971): Took too long to log in
+[14Jan2025 02:59:30.526] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3d835ab8[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:51971) lost connection: Took too long to log in
+[14Jan2025 02:59:30.575] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:00:09.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] demonios
+[14Jan2025 03:00:15.624] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@48f083f3[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:35371): Took too long to log in
+[14Jan2025 03:00:15.624] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48f083f3[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:35371) lost connection: Took too long to log in
+[14Jan2025 03:00:15.675] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:00:18.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] creo que no me voiy a poder unir
+[14Jan2025 03:00:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pq?
+[14Jan2025 03:01:07.173] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2f3878a3[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:36115): Took too long to log in
+[14Jan2025 03:01:07.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f3878a3[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:36115) lost connection: Took too long to log in
+[14Jan2025 03:01:07.226] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:01:14.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pp no se
+[14Jan2025 03:01:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[14Jan2025 03:01:19.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no me deja entrar<--[HERE]
+[14Jan2025 03:01:21.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[14Jan2025 03:01:28.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> unete
+[14Jan2025 03:01:33.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no me deja entrar
+[14Jan2025 03:01:41.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> joe
+[14Jan2025 03:02:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> como se ponia una mejora a la mochila?
+[14Jan2025 03:02:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ?
+[14Jan2025 03:03:25.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mesa de herreria y cuero
+[14Jan2025 03:03:50.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ok
+[14Jan2025 03:04:37.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2a568047[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:35651): Took too long to log in
+[14Jan2025 03:04:37.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a568047[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:35651) lost connection: Took too long to log in
+[14Jan2025 03:04:38.024] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:05:29.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@a41511[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:50869): Took too long to log in
+[14Jan2025 03:05:29.224] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a41511[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:50869) lost connection: Took too long to log in
+[14Jan2025 03:05:29.275] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:05:48.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[14Jan2025 03:06:48.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@306fff22[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:57135): Took too long to log in
+[14Jan2025 03:06:48.224] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@306fff22[id=<null>,name=iam,properties={},legacy=false] (/127.204.221.6:57135) lost connection: Took too long to log in
+[14Jan2025 03:06:48.275] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Jan2025 03:07:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[14Jan2025 03:07:29.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pq salto tanto?
+[14Jan2025 03:07:36.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> me cago en dios
+[14Jan2025 03:07:39.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pq salto tanto?
+[14Jan2025 03:07:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pq salto tanto?
+[14Jan2025 03:07:52.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> iammmmmmmmmmmmmmmmmmm
+[14Jan2025 03:08:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pp ya vasta e
+[14Jan2025 03:08:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que tengo muychas cosas
+[14Jan2025 03:08:58.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid name or UUID
+[14Jan2025 03:08:58.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...height 10  Marcus_988<--[HERE]
+[14Jan2025 03:09:04.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> aaaaaaa
+[14Jan2025 03:09:11.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 was kicked for floating too long!
+[14Jan2025 03:09:11.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Flying is not enabled on this server
+[14Jan2025 03:09:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
