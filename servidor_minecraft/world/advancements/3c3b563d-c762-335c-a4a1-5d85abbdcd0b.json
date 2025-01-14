@@ -2437,6 +2437,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-14 22:23:39 +0000"
+    },
+    "done": true
+  },
   "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
     "criteria": {
       "has_amethyst_shard": "2025-01-14 21:25:40 +0000"
