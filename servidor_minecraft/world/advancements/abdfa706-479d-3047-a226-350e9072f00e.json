@@ -482,9 +482,9 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "find_artifact": "2025-01-14 02:31:33 +0000"
+      "obsidian": "2025-01-14 02:15:10 +0000"
     },
     "done": true
   },
@@ -494,9 +494,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "obsidian": "2025-01-14 02:15:10 +0000"
+      "find_artifact": "2025-01-14 02:31:33 +0000"
     },
     "done": true
   },
