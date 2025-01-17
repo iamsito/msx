@@ -9119,3 +9119,534 @@ Things may not work well.
 [17Jan2025 02:42:53.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.8530724270096357
 [17Jan2025 02:42:53.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.9495252579527573
 [17Jan2025 02:42:53.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 2.3061821298875884
+[17Jan2025 02:43:24.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.3140405154591122
+[17Jan2025 02:43:24.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.3140405154591122
+[17Jan2025 02:43:24.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 0.7549211803203661
+[17Jan2025 02:43:58.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:43:58.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:44:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> veo ve poniendo antorchas has algo
+[17Jan2025 02:44:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> al fin
+[17Jan2025 02:44:23.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> cojone
+[17Jan2025 02:44:36.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved too quickly! 0.39080712576406995,-11.19886200217772,-0.28840682442887555
+[17Jan2025 02:44:37.384] [Server thread/WARN] [tombstone/]: The death event of the player iam was canceled by another mod
+[17Jan2025 02:44:37.400] [Server thread/INFO] [tombstone/]: The player iam has successfully been saved
+[17Jan2025 02:44:40.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ayuda
+[17Jan2025 02:44:48.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> jodete
+[17Jan2025 02:44:57.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> jaj
+[17Jan2025 02:44:57.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> voy a spawnear en algun lugar random
+[17Jan2025 02:45:29.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> busca comida de verdad
+[17Jan2025 02:45:32.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 02:45:36.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale
+[17Jan2025 02:45:46.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 02:45:52.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> voy
+[17Jan2025 02:46:08.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tiienes una waystone?
+[17Jan2025 02:46:14.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que con eso me puedo ir pa una aldea
+[17Jan2025 02:46:18.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en el cofre de arriba
+[17Jan2025 02:47:06.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no se puede
+[17Jan2025 02:47:32.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> como pi ga me voy a ir a la aldea netonces
+[17Jan2025 02:47:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sube
+[17Jan2025 02:47:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp pa donde vas beo
+[17Jan2025 02:47:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> la aldea no es por ahi
+[17Jan2025 02:48:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp esta no es la que yo digo
+[17Jan2025 02:48:12.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 02:48:13.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 02:48:35.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> hola helen
+[17Jan2025 02:48:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> helen
+[17Jan2025 02:48:58.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:48:58.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:49:20.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> vivo encima de esa montaña de ahi, ven a visitarme cuando quieras guapa
+[17Jan2025 02:49:37.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> de puedo dar todas las zanahorias que quieras
+[17Jan2025 02:49:48.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp
+[17Jan2025 02:49:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> nos podemos llevar a un walli
+[17Jan2025 02:49:52.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> una berengena te gustaria?
+[17Jan2025 02:50:13.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> tu pideme lo que quieras
+[17Jan2025 02:50:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tremenda gotica helen
+[17Jan2025 02:50:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sabias que soi el dies del agua, hago que llueva y que no cuando quiera
+[17Jan2025 02:50:59.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> joder
+[17Jan2025 02:51:03.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> vamono
+[17Jan2025 02:51:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp esta llorando
+[17Jan2025 02:51:06.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> dejala tranquila
+[17Jan2025 02:51:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> melapela
+[17Jan2025 02:51:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sube
+[17Jan2025 02:51:36.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> tu no guarra
+[17Jan2025 02:51:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ven beo
+[17Jan2025 02:51:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ponme esto en la cabez
+[17Jan2025 02:51:49.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> cabeza
+[17Jan2025 02:51:55.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 02:51:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a wali
+[17Jan2025 02:52:02.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> quitate el escudo animal
+[17Jan2025 02:52:10.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale
+[17Jan2025 02:52:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp por favor no quites cada Waystone que te encuentres
+[17Jan2025 02:52:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ok
+[17Jan2025 02:52:47.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que yo marque muchos por el mapa y como tu eres mr waystone no tengo ninguno guardado
+[17Jan2025 02:52:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> porque los rompiste
+[17Jan2025 02:52:59.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pinche putito
+[17Jan2025 02:53:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> aqui me lleve los 5 que tenias en el cofre
+[17Jan2025 02:53:17.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ay dio
+[17Jan2025 02:53:18.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> fuego
+[17Jan2025 02:53:21.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dame algo de comer
+[17Jan2025 02:53:24.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> beo
+[17Jan2025 02:53:28.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 02:53:33.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> beooooooooooooo
+[17Jan2025 02:53:36.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=951, y=64, z=-302} BlockPos{x=951, y=63, z=-302}
+[17Jan2025 02:53:38.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dame algo de comer
+[17Jan2025 02:53:54.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no asere
+[17Jan2025 02:53:58.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:53:58.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:53:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que no sabes donde es
+[17Jan2025 02:54:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> el walli
+[17Jan2025 02:54:12.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> izquierda
+[17Jan2025 02:54:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> izquierda
+[17Jan2025 02:54:14.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 02:54:15.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> izquierda
+[17Jan2025 02:54:38.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> todavia tengo a walli en la cabeza?
+[17Jan2025 02:54:42.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si
+[17Jan2025 02:54:44.263] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[17Jan2025 02:55:26.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 02:56:01.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sube
+[17Jan2025 02:56:15.138] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[17Jan2025 02:56:15.138] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Jan2025 02:56:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> subeeeeee
+[17Jan2025 02:56:24.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> maricon
+[17Jan2025 02:56:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ahora eres gay o que?
+[17Jan2025 02:56:33.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> chao ivica
+[17Jan2025 02:58:08.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> dejame secuestrar alguna aldeana
+[17Jan2025 02:58:26.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 02:58:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> esta esta casada
+[17Jan2025 02:58:58.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:58:58.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:59:06.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved too quickly! -10.077820112434665,-0.16779664663324922,1.2820212549609096
+[17Jan2025 02:59:44.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale veo
+[17Jan2025 02:59:52.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> despues te llevas a helen
+[17Jan2025 03:00:20.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp no hay casi aldeanas
+[17Jan2025 03:00:43.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> va a haber que matar vacas
+[17Jan2025 03:00:47.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:01:01.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> con el hacha mongo
+[17Jan2025 03:01:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> le das critico saltando
+[17Jan2025 03:01:29.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:01:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> metele
+[17Jan2025 03:02:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> vamos
+[17Jan2025 03:02:03.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:02:34.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que mierda el hacha de oro
+[17Jan2025 03:02:38.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> casi la gasto ocmpleta
+[17Jan2025 03:02:39.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> toma
+[17Jan2025 03:02:55.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> movement
+[17Jan2025 03:03:03.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> en el inventario
+[17Jan2025 03:03:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> del este
+[17Jan2025 03:03:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vaya mierda de hacah
+[17Jan2025 03:03:14.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hacha
+[17Jan2025 03:03:15.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> cojone
+[17Jan2025 03:03:19.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mata a todo
+[17Jan2025 03:03:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> puercos tambien
+[17Jan2025 03:03:26.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:03:49.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> aqui arriba
+[17Jan2025 03:03:55.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 03:03:58.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:03:58.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:04:28.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> puto cerdo
+[17Jan2025 03:04:42.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale
+[17Jan2025 03:04:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> acabaaaaa
+[17Jan2025 03:04:52.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> aqui y ahora?
+[17Jan2025 03:05:02.036] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
+[17Jan2025 03:05:06.461] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, emoteData=null, startingAt=0, player=null}
+[17Jan2025 03:05:09.888] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=96506a5e-a69c-4a18-9add-d43dfd272fa6, length=46, extra={valid=true}}, startingAt=0, player=null}
+[17Jan2025 03:05:13.331] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=96506a5e-a69c-4a18-9add-d43dfd272fa6, length=46, extra={valid=true}}, startingAt=0, player=null}
+[17Jan2025 03:05:14.895] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=96506a5e-a69c-4a18-9add-d43dfd272fa6, emoteData=null, startingAt=0, player=null}
+[17Jan2025 03:05:16.152] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
+[17Jan2025 03:05:16.861] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, emoteData=null, startingAt=0, player=null}
+[17Jan2025 03:05:32.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> oooo
+[17Jan2025 03:05:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sabana
+[17Jan2025 03:05:42.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale payaso
+[17Jan2025 03:06:19.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale
+[17Jan2025 03:06:26.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> joder
+[17Jan2025 03:06:28.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> daleee
+[17Jan2025 03:06:33.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 03:07:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> te voi a dejar en un arboly duermes rapido
+[17Jan2025 03:07:38.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale
+[17Jan2025 03:08:01.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> dale
+[17Jan2025 03:08:23.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que esperas
+[17Jan2025 03:08:49.014] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=f9f6669d-f1b3-4170-8bc5-475a9a600439, length=61, extra={valid=true}}, startingAt=0, player=null}
+[17Jan2025 03:08:58.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:08:58.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:09:26.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> uiuiu+
+[17Jan2025 03:09:30.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> q buenardo
+[17Jan2025 03:09:32.969] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[17Jan2025 03:09:37.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> maceta?
+[17Jan2025 03:09:42.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> bioma de mierda
+[17Jan2025 03:09:44.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> desiertp
+[17Jan2025 03:09:44.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> lo odio
+[17Jan2025 03:10:20.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 03:10:23.993] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: 3c3b563d-c762-335c-a4a1-5d85abbdcd0b data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=f9f6669d-f1b3-4170-8bc5-475a9a600439, emoteData=null, startingAt=0, player=null}
+[17Jan2025 03:11:01.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> robate a una mujer
+[17Jan2025 03:11:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp marcos ven aca
+[17Jan2025 03:11:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que conseguiste?
+[17Jan2025 03:11:27.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> un negro nos quiere robar el avion
+[17Jan2025 03:11:34.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que conseguiste?
+[17Jan2025 03:11:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> y esa mochila?
+[17Jan2025 03:11:47.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> 2 espadas de hierro
+[17Jan2025 03:11:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> esta es de nieve
+[17Jan2025 03:11:56.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> se la robe a un esqueleto
+[17Jan2025 03:12:01.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> la ultima vez que jugamos
+[17Jan2025 03:12:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:12:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:12:06.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:12:07.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> coño
+[17Jan2025 03:12:09.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> q lag
+[17Jan2025 03:12:16.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> waipoint
+[17Jan2025 03:12:25.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp no ves al puto negro que se metio en el avion?
+[17Jan2025 03:12:29.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:12:37.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:12:50.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp metio a gervasio en el coso ese
+[17Jan2025 03:13:24.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp no me voy a robar una aldeana aqui
+[17Jan2025 03:13:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> todas son negras
+[17Jan2025 03:13:28.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> eres prostituta?
+[17Jan2025 03:13:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> claro iam si esto es africa
+[17Jan2025 03:13:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> me llevo una nina
+[17Jan2025 03:13:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vamos
+[17Jan2025 03:13:49.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> tamea un gato
+[17Jan2025 03:13:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> rapidoooooooooo cojone
+[17Jan2025 03:13:58.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:13:58.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:14:01.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> baja
+[17Jan2025 03:14:02.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:14:03.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> nono
+[17Jan2025 03:14:16.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> callate gervasio
+[17Jan2025 03:14:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> negro de mierda
+[17Jan2025 03:14:31.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Immacolata'/19586, l='ServerLevel[world]', x=690.23, y=63.00, z=1763.68] died, message: 'Immacolata hit the ground too hard'
+[17Jan2025 03:14:31.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Immacolata'/19586, l='ServerLevel[world]', x=690.23, y=63.00, z=1763.68] died: Immacolata fell from a high place
+[17Jan2025 03:14:34.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> jannnnnnnnnnnnnno
+[17Jan2025 03:14:36.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> la nina
+[17Jan2025 03:14:38.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> xd
+[17Jan2025 03:14:38.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> la nina
+[17Jan2025 03:14:46.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> se cayo de tu cabezaaaaaaaaaaaaa
+[17Jan2025 03:14:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> la quitaste?
+[17Jan2025 03:15:05.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp llevame de nuevo a una aldea
+[17Jan2025 03:15:34.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! -9.633811406419284,-6.336046454435973E-4,3.8151227965308863
+[17Jan2025 03:15:34.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! -10.144636775983429,-6.458488198433088E-4,4.07849290285958
+[17Jan2025 03:15:34.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! -10.65270891931209,-6.569553186608346E-4,4.346915905940023
+[17Jan2025 03:15:34.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! -11.158234493491818,-6.670311048964095E-4,4.619952790871594
+[17Jan2025 03:15:34.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! -11.661419489044931,-6.761731435318552E-4,4.897182445880389
+[17Jan2025 03:15:34.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! -12.162440156604475,-6.844693307499483E-4,5.178192679730273
+[17Jan2025 03:15:39.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:15:47.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 64.0241014107047,1.815573792214309E-4,-34.88236719995393
+[17Jan2025 03:15:47.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 64.0241014107047,1.815573792214309E-4,-34.88236719995393
+[17Jan2025 03:15:47.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 64.0241014107047,1.815573792214309E-4,-34.88236719995393
+[17Jan2025 03:15:47.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 64.0241014107047,1.815573792214309E-4,-34.88236719995393
+[17Jan2025 03:15:47.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 64.0241014107047,1.815573792214309E-4,-34.88236719995393
+[17Jan2025 03:15:47.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 64.0241014107047,1.815573792214309E-4,-34.88236719995393
+[17Jan2025 03:15:47.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.99718507776237,1.813498081162379E-4,-34.867026741720565
+[17Jan2025 03:15:47.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.953155694372185,1.8114223701104493E-4,-34.84189052062675
+[17Jan2025 03:15:47.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.899156937748785,1.8093466590585194E-4,-34.81103793239345
+[17Jan2025 03:15:47.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.84005793293505,1.8072709480065896E-4,-34.77724885139787
+[17Jan2025 03:15:47.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.77912572517266,1.8051952369546598E-4,-34.74238825755492
+[17Jan2025 03:15:47.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.71849849204972,1.80311952590273E-4,-34.70767693542575
+[17Jan2025 03:15:47.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.659547923375044,1.8010438148508E-4,-34.673898749827
+[17Jan2025 03:15:47.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.60313901045589,1.7989681039409788E-4,-34.641548546882404
+[17Jan2025 03:15:47.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.549744735202864,1.7968923930311576E-4,-34.610897241137536
+[17Jan2025 03:15:47.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.499626426816974,1.7948166821213363E-4,-34.58209518812646
+[17Jan2025 03:15:47.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.45285052955023,1.792740971211515E-4,-34.55518123280672
+[17Jan2025 03:15:47.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.40940355349733,1.7906652603016937E-4,-34.53014884363529
+[17Jan2025 03:15:47.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.36914823474967,1.7885895493918724E-4,-34.50692137475016
+[17Jan2025 03:15:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.33195886933447,1.7865138384820511E-4,-34.48542749297985
+[17Jan2025 03:15:48.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.29766965210757,1.7844381275722299E-4,-34.46557365777562
+[17Jan2025 03:15:48.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.2661031045879,1.7823624166624086E-4,-34.4472595504767
+[17Jan2025 03:15:48.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.23709606968242,1.7802867057525873E-4,-34.43039267333552
+[17Jan2025 03:15:48.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.21047356097728,1.778210994842766E-4,-34.41487355080062
+[17Jan2025 03:15:48.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.18607448757666,1.7761352839329447E-4,-34.40061085202933
+[17Jan2025 03:15:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.163725524060055,1.7740595730231234E-4,-34.38750659517473
+[17Jan2025 03:15:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.14329240625813,1.7719838621133022E-4,-34.37548449675296
+[17Jan2025 03:15:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.12462659995333,1.769908151203481E-4,-34.36446030399793
+[17Jan2025 03:15:48.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.10759133746592,1.7678324402936596E-4,-34.354356781810566
+[17Jan2025 03:15:48.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.092060931917956,1.7657567293838383E-4,-34.345102723646505
+[17Jan2025 03:15:48.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.07791967320247,1.763681018474017E-4,-34.33663289943752
+[17Jan2025 03:15:48.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.065061230752804,1.7616053075641958E-4,-34.32888724022769
+[17Jan2025 03:15:48.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.05338784123478,1.7595295966543745E-4,-34.321810564989846
+[17Jan2025 03:15:48.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.04278426191587,1.7574538857445532E-4,-34.3153386418835
+[17Jan2025 03:15:48.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.03316980182183,1.755378174834732E-4,-34.30942613640809
+[17Jan2025 03:15:48.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.024470361729186,1.7533024639249106E-4,-34.304031349294746
+[17Jan2025 03:15:48.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.01661778930168,1.7512267530150893E-4,-34.29911615367155
+[17Jan2025 03:15:48.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.009549448690336,1.749151042105268E-4,-34.29464563520605
+[17Jan2025 03:15:48.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 63.00318254231075,1.7470753311954468E-4,-34.29057404416881
+[17Jan2025 03:15:48.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.997466196258756,1.7449996202856255E-4,-34.28687317189815
+[17Jan2025 03:15:48.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.992353733713855,1.7429239093758042E-4,-34.28351713392567
+[17Jan2025 03:15:48.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.98777696381461,1.740848198465983E-4,-34.28046863924419
+[17Jan2025 03:15:48.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.98369854073502,1.7387724875561616E-4,-34.277707109205494
+[17Jan2025 03:15:49.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.980084186823376,1.7366967766463404E-4,-34.27521376257573
+[17Jan2025 03:15:49.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.9768771360047,1.734621065736519E-4,-34.27295780041368
+[17Jan2025 03:15:49.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.97405054520527,1.7325453548266978E-4,-34.270924628339344
+[17Jan2025 03:15:49.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.97157982870988,1.7304696439168765E-4,-34.26910089170951
+[17Jan2025 03:15:49.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.969417058380486,1.7283939330070552E-4,-34.267460896057855
+[17Jan2025 03:15:49.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.9675436028233,1.726318222097234E-4,-34.2659945773039
+[17Jan2025 03:15:49.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.965942371139704,1.7242425111874127E-4,-34.264692810025736
+[17Jan2025 03:15:49.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.96457231915497,1.7221668002775914E-4,-34.26353374828932
+[17Jan2025 03:15:49.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.9634211331998,1.72009108936777E-4,-34.26251086884804
+[17Jan2025 03:15:49.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.96245212361487,1.7180153784579488E-4,-34.261604741674546
+[17Jan2025 03:15:49.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.961656984465435,1.7159396675481275E-4,-34.26081105588264
+[17Jan2025 03:15:49.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.9610026846031,1.7138639566383063E-4,-34.26011239710715
+[17Jan2025 03:15:49.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.96048430723346,1.711788245728485E-4,-34.25950626750728
+[17Jan2025 03:15:49.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.96009730564259,1.7097125348186637E-4,-34.258990371937216
+[17Jan2025 03:15:49.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95981196927312,1.7076368239088424E-4,-34.258549130016945
+[17Jan2025 03:15:49.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.959626425570036,1.705561112999021E-4,-34.25818167718353
+[17Jan2025 03:15:49.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:49.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:15:49.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved too quickly! 62.95951327434062,1.7034854020891999E-4,-34.25787366227678
+[17Jan2025 03:15:56.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:16:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:16:05.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:16:09.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ños
+[17Jan2025 03:16:16.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:16:18.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que puto subnormal
+[17Jan2025 03:16:26.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:16:34.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 03:16:34.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:17:03.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp y esto
+[17Jan2025 03:17:05.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no nado
+[17Jan2025 03:17:10.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:17:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> por el collar
+[17Jan2025 03:17:19.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> aa
+[17Jan2025 03:17:20.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> siisisi
+[17Jan2025 03:17:24.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> puto collar de mierda
+[17Jan2025 03:17:50.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 03:18:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> depinga
+[17Jan2025 03:18:18.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> osea que con el collar no puedo hacer waterdrop?
+[17Jan2025 03:18:25.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> nose
+[17Jan2025 03:18:41.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:18:58.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 03:18:58.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 03:19:08.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 03:19:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> marcos donde estas
+[17Jan2025 03:19:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> uiuiui
+[17Jan2025 03:19:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> mira que linda este ejemplar
+[17Jan2025 03:19:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sis
+[17Jan2025 03:20:21.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> amonos
+[17Jan2025 03:20:44.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp la tienes en tu cabeza
+[17Jan2025 03:20:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no la tires
+[17Jan2025 03:20:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> no
+[17Jan2025 03:21:02.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:21:15.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:21:24.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 lost connection: Timed out
+[17Jan2025 03:21:24.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 left the game
+[17Jan2025 03:21:25.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vamonos
+[17Jan2025 03:21:27.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 03:21:46.803] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[17Jan2025 03:21:46.837] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[17Jan2025 03:21:46.886] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[17Jan2025 03:21:46.937] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[17Jan2025 03:21:46.987] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[17Jan2025 03:21:47.036] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[17Jan2025 03:21:47.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[17Jan2025 03:21:47.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[17Jan2025 03:21:47.195] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[17Jan2025 03:21:47.235] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [create_lt, doubledoors, kuma_api, almanac, supermartijn642configlib, rechiseled, geckolib, scena, playeranimator, customskinloader, botarium, easymagic, jei, visualworkbench, pehkui, mcwwindows, incendium, immersive_aircraft, kleeslabs, waystones, xaeroworldmap, comforts, travelersbackpack, artifacts, mixinextras, glitchcore, sereneseasons, storagedelight, mcwdoors, balm, fusion, carryon, memoryleakfix, watut, puzzlesaccessapi, cloth_config, forge, tlskincape, embeddium, rubidium, geophilic_reforged, friendsandfoes, emotecraft, minecraft, w2w2, handcrafted, moonlight, magnumtorch, jade, creativecore, chunky, mcwtrpdoors, spectrelib, supermartijn642corelib, botania, resourcefulconfig, ksyxis, mr_tidal_towns, curios, spartanshields, patchouli, xaerominimap, oculus, collective, securitycraft, nullscape, zeta, quark, xercapaint, elevatorid, tombstone, resourcefullib, coroutil, architectury, fallingtrees, mca, pandalib, appleskin, ferritecore, mcwfurnitures, puzzleslib, badoptimizations, expandability, chiselsandbits, playerrevive, mcwlights, ad_astra]
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chiselsandbits:chiselsandbits' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'kleeslabs:network' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.274] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of '3.0.6' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rechiseled:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'w2w2:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'botania:main' : Version test of '0' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.9.0' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xercapaint:main_channel' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:47.275] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:47.286] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[17Jan2025 03:21:47.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[17Jan2025 03:21:47.386] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[17Jan2025 03:21:47.412] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[17Jan2025 03:21:47.413] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:47.413] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:47.437] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[17Jan2025 03:21:47.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[17Jan2025 03:21:47.536] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[17Jan2025 03:21:47.587] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[17Jan2025 03:21:47.636] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[17Jan2025 03:21:47.686] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 17
+[17Jan2025 03:21:47.737] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[17Jan2025 03:21:47.788] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[17Jan2025 03:21:47.836] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[17Jan2025 03:21:47.886] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[17Jan2025 03:21:47.937] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 22
+[17Jan2025 03:21:47.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 23
+[17Jan2025 03:21:48.036] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 24
+[17Jan2025 03:21:48.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config chiselsandbits-server.toml' to 'fml:handshake' sequence 25
+[17Jan2025 03:21:48.102] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[17Jan2025 03:21:48.102] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:48.102] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:48.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 26
+[17Jan2025 03:21:48.186] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config magnumtorch-server.toml' to 'fml:handshake' sequence 27
+[17Jan2025 03:21:48.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[17Jan2025 03:21:48.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:48.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:48.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[17Jan2025 03:21:48.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:48.193] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:48.236] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 28
+[17Jan2025 03:21:48.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 29
+[17Jan2025 03:21:48.336] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 30
+[17Jan2025 03:21:48.386] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[17Jan2025 03:21:48.435] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 32
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:49.013] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:49.053] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[17Jan2025 03:21:49.053] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:49.053] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:49.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[17Jan2025 03:21:49.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:49.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:49.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[17Jan2025 03:21:49.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:49.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[17Jan2025 03:21:50.133] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.134] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:50.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[17Jan2025 03:21:50.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:50.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.383] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.384] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[17Jan2025 03:21:59.385] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[17Jan2025 03:21:59.385] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[17Jan2025 03:21:59.385] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 32
+[17Jan2025 03:21:59.386] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[17Jan2025 03:21:59.386] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[17Jan2025 03:21:59.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcus_988[/127.74.182.155:58859] logged in with entity id 24157 at (229.56067936404875, 62.64374923706055, 2027.2192019973565)
+[17Jan2025 03:21:59.452] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6097eca into net.minecraft.network.Connection@34fc98e7
+[17Jan2025 03:21:59.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcus_988 joined the game
+[17Jan2025 03:21:59.535] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Marcus_988
+[17Jan2025 03:21:59.540] [Server thread/INFO] [Jade/]: Syncing config to Marcus_988 (abdfa706-479d-3047-a226-350e9072f00e)
+[17Jan2025 03:22:01.801] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Marcus_988
+[17Jan2025 03:22:01.805] [Netty Epoll Server IO #7/DEBUG] [emotecraft/]: [emotes server] Received data from: abdfa706-479d-3047-a226-350e9072f00e data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[17Jan2025 03:22:19.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> que mierda de lag
+[17Jan2025 03:22:22.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> joder
+[17Jan2025 03:22:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> sube
+[17Jan2025 03:22:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mira es mas
+[17Jan2025 03:22:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> pon un waipoint
+[17Jan2025 03:22:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> poinmela
+[17Jan2025 03:22:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> a
+[17Jan2025 03:23:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ño asereeee
