@@ -9072,3 +9072,50 @@ Things may not work well.
 [17Jan2025 02:32:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> bueno
 [17Jan2025 02:32:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y ponemos un para rayos
 [17Jan2025 02:32:28.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> ok veo
+[17Jan2025 02:33:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> bueno no
+[17Jan2025 02:33:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> mejor vamos a buscar otro tipo de madera
+[17Jan2025 02:33:26.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> la blanca
+[17Jan2025 02:33:31.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> joe
+[17Jan2025 02:33:58.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:33:58.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:34:21.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.2873754537554305
+[17Jan2025 02:34:21.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.37617019490255643
+[17Jan2025 02:34:21.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.45671803158631974
+[17Jan2025 02:34:21.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.5295615802079965
+[17Jan2025 02:34:21.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.595229512712308
+[17Jan2025 02:34:21.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.3366020450732776
+[17Jan2025 02:34:21.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.3893712413546382
+[17Jan2025 02:34:21.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Marcus_988) moved wrongly! 0.37166685501097163
+[17Jan2025 02:34:54.149] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jan2025 02:34:54.150] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jan2025 02:34:54.150] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[17Jan2025 02:34:54.150] [Worker-Main-2/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[17Jan2025 02:34:54.154] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[17Jan2025 02:34:54.747] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Jan2025 02:34:54.748] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[17Jan2025 02:34:54.782] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium-common.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[17Jan2025 02:34:58.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcus_988 moved wrongly!
+[17Jan2025 02:35:50.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> deja de hacer el payaso y dame el avion
+[17Jan2025 02:38:58.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jan2025 02:38:58.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jan2025 02:40:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> deja de hacer el capullo y dime de que la cincelo cabron
+[17Jan2025 02:40:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hay que hacer un aereopuerto
+[17Jan2025 02:40:27.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iam moved wrongly!
+[17Jan2025 02:40:36.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> asi
+[17Jan2025 02:40:43.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> esto no es simetrico
+[17Jan2025 02:40:51.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> normal
+[17Jan2025 02:40:58.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> si es una puta mierda de casa
+[17Jan2025 02:41:35.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp como que queda un poco horrible no?
+[17Jan2025 02:41:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> mira
+[17Jan2025 02:41:51.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcus_988> asi se va a quedar me oiste
+[17Jan2025 02:42:53.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 0.4989610664599695
+[17Jan2025 02:42:53.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 0.8500511628225809
+[17Jan2025 02:42:53.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.200416488809708
+[17Jan2025 02:42:53.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 0.506732784602093
+[17Jan2025 02:42:53.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 0.8570155843704583
+[17Jan2025 02:42:53.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.21704217791563
+[17Jan2025 02:42:53.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.5698109903182171
+[17Jan2025 02:42:53.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.6493082961217738
+[17Jan2025 02:42:53.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.8530724270096357
+[17Jan2025 02:42:53.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 1.9495252579527573
+[17Jan2025 02:42:53.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iam) moved wrongly! 2.3061821298875884
