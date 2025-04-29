@@ -85,7 +85,7 @@
           "agent_id": "819dd890-ec17-4821-addc-2de7829dd6b7",
           "agent_name": "from-key-4045",
           "local_ip": "127.0.0.1",
-          "local_port": 19132
+          "local_port": 1161
         },
         "type": "agent"
       },

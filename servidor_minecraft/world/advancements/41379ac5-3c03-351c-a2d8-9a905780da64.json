@@ -1,0 +1,63 @@
+{
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:52:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-29 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "senti:register": {
+    "criteria": {
+      "requirement": "2025-04-29 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "backpacks:tree/root": {
+    "criteria": {
+      "requirement": "2025-04-29 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:52:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2025-04-29 23:52:15 +0000"
+    },
+    "done": false
+  },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-04-29 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-29 23:52:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-29 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
