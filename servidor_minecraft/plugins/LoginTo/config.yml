@@ -1,0 +1,77 @@
+    # Hi, welcome in the LoginTo configuration
+
+    # Enable Loginto (true), Disable it (false)
+    loginto: 'true'
+
+    # Let the player join with premium
+    premium: 'true'
+
+    # When a player need's to sing up/sing in give the blindness effect?
+    blindness: 'true'
+
+    # If a player need to register, it's password need's to have certain characters
+    required_character: false
+
+    # If required_character is true here you need to put the required characters
+    characters_needed: ''
+
+    # When a player change password kick him from the server?
+    kick_after_psw_change: 'true'
+
+    # Should LoginTo kick a player if he didn't write the correct password on /login <password> ?
+    kick_if_psw_wrong: 'true'
+
+    # How many tries a player have before get's kicked (for this config you need to enable 'kick_if_psw_wrong'
+    tries: '3'
+    #Default will be 3
+
+    # Chose where the user get's teleported when he join, this feature is disabled by default
+    enabled_worldlocation_teleport: 'false'
+
+    # In what dimension will the player be teleported, world type:
+    # - world = The OverWorld
+    # - world_nether = The Nether
+    # - world_the_end = The End
+    #
+    # This feature works even with custom world like skyblock, terrain generation plugin ect...
+    world: 'world'
+
+    # Coords where the player get's teleported (for this feature you need 'enabled_worldlocation_teleport' on true)
+    x: 0
+    y: -64
+    z: 0
+
+
+
+
+    # Send a webhook in a discord server, you need to put your webhook's url
+
+    # When a player sing up
+    register_webhook: ''
+
+    # When a player sing in
+    login_webhook: ''
+
+    # When a player use the premium features
+    premium_webhook: ''
+
+    # When an admin delete a user account
+    delacc_webhook: ''
+
+
+
+
+    # Next update?
+    ban_for_join: 'Next_update?'
+    ban_webhook: 'Next_update?'
+
+
+
+    # When????
+    host: ""
+    port: ""
+    name: ""
+    user: ""
+    password: ""
+
+
