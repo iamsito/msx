@@ -1,53 +1,4 @@
 {
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:07:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:07:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-30 03:10:20 +0000",
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-30 03:07:15 +0000"
@@ -66,7 +17,46 @@
     },
     "done": true
   },
+  "senti:tick": {
+    "criteria": {
+      "requirement": "2025-04-30 03:07:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-04-30 03:07:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 03:07:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 03:07:16 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 03:07:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-30 03:35:47 +0000",
+      "minecraft:cherry_grove": "2025-04-30 03:28:20 +0000",
+      "minecraft:meadow": "2025-04-30 03:08:38 +0000",
+      "minecraft:plains": "2025-04-30 03:07:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
     "criteria": {
       "log_spam_fixer": "2025-04-30 03:07:16 +0000"
     },
@@ -78,66 +68,101 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:meadow": "2025-04-30 03:08:38 +0000",
-      "minecraft:plains": "2025-04-30 03:07:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "senti:tick": {
-    "criteria": {
-      "requirement": "2025-04-30 03:07:15 +0000"
+      "in_water": "2025-04-30 03:28:59 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:07:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-04-30 03:07:15 +0000"
+      "in_water": "2025-04-30 03:28:59 +0000"
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
+      "in_water": "2025-04-30 03:28:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 03:10:16 +0000"
+      "in_water": "2025-04-30 03:28:59 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-30 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-30 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-30 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-30 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-30 03:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-30 03:34:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
