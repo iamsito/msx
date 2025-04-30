@@ -404,4 +404,162 @@ Async Chat Thread - #9Ex[30Apr2025 00:18:06.056] [Async Chat Thread - #9/INFO] [
 Async Chat Thread - #9Ex[30Apr2025 00:18:46.106] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> full de mango
 Async Chat Thread - #8Ex[30Apr2025 00:18:56.476] [Async Chat Thread - #8/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> un mango maracaton
 Async Chat Thread - #8Ex[30Apr2025 00:18:58.646] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> clasico
-Async Chat Thread - #9Ex
+Async Chat Thread - #9Ex[30Apr2025 00:19:44.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Getting an Upgrade]
+Server threadEx[30Apr2025 00:19:52.786] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> hay q meter a iam en el grupo
+Async Chat Thread - #9Ex[30Apr2025 00:19:58.387] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> o hacer uno nuevo
+Async Chat Thread - #9Ex[30Apr2025 00:20:01.677] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> para el server
+Async Chat Thread - #9Ex[30Apr2025 00:20:17.796] [Server thread/INFO] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=class_2338{x=38, y=124, z=70}) doesn't have enough leaves around top most log
+Server threadEx[30Apr2025 00:20:27.026] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> metelo
+Async Chat Thread - #9Ex[30Apr2025 00:20:29.228] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /time set day
+Server threadEx[30Apr2025 00:20:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marcuss988: Set the time to 1000]
+Server threadEx[30Apr2025 00:20:34.437] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ui
+Async Chat Thread - #10Ex[30Apr2025 00:20:39.106] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> eso es ilegal e
+Async Chat Thread - #9Ex[30Apr2025 00:20:42.451] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el que
+Async Chat Thread - #10Ex[30Apr2025 00:20:46.756] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /reload
+Server threadEx[30Apr2025 00:20:46.756] [Server thread/INFO] [Console/]: iam: Please note that this command is not supported and may cause issues when using some plugins.
+Server threadEx[30Apr2025 00:20:46.756] [Server thread/INFO] [Console/]: iam: If you encounter any issues please use the /stop command to restart your server.
+Server threadEx[30Apr2025 00:20:46.758] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.3
+Server threadEx[30Apr2025 00:20:46.758] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+Server threadEx[30Apr2025 00:20:46.759] [Server thread/INFO] [OpenAudioMc/]: Disabling OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 00:20:46.759] [Server thread/INFO] [OpenAudioMc/]: [info] Shutting down
+Server threadEx[30Apr2025 00:20:46.759] [Server thread/INFO] [OpenAudioMc/]: [info] Saving world cache...
+Server threadEx[30Apr2025 00:20:46.759] [Server thread/INFO] [OpenAudioMc/]: [info] Saved 0 media chunks to db.
+Server threadEx[30Apr2025 00:20:46.760] [Server thread/INFO] [OpenAudioMc/]: [info] Stopped OpenAudioMc. Goodbye.
+Server threadEx[30Apr2025 00:20:46.761] [Server thread/INFO] [BlockProt/]: Disabling BlockProt v1.2.4
+Server threadEx[30Apr2025 00:20:46.761] [Server thread/INFO] [BlockProt/]: Saving statistic file...
+Server threadEx[30Apr2025 00:20:46.766] [Server thread/INFO] [PlayerCarry/]: Disabling PlayerCarry v1.1
+Server threadEx[30Apr2025 00:20:47.004] [Server thread/INFO] [net.minecraft.class_1863/]: Loaded 1374 recipes
+Server threadEx[30Apr2025 00:20:47.068] [Server thread/INFO] [net.minecraft.class_163/]: Loaded 1478 advancements
+Server threadEx[30Apr2025 00:20:47.447] [Server thread/INFO] [Minecraft/]: [LagFixer] Loading 3 libraries... please wait
+Server threadEx[30Apr2025 00:20:47.483] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar
+Server threadEx[30Apr2025 00:20:47.484] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
+Server threadEx[30Apr2025 00:20:47.484] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
+Server threadEx[30Apr2025 00:20:47.484] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+Server threadEx[30Apr2025 00:20:47.484] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+Server threadEx[30Apr2025 00:20:47.484] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+Server threadEx[30Apr2025 00:20:47.515] [Server thread/INFO] [PlayerCarry/]: Loading PlayerCarry v1.1
+Server threadEx[30Apr2025 00:20:47.516] [Server thread/INFO] [BlockProt/]: Loading BlockProt v1.2.4
+Server threadEx[30Apr2025 00:20:47.524] [Server thread/INFO] [BlockProt/]: Registered plugin integration for plugin with id 'towny'
+Server threadEx[30Apr2025 00:20:47.524] [Server thread/INFO] [BlockProt/]: Registered plugin integration for plugin with id 'placeholderapi'
+Server threadEx[30Apr2025 00:20:47.525] [Server thread/INFO] [OpenAudioMc/]: Loading OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 00:20:47.525] [Server thread/INFO] [Sleeper/]: Loading Sleeper v1.6.3
+Server threadEx[30Apr2025 00:20:47.525] [Server thread/INFO] [PlayerCarry/]: Enabling PlayerCarry v1.1
+Server threadEx[30Apr2025 00:20:47.862] [Server thread/INFO] [BlockProt/]: Enabling BlockProt v1.2.4
+Server threadEx[30Apr2025 00:20:47.878] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_21_R1! Trying to find NMS support
+Server threadEx[30Apr2025 00:20:47.878] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_21_R1' loaded!
+Server threadEx[30Apr2025 00:20:47.880] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+Server threadEx[30Apr2025 00:20:47.926] [Server thread/WARN] [BlockProt/]: Failed to map following values to enum: [PALE_OAK_FENCE_GATE, PALE_OAK_TRAPDOOR]
+Server threadEx[30Apr2025 00:20:47.926] [Server thread/WARN] [BlockProt/]: Failed to map following values to enum: [PALE_OAK_DOOR]
+Server threadEx[30Apr2025 00:20:47.944] [Server thread/INFO] [OpenAudioMc/]: Enabling OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 00:20:47.954] [Server thread/INFO] [OpenAudioMc/]: [info] Starting OpenAudioMc, build 1543 by Mats
+Server threadEx[30Apr2025 00:20:47.970] [Server thread/INFO] [OpenAudioMc/]: [info] Using the main config file..
+Server threadEx[30Apr2025 00:20:47.972] [Server thread/INFO] [OpenAudioMc/]: [info] Starting configuration module
+Server threadEx[30Apr2025 00:20:47.972] [Server thread/INFO] [OpenAudioMc/]: [info] Using the main config file..
+Server threadEx[30Apr2025 00:20:47.973] [Server thread/INFO] [OpenAudioMc/]: [info] Starting configuration module
+Server threadEx[30Apr2025 00:20:47.974] [Server thread/INFO] [OpenAudioMc/]: [info] Detected md_5 chat support, using default user adapter
+Server threadEx[30Apr2025 00:20:47.982] [Server thread/INFO] [OpenAudioMc/]: [info] Skipped 45/45 migrations.
+Server threadEx[30Apr2025 00:20:47.983] [Server thread/INFO] [OpenAudioMc/]: [info] ModuleLoaderService: Loading modules from /workspaces/msx/servidor_minecraft/plugins/OpenAudioMc/modules
+Server threadEx[30Apr2025 00:20:47.985] [Server thread/INFO] [OpenAudioMc/]: [info] Using networking class com.craftmend.openaudiomc.generic.networking.DefaultNetworkingService
+Server threadEx[30Apr2025 00:20:47.988] [Server thread/INFO] [OpenAudioMc/]: [info] Initializing connection service...
+Server threadEx[30Apr2025 00:20:47.994] [Server thread/INFO] [OpenAudioMc/]: [info] Starting authentication module
+Server threadEx[30Apr2025 00:20:47.994] [Server thread/INFO] [OpenAudioMc/]: [info] This server already has an account, skipping sign up.
+Server threadEx[30Apr2025 00:20:48.011] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Adding spigot tables
+Server threadEx[30Apr2025 00:20:48.011] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for Alias
+Server threadEx[30Apr2025 00:20:48.018] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (alias<->Alias.java)
+Server threadEx[30Apr2025 00:20:48.019] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for ClientDataStore
+Server threadEx[30Apr2025 00:20:48.020] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
+Server threadEx[30Apr2025 00:20:48.020] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for MojangProfile
+Server threadEx[30Apr2025 00:20:48.021] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
+Server threadEx[30Apr2025 00:20:48.022] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for RegionProperties
+Server threadEx[30Apr2025 00:20:48.023] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
+Server threadEx[30Apr2025 00:20:48.024] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for Speaker
+Server threadEx[30Apr2025 00:20:48.026] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
+Server threadEx[30Apr2025 00:20:48.026] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for StoredWorldChunk
+Server threadEx[30Apr2025 00:20:48.027] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
+Server threadEx[30Apr2025 00:20:48.028] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for TimedRegionProperties
+Server threadEx[30Apr2025 00:20:48.029] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (timed_region_properties<->TimedRegionProperties.java)
+Server threadEx[30Apr2025 00:20:48.030] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for MediaRule
+Server threadEx[30Apr2025 00:20:48.030] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (media_rule<->MediaRule.java)
+Server threadEx[30Apr2025 00:20:48.060] [Server thread/INFO] [OpenAudioMc/]: [info] Initializing account details
+Server threadEx[30Apr2025 00:20:48.406] [Server thread/INFO] [OpenAudioMc/]: [info] Loading aliases...
+Server threadEx[30Apr2025 00:20:48.408] [Server thread/INFO] [OpenAudioMc/]: [info] Loaded 0 aliases
+Server threadEx[30Apr2025 00:20:48.410] [Server thread/INFO] [OpenAudioMc/]: [info] Detected version type: MODERN
+Server threadEx[30Apr2025 00:20:48.414] [Server thread/INFO] [OpenAudioMc/]: [info] Enabling the 1.13 speaker system
+Server threadEx[30Apr2025 00:20:48.416] [Server thread/INFO] [OpenAudioMc/]: [info] Starting redstone speaker tick task with interval 5 ticks
+Server threadEx[30Apr2025 00:20:48.429] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for Playlist
+Server threadEx[30Apr2025 00:20:48.430] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (playlists<->Playlist.java)
+Server threadEx[30Apr2025 00:20:48.431] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for PlaylistEntry
+Server threadEx[30Apr2025 00:20:48.431] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (playlist_entries<->PlaylistEntry.java)
+Server threadEx[30Apr2025 00:20:48.437] [Server thread/INFO] [OpenAudioMc/]: [info] Loaded 0 media chunks from file.
+Server threadEx[30Apr2025 00:20:48.445] [Server thread/INFO] [OpenAudioMc/]: [info] Loading static voice channels..
+Server threadEx[30Apr2025 00:20:48.446] [Server thread/INFO] [OpenAudioMc/]: [info] Created static channel: survival
+Server threadEx[30Apr2025 00:20:48.446] [Server thread/INFO] [OpenAudioMc/]: [info] Created static channel: off-topic
+Server threadEx[30Apr2025 00:20:48.447] [Server thread/INFO] [OpenAudioMc/]: [info] Created static channel: staff-chat
+Server threadEx[30Apr2025 00:20:48.447] [Server thread/INFO] [OpenAudioMc/]: [info] Loaded 3 static voice channels
+Server threadEx[30Apr2025 00:20:48.450] [Server thread/INFO] [OpenAudioMc/]: [info] The legacy cdn exporter is disabled, skipping boot.
+Server threadEx[30Apr2025 00:20:48.450] [Server thread/INFO] [OpenAudioMc/]: [info] Starting and loading took 938MS
+Server threadEx[30Apr2025 00:20:48.451] [Server thread/INFO] [Sleeper/]: Enabling Sleeper v1.6.3
+Server threadEx[30Apr2025 00:20:48.451] [Server thread/INFO] [Sleeper/]: Sleeper Version 1.6.3 Has Been Enabled!
+Server threadEx[30Apr2025 00:20:48.463] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[30Apr2025 00:20:48.481] [Server thread/INFO] [Console/]: iam: Reload complete.
+Server threadEx[30Apr2025 00:20:48.703] [Craft Scheduler Thread - 14/INFO] [BlockProt/]: BlockProt is up to date. (1.2.4)
+Craft Scheduler Thread - 14Ex[30Apr2025 00:20:49.464] [Craft Scheduler Thread - 19/INFO] [OpenAudioMc/]: [info] Attempting to login to voice chat...
+Craft Scheduler Thread - 19Ex[30Apr2025 00:20:49.928] [OaVoiceWorker/INFO] [OpenAudioMc/]: [info] Voice chat connected!
+OaVoiceWorkerEx[30Apr2025 00:20:52.856] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> lo del tiempo losiento
+Async Chat Thread - #9Ex[30Apr2025 00:20:58.783] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /deop iam
+Server threadEx[30Apr2025 00:20:58.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Made iam no longer a server operator]
+Server threadEx[30Apr2025 00:21:08.778] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /help
+Server threadEx[30Apr2025 00:21:18.180] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> ponlo en el grupo dicelo a alejandro
+Async Chat Thread - #10Ex[30Apr2025 00:21:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX has made the advancement [Monster Hunter]
+Server threadEx[30Apr2025 00:21:55.256] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> marco
+Async Chat Thread - #9Ex[30Apr2025 00:21:58.096] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ?
+Async Chat Thread - #10Ex[30Apr2025 00:22:00.012] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> mineta cobio
+Async Chat Thread - #10Ex[30Apr2025 00:22:04.576] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ci
+Async Chat Thread - #9Ex[30Apr2025 00:22:09.551] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> ven
+Async Chat Thread - #10Ex[30Apr2025 00:22:20.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX fell from a high place
+Server threadEx[30Apr2025 00:22:24.316] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> sjsja
+Async Chat Thread - #9Ex[30Apr2025 00:22:26.660] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> xd
+Async Chat Thread - #10Ex[30Apr2025 00:22:28.669] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hay mod de tumbas
+Async Chat Thread - #9Ex[30Apr2025 00:22:32.972] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> puedes cogerlo sin que se vaya
+Async Chat Thread - #10Ex[30Apr2025 00:22:39.296] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> en 30 min
+Async Chat Thread - #10Ex[30Apr2025 00:22:49.153] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> no sale
+Async Chat Thread - #10Ex[30Apr2025 00:22:56.797] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a
+Async Chat Thread - #9Ex[30Apr2025 00:23:00.795] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que no cargo el mod de tumbas
+Async Chat Thread - #10Ex[30Apr2025 00:23:02.915] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> deja ver
+Async Chat Thread - #9Ex[30Apr2025 00:23:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 was shot by Skeleton
+Server threadEx[30Apr2025 00:23:32.567] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> cierto no sale
+Async Chat Thread - #9Ex[30Apr2025 00:23:39.047] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #10Ex[30Apr2025 00:23:55.686] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ahora dice alejandro q no puede entrar
+Async Chat Thread - #9Ex[30Apr2025 00:24:16.026] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> pq tiene q descargar una vrs de mc mas antigua
+Async Chat Thread - #10Ex[30Apr2025 00:24:27.630] [Server thread/INFO] [net.minecraft.class_3244/]: FABIAN_MIX lost connection: Disconnected
+Server threadEx[30Apr2025 00:24:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX left the game
+Server threadEx[30Apr2025 00:24:59.697] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> dice fabian q entra despues
+Async Chat Thread - #9Ex[30Apr2025 00:25:49.111] [Async Chat Thread - #10/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ok
+Async Chat Thread - #10Ex[30Apr2025 00:25:56.418] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo que poner el mod de tumbas
+Async Chat Thread - #9Ex[30Apr2025 00:26:01.567] [Async Chat Thread - #9/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> me salgo?
+Async Chat Thread - #9Ex[30Apr2025 00:27:47.187] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ahora prendo el server de nuevo
+Async Chat Thread - #12Ex[30Apr2025 00:27:50.827] [Async Chat Thread - #11/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> dale
+Async Chat Thread - #11Ex[30Apr2025 00:27:51.956] [Async Chat Thread - #12/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> 5 seg
+Async Chat Thread - #12Ex[30Apr2025 00:27:53.257] [HuskHomes-ThreadPool/ERROR] [HuskHomes/]: Failed to set the offline position of Marcuss988
+HuskHomes-ThreadPoolEx org.sqlite.SQLiteException: [SQLITE_READONLY_DBMOVED] The database file has been moved since it was opened (attempt to write a readonly database)
+	at knot/org.sqlite.core.DB.newSQLException(DB.java:1179) ~[sqlite-jdbc-3.42.0.1.jar:?]
+	at knot/org.sqlite.core.DB.newSQLException(DB.java:1190) ~[sqlite-jdbc-3.42.0.1.jar:?]
+	at knot/org.sqlite.core.DB.execute(DB.java:988) ~[sqlite-jdbc-3.42.0.1.jar:?]
+	at knot/org.sqlite.jdbc3.JDBC3PreparedStatement.lambda$executeQuery$1(JDBC3PreparedStatement.java:89) ~[sqlite-jdbc-3.42.0.1.jar:?]
+	at knot/org.sqlite.jdbc3.JDBC3Statement.withConnectionTimeout(JDBC3Statement.java:454) ~[sqlite-jdbc-3.42.0.1.jar:?]
+	at knot/org.sqlite.jdbc3.JDBC3PreparedStatement.executeQuery(JDBC3PreparedStatement.java:84) ~[sqlite-jdbc-3.42.0.1.jar:?]
+	at knot/net.william278.huskhomes.database.SqLiteDatabase.setPosition(SqLiteDatabase.java:225) ~[huskhomes_common-4.9.4-8fdd53652fbec0ca.jar:?]
+	at knot/net.william278.huskhomes.database.SqLiteDatabase.setOfflinePosition(SqLiteDatabase.java:980) ~[huskhomes_common-4.9.4-8fdd53652fbec0ca.jar:?]
+	at knot/net.william278.huskhomes.listener.EventListener.lambda$handlePlayerLeave$8(EventListener.java:113) ~[huskhomes_common-4.9.4-8fdd53652fbec0ca.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[30Apr2025 00:27:53.279] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 lost connection: Disconnected
+Server threadEx[30Apr2025 00:27:53.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 left the game
+Server threadEx[30Apr2025 00:27:57.247] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /stop
+Server threadEx[30Apr2025 00:28:01.530] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+Server threadEx
