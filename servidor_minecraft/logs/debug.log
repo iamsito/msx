@@ -6526,4 +6526,651 @@ Worker-Main-1Ex[29Apr2025 23:58:46.076] [Worker-Main-5/DEBUG] [Implementer/SWITC
 Worker-Main-5Ex[29Apr2025 23:58:46.358] [Worker-Main-1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_5817$1
 Worker-Main-1Ex[29Apr2025 23:58:47.784] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> pasame denuevo la ip por watsapp
 Async Chat Thread - #3Ex[29Apr2025 23:58:51.488] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que opinas del mod de generacion
-Async Chat Thread - #3Ex
+Async Chat Thread - #3Ex[29Apr2025 23:58:55.764] [Async Chat Thread - #2/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> bueno
+Async Chat Thread - #2Ex[29Apr2025 23:58:59.574] [Async Chat Thread - #3/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ip bedrock o java
+Async Chat Thread - #3Ex[30Apr2025 00:00:03.545] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ya te lo pase
+Async Chat Thread - #5Ex[30Apr2025 00:00:14.460] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp mira
+Async Chat Thread - #4Ex[30Apr2025 00:00:25.146] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /gamemode creative
+Server threadEx[30Apr2025 00:00:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Creative Mode]
+Server threadEx[30Apr2025 00:00:36.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Monster Hunter]
+Server threadEx[30Apr2025 00:00:52.004] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tpa Marcus998
+Server threadEx[30Apr2025 00:00:57.782] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tpa Marcuss988
+Server threadEx[30Apr2025 00:01:06.064] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /acept
+Server threadEx[30Apr2025 00:01:07.700] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp
+Async Chat Thread - #5Ex[30Apr2025 00:01:09.247] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> marcos
+Async Chat Thread - #4Ex[30Apr2025 00:01:09.524] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /accept
+Server threadEx[30Apr2025 00:01:13.154] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> no me deja
+Async Chat Thread - #5Ex[30Apr2025 00:01:20.424] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /huskhomes:tpaccept iam
+Server threadEx[30Apr2025 00:01:23.084] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> a
+Async Chat Thread - #4Ex[30Apr2025 00:01:25.330] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> puse los comandos de tp
+Async Chat Thread - #5Ex[30Apr2025 00:01:26.354] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> hay q darle
+Async Chat Thread - #4Ex[30Apr2025 00:01:32.307] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ./tpa
+Async Chat Thread - #5Ex[30Apr2025 00:01:45.494] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> no puedo poner comandos
+Async Chat Thread - #4Ex[30Apr2025 00:01:48.724] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpa iam
+Server threadEx[30Apr2025 00:01:50.851] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> por que
+Async Chat Thread - #5Ex[30Apr2025 00:01:55.144] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> nose
+Async Chat Thread - #4Ex[30Apr2025 00:02:00.905] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ?
+Async Chat Thread - #5Ex[30Apr2025 00:02:03.663] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> estaras bug o algo
+Async Chat Thread - #4Ex[30Apr2025 00:02:08.284] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> nono
+Async Chat Thread - #5Ex[30Apr2025 00:02:15.414] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpa iam
+Server threadEx[30Apr2025 00:02:22.714] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> comando desconocido...
+Async Chat Thread - #4Ex[30Apr2025 00:02:30.693] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ?
+Async Chat Thread - #5Ex[30Apr2025 00:02:40.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Stone Age]
+Server threadEx[30Apr2025 00:02:42.635] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no uses espacio
+Async Chat Thread - #5Ex[30Apr2025 00:02:46.334] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> eso sale
+Async Chat Thread - #4Ex[30Apr2025 00:02:51.614] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpaiam
+Server threadEx[30Apr2025 00:02:54.545] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> no deja
+Async Chat Thread - #5Ex[30Apr2025 00:03:13.008] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> en la consola sale como si pusieras un espacio
+Async Chat Thread - #4Ex[30Apr2025 00:03:18.905] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpaiam
+Server threadEx[30Apr2025 00:03:22.534] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> mira a ver ahora
+Async Chat Thread - #5Ex[30Apr2025 00:03:28.631] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tambien
+Async Chat Thread - #4Ex[30Apr2025 00:03:38.075] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> bueno
+Async Chat Thread - #5Ex[30Apr2025 00:03:44.381] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> es tpa iam
+Async Chat Thread - #4Ex[30Apr2025 00:03:48.471] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ./tpa iam
+Async Chat Thread - #5Ex[30Apr2025 00:03:56.224] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpa iam
+Server threadEx[30Apr2025 00:04:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Marcuss988 a server operator
+Server threadEx[30Apr2025 00:04:37.594] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> trata ahora
+Async Chat Thread - #4Ex[30Apr2025 00:04:37.804] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpa iam
+Server threadEx[30Apr2025 00:04:43.175] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> vaya
+Async Chat Thread - #5Ex[30Apr2025 00:04:46.984] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> xd
+Async Chat Thread - #4Ex[30Apr2025 00:04:49.599] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> s cosa de permisos
+Async Chat Thread - #5Ex[30Apr2025 00:04:53.244] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes:tpaccept Marcuss988
+Server threadEx[30Apr2025 00:04:59.771] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pidemelo de nuevo
+Async Chat Thread - #4Ex[30Apr2025 00:05:02.524] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpa iam
+Server threadEx[30Apr2025 00:05:06.012] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tpaccept
+Server threadEx[30Apr2025 00:05:11.171] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> perfecto
+Async Chat Thread - #5Ex[30Apr2025 00:05:11.574] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> negro
+Async Chat Thread - #4Ex[30Apr2025 00:05:12.964] [User Authenticator #3/INFO] [net.minecraft.class_3248/]: UUID of player FABIAN_MIX is 6f18e22d-059b-3b13-b5ce-c43a0871f879
+User Authenticator #3Ex[30Apr2025 00:05:12.979] [ForkJoinPool.commonPool-worker-9/DEBUG] [SkinRestorer/]: Fetching FABIAN_MIX's skin
+ForkJoinPool.commonPool-worker-9Ex[30Apr2025 00:05:13.165] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+ForkJoinPool.commonPool-worker-9Ex[30Apr2025 00:05:13.746] [Server thread/DEBUG] [fabric-data-attachment-api-v1/]: Couldn't send attachment configuration packet to client, as the client cannot receive the payload.
+Server threadEx[30Apr2025 00:05:13.747] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: []
+Server threadEx[30Apr2025 00:05:13.768] [Server thread/INFO] [net.minecraft.class_3324/]: FABIAN_MIX[/127.243.171.47:37499] logged in with entity id 2179 at (-5.5, 127.0, -4.5)
+Server threadEx[30Apr2025 00:05:13.769] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to FABIAN_MIX (6f18e22d-059b-3b13-b5ce-c43a0871f879)
+Server threadEx[30Apr2025 00:05:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FABIAN_MIX joined the game
+Server threadEx[30Apr2025 00:05:15.002] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{FABIAN_MIX}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell FABIAN_MIX '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@e6206b7e],insertion=FABIAN_MIX}]/]: Handling inbound packet from channel with name "minecraft:register"
+Netty Epoll Server IO #1Ex[30Apr2025 00:05:15.002] [Netty Epoll Server IO #1/DEBUG] [ServerPlayNetworkAddon for literal{FABIAN_MIX}[style={clickEvent=ClickEvent{action=SUGGEST_COMMAND, value='/tell FABIAN_MIX '},hoverEvent=class_8826[action=<action show_entity>, value=net.minecraft.class_2568$class_5248@e6206b7e],insertion=FABIAN_MIX}]/]: Handling inbound packet from channel with name "minecraft:brand"
+Netty Epoll Server IO #1Ex[30Apr2025 00:05:16.795] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tambien se puede usar /tpaccept
+Async Chat Thread - #5Ex[30Apr2025 00:05:17.700] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> eeeeeeeeeeee
+Async Chat Thread - #4Ex[30Apr2025 00:05:20.394] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> fabiaaaaan
+Async Chat Thread - #5Ex[30Apr2025 00:05:41.323] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tengo que quitar los textos del lagfixer
+Async Chat Thread - #4Ex[30Apr2025 00:05:49.474] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /gamemode survival
+Server threadEx[30Apr2025 00:05:49.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Survival Mode]
+Server threadEx[30Apr2025 00:05:51.455] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ta bug o re lag
+Async Chat Thread - #4Ex[30Apr2025 00:06:03.121] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> lag
+Async Chat Thread - #5Ex[30Apr2025 00:06:06.035] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> si
+Async Chat Thread - #4Ex[30Apr2025 00:06:08.271] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> tpp no puedo moverme
+Async Chat Thread - #5Ex[30Apr2025 00:06:20.383] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> logueate
+Async Chat Thread - #4Ex[30Apr2025 00:06:28.485] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> usa /register y ponte una contraseña luego /login y la vuelves a poner
+Async Chat Thread - #5Ex[30Apr2025 00:07:01.067] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /skin set ely.by vegeta
+Server threadEx[30Apr2025 00:07:01.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Skin changed]
+Server threadEx[30Apr2025 00:07:03.367] [Server thread/INFO] [net.minecraft.class_3244/]: FABIAN_MIX issued server command: /reg
+Server threadEx[30Apr2025 00:07:08.425] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ./register contraseña contraseña
+Async Chat Thread - #4Ex[30Apr2025 00:07:10.633] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que skin mas fea
+Async Chat Thread - #5Ex[30Apr2025 00:07:14.586] [Server thread/INFO] [net.minecraft.class_3244/]: FABIAN_MIX issued server command: /register
+Server threadEx[30Apr2025 00:07:14.587] [Server thread/ERROR] [Minecraft/]: null
+Server threadEx org.bukkit.command.CommandException: Unhandled exception executing command 'register' in plugin LoginTo v1.4-release
+	at knot/org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:150) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/org.bukkit.craftbukkit.v1_21_R1.CraftServer.dispatchCommand(CraftServerMixin.java:922) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/org.bukkit.craftbukkit.v1_21_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at knot/net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_54313(CommandsMixin.java:379) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_9249(CommandsMixin.java:309) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_45010(ServerGamePacketListenerImplMixin_HighPriority.java:3003) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_58588(ServerGamePacketListenerImplMixin_HighPriority.java:1329) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.plugin.loginTo.LoginTo.onCommand(LoginTo.java:538) ~[?:?]
+	at knot/org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	... 27 more
+[30Apr2025 00:07:16.025] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ./login contraseña
+Async Chat Thread - #4Ex[30Apr2025 00:07:22.075] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> yo no las veo
+Async Chat Thread - #5Ex[30Apr2025 00:07:26.028] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> pp no pueo
+Async Chat Thread - #4Ex[30Apr2025 00:07:35.395] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ??
+Async Chat Thread - #5Ex[30Apr2025 00:07:39.305] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> como que no puedes
+Async Chat Thread - #4Ex[30Apr2025 00:07:54.079] [Server thread/INFO] [net.minecraft.class_3244/]: FABIAN_MIX issued server command: /register
+Server threadEx[30Apr2025 00:07:54.079] [Server thread/ERROR] [Minecraft/]: null
+Server threadEx org.bukkit.command.CommandException: Unhandled exception executing command 'register' in plugin LoginTo v1.4-release
+	at knot/org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:150) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/org.bukkit.craftbukkit.v1_21_R1.CraftServer.dispatchCommand(CraftServerMixin.java:922) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/org.bukkit.craftbukkit.v1_21_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	at knot/com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at knot/net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_54313(CommandsMixin.java:379) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2170.method_9249(CommandsMixin.java:309) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_45010(ServerGamePacketListenerImplMixin_HighPriority.java:3003) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_58588(ServerGamePacketListenerImplMixin_HighPriority.java:1329) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.plugin.loginTo.LoginTo.onCommand(LoginTo.java:538) ~[?:?]
+	at knot/org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21.1-1.0.1-SNAPSHOT-e9dd116.jar:?]
+	... 27 more
+[30Apr2025 00:08:06.031] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pon /register y tu contrasena
+Async Chat Thread - #5Ex[30Apr2025 00:08:06.079] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> me manda un mensaje de un error interno
+Async Chat Thread - #4Ex[30Apr2025 00:08:19.583] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ahora lo arreglo
+Async Chat Thread - #5Ex[30Apr2025 00:08:24.059] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> dale
+Async Chat Thread - #4Ex[30Apr2025 00:08:35.180] [Server thread/INFO] [Console/]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+Server threadEx[30Apr2025 00:08:35.181] [Server thread/INFO] [Console/]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+Server threadEx[30Apr2025 00:08:35.185] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.3
+Server threadEx[30Apr2025 00:08:35.186] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+Server threadEx[30Apr2025 00:08:35.188] [Server thread/INFO] [OpenAudioMc/]: Disabling OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 00:08:35.188] [Server thread/INFO] [OpenAudioMc/]: [info] Shutting down
+Server threadEx[30Apr2025 00:08:35.193] [Server thread/INFO] [OpenAudioMc/]: [info] Saving world cache...
+Server threadEx[30Apr2025 00:08:35.193] [Server thread/INFO] [OpenAudioMc/]: [info] Saved 0 media chunks to db.
+Server threadEx[30Apr2025 00:08:35.195] [Server thread/INFO] [OpenAudioMc/]: [info] Stopped OpenAudioMc. Goodbye.
+Server threadEx[30Apr2025 00:08:35.196] [Server thread/INFO] [LoginTo/]: Disabling LoginTo v1.4-release
+Server threadEx[30Apr2025 00:08:35.196] [Server thread/INFO] [BlockProt/]: Disabling BlockProt v1.2.4
+Server threadEx[30Apr2025 00:08:35.196] [Server thread/INFO] [BlockProt/]: Saving statistic file...
+Server threadEx[30Apr2025 00:08:35.206] [Server thread/INFO] [PlayerCarry/]: Disabling PlayerCarry v1.1
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Starting internal pack sorting with: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Removed all internal packs, result: [vanilla, fabric]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled collective, currently enabled: [vanilla, fabric, collective]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled fabric-convention-tags-v2, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled incendium, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled mr_vanilla_backpacks, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled nullscape, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled taking-a-break, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled wwoo, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo]
+Server threadEx[30Apr2025 00:08:35.215] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Final sorting result: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo]
+Server threadEx[30Apr2025 00:08:35.729] [Server thread/INFO] [net.minecraft.class_1863/]: Loaded 1374 recipes
+Server threadEx[30Apr2025 00:08:35.875] [Server thread/INFO] [net.minecraft.class_163/]: Loaded 1478 advancements
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Starting internal pack sorting with: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Removed all internal packs, result: [vanilla, fabric]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled collective, currently enabled: [vanilla, fabric, collective]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled fabric-convention-tags-v2, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled incendium, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled mr_vanilla_backpacks, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled nullscape, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled taking-a-break, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] cur @ fabric, auto-enabled wwoo, currently enabled: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo]
+Server threadEx[30Apr2025 00:08:35.877] [Server thread/DEBUG] [net.fabricmc.fabric.impl.resource.loader.ModResourcePackUtil/]: [Fabric] Final sorting result: [vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo]
+Server threadEx[30Apr2025 00:08:36.344] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.DefaultLocalRepositoryProvider/]: Using manager EnhancedLocalRepositoryManager with priority 10.0 for libraries
+Server threadEx[30Apr2025 00:08:36.380] [Server thread/INFO] [Minecraft/]: [LagFixer] Loading 3 libraries... please wait
+Server threadEx[30Apr2025 00:08:36.461] [Server thread/DEBUG] [org.eclipse.aether.internal.impl.collect.DefaultDependencyCollector/]: Dependency collection stats {ConflictMarker.analyzeTime=46637, ConflictMarker.markTime=16080, ConflictMarker.nodeCount=8, ConflictIdSorter.graphTime=12283, ConflictIdSorter.topsortTime=11151, ConflictIdSorter.conflictIdCount=6, ConflictIdSorter.conflictIdCycleCount=0, ConflictResolver.totalTime=171309, ConflictResolver.conflictItemCount=7, DefaultDependencyCollector.collectTime=80174016, DefaultDependencyCollector.transformTime=274441}
+Server threadEx[30Apr2025 00:08:36.461] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar
+Server threadEx[30Apr2025 00:08:36.461] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/commons-io/commons-io/2.18.0/commons-io-2.18.0.jar
+Server threadEx[30Apr2025 00:08:36.462] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.8.0/oshi-core-6.8.0.jar
+Server threadEx[30Apr2025 00:08:36.462] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/java/dev/jna/jna/5.17.0/jna-5.17.0.jar
+Server threadEx[30Apr2025 00:08:36.462] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/java/dev/jna/jna-platform/5.17.0/jna-platform-5.17.0.jar
+Server threadEx[30Apr2025 00:08:36.462] [Server thread/INFO] [Minecraft/]: [LagFixer] Loaded library /workspaces/msx/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar
+Server threadEx[30Apr2025 00:08:36.514] [Server thread/INFO] [PlayerCarry/]: Loading PlayerCarry v1.1
+Server threadEx[30Apr2025 00:08:36.515] [Server thread/INFO] [BlockProt/]: Loading BlockProt v1.2.4
+Server threadEx[30Apr2025 00:08:36.526] [Server thread/INFO] [BlockProt/]: Registered plugin integration for plugin with id 'towny'
+Server threadEx[30Apr2025 00:08:36.526] [Server thread/INFO] [BlockProt/]: Registered plugin integration for plugin with id 'placeholderapi'
+Server threadEx[30Apr2025 00:08:36.527] [Server thread/INFO] [OpenAudioMc/]: Loading OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 00:08:36.528] [Server thread/INFO] [Sleeper/]: Loading Sleeper v1.6.3
+Server threadEx[30Apr2025 00:08:36.529] [Server thread/INFO] [PlayerCarry/]: Enabling PlayerCarry v1.1
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.911] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.912] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.913] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.914] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+Server threadEx[30Apr2025 00:08:36.915] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.916] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/level
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/type
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index2/size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/level
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/type
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.917] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index0/size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/level
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/type
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index3/size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/level
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/type
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/ways_of_associativity
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/coherency_line_size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cache/index1/size
+Server threadEx[30Apr2025 00:08:36.918] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+Server threadEx[30Apr2025 00:08:36.928] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+Server threadEx[30Apr2025 00:08:36.928] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+Server threadEx[30Apr2025 00:08:36.931] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/mounts
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/type
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/type
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/carrier
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/carrier
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/tx_bytes
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/tx_bytes
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_bytes
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_bytes
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/tx_packets
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/tx_packets
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_packets
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_packets
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/tx_errors
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/tx_errors
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_errors
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_errors
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/collisions
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/collisions
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_dropped
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/statistics/rx_dropped
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/speed
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/speed
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/ifalias
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/ifalias
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/operstate
+Server threadEx[30Apr2025 00:08:36.943] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/docker0/operstate
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/type
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/type
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/carrier
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/carrier
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/tx_bytes
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/tx_bytes
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_bytes
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_bytes
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/tx_packets
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/tx_packets
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_packets
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_packets
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/tx_errors
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/tx_errors
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_errors
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_errors
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/collisions
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/collisions
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_dropped
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/statistics/rx_dropped
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/speed
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/speed
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/ifalias
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/ifalias
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/operstate
+Server threadEx[30Apr2025 00:08:36.944] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/class/net/eth0/operstate
+Server threadEx[30Apr2025 00:08:36.950] [Server thread/INFO] [BlockProt/]: Enabling BlockProt v1.2.4
+Server threadEx[30Apr2025 00:08:36.968] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_21_R1! Trying to find NMS support
+Server threadEx[30Apr2025 00:08:36.968] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_21_R1' loaded!
+Server threadEx[30Apr2025 00:08:36.969] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'BlockProt' to create a bStats instance!
+Server threadEx[30Apr2025 00:08:37.016] [Server thread/WARN] [BlockProt/]: Failed to map following values to enum: [PALE_OAK_FENCE_GATE, PALE_OAK_TRAPDOOR]
+Server threadEx[30Apr2025 00:08:37.017] [Server thread/WARN] [BlockProt/]: Failed to map following values to enum: [PALE_OAK_DOOR]
+Server threadEx[30Apr2025 00:08:37.036] [Server thread/INFO] [OpenAudioMc/]: Enabling OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 00:08:37.047] [Server thread/INFO] [OpenAudioMc/]: [info] Starting OpenAudioMc, build 1543 by Mats
+Server threadEx[30Apr2025 00:08:37.065] [Server thread/INFO] [OpenAudioMc/]: [info] Using the main config file..
+Server threadEx[30Apr2025 00:08:37.070] [Server thread/INFO] [OpenAudioMc/]: [info] Starting configuration module
+Server threadEx[30Apr2025 00:08:37.070] [Server thread/INFO] [OpenAudioMc/]: [info] Using the main config file..
+Server threadEx[30Apr2025 00:08:37.070] [Server thread/INFO] [OpenAudioMc/]: [info] Starting configuration module
+Server threadEx[30Apr2025 00:08:37.074] [Server thread/INFO] [OpenAudioMc/]: [info] Detected md_5 chat support, using default user adapter
+Server threadEx[30Apr2025 00:08:37.083] [Server thread/INFO] [OpenAudioMc/]: [info] Skipped 45/45 migrations.
+Server threadEx[30Apr2025 00:08:37.084] [Server thread/INFO] [OpenAudioMc/]: [info] ModuleLoaderService: Loading modules from /workspaces/msx/servidor_minecraft/plugins/OpenAudioMc/modules
+Server threadEx[30Apr2025 00:08:37.085] [Server thread/INFO] [OpenAudioMc/]: [info] Using networking class com.craftmend.openaudiomc.generic.networking.DefaultNetworkingService
+Server threadEx[30Apr2025 00:08:37.089] [Server thread/INFO] [OpenAudioMc/]: [info] Initializing connection service...
+Server threadEx[30Apr2025 00:08:37.095] [Server thread/INFO] [OpenAudioMc/]: [info] Starting authentication module
+Server threadEx[30Apr2025 00:08:37.095] [Server thread/INFO] [OpenAudioMc/]: [info] This server already has an account, skipping sign up.
+Server threadEx[30Apr2025 00:08:37.111] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Adding spigot tables
+Server threadEx[30Apr2025 00:08:37.111] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for Alias
+Server threadEx[30Apr2025 00:08:37.118] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (alias<->Alias.java)
+Server threadEx[30Apr2025 00:08:37.119] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for ClientDataStore
+Server threadEx[30Apr2025 00:08:37.120] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
+Server threadEx[30Apr2025 00:08:37.121] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for MojangProfile
+Server threadEx[30Apr2025 00:08:37.121] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
+Server threadEx[30Apr2025 00:08:37.122] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for RegionProperties
+Server threadEx[30Apr2025 00:08:37.122] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
+Server threadEx[30Apr2025 00:08:37.123] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for Speaker
+Server threadEx[30Apr2025 00:08:37.125] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
+Server threadEx[30Apr2025 00:08:37.126] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for StoredWorldChunk
+Server threadEx[30Apr2025 00:08:37.126] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
+Server threadEx[30Apr2025 00:08:37.127] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for TimedRegionProperties
+Server threadEx[30Apr2025 00:08:37.128] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (timed_region_properties<->TimedRegionProperties.java)
+Server threadEx[30Apr2025 00:08:37.129] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for MediaRule
+Server threadEx[30Apr2025 00:08:37.130] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (media_rule<->MediaRule.java)
+Server threadEx[30Apr2025 00:08:37.159] [Server thread/INFO] [OpenAudioMc/]: [info] Initializing account details
+Server threadEx[30Apr2025 00:08:37.350] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Server threadEx[30Apr2025 00:08:37.350] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Server threadEx[30Apr2025 00:08:37.350] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Server threadEx[30Apr2025 00:08:37.351] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10004 scheduled after   0 µs: OkHttp account.openaudiomc.net
+Server threadEx[30Apr2025 00:08:37.352] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10004 starting              : OkHttp account.openaudiomc.net
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.352] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 scheduled after   0 µs: OkHttp ConnectionPool
+Server threadEx[30Apr2025 00:08:37.352] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.352] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:37.352] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 finished run in 137 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.362] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   102 HEADERS       END_STREAM|END_HEADERS
+Server threadEx[30Apr2025 00:08:37.378] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.378] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10001 scheduled after   0 µs: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.378] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.378] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.379] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10001 starting              : OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.380] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10003 scheduled after   0 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:37.380] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:37.380] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10003 starting              : OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.380] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10001 finished run in   1 ms: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.380] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10003 finished run in  74 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.713] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   591 HEADERS       END_HEADERS
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.715] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   600 DATA          
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.715] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.726] [Server thread/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 scheduled after   0 µs: OkHttp ConnectionPool
+Server threadEx[30Apr2025 00:08:37.726] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.726] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:37.727] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10000 finished run in  65 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.748] [Server thread/INFO] [OpenAudioMc/]: [info] Loading aliases...
+Server threadEx[30Apr2025 00:08:37.750] [Server thread/INFO] [OpenAudioMc/]: [info] Loaded 0 aliases
+Server threadEx[30Apr2025 00:08:37.752] [Server thread/INFO] [OpenAudioMc/]: [info] Detected version type: MODERN
+Server threadEx[30Apr2025 00:08:37.758] [Server thread/INFO] [OpenAudioMc/]: [info] Enabling the 1.13 speaker system
+Server threadEx[30Apr2025 00:08:37.759] [Server thread/INFO] [OpenAudioMc/]: [info] Starting redstone speaker tick task with interval 5 ticks
+Server threadEx[30Apr2025 00:08:37.777] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for Playlist
+Server threadEx[30Apr2025 00:08:37.778] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (playlists<->Playlist.java)
+Server threadEx[30Apr2025 00:08:37.779] [Server thread/INFO] [OpenAudioMc/]: [info] Registering storage table for PlaylistEntry
+Server threadEx[30Apr2025 00:08:37.779] [Server thread/INFO] [OpenAudioMc/]: [info] DatabaseService: Registering class <-> table (playlist_entries<->PlaylistEntry.java)
+Server threadEx[30Apr2025 00:08:37.785] [Server thread/INFO] [OpenAudioMc/]: [info] Loaded 0 media chunks from file.
+Server threadEx[30Apr2025 00:08:37.794] [Server thread/INFO] [OpenAudioMc/]: [info] Loading static voice channels..
+Server threadEx[30Apr2025 00:08:37.795] [Server thread/INFO] [OpenAudioMc/]: [info] Created static channel: survival
+Server threadEx[30Apr2025 00:08:37.796] [Server thread/INFO] [OpenAudioMc/]: [info] Created static channel: off-topic
+Server threadEx[30Apr2025 00:08:37.796] [Server thread/INFO] [OpenAudioMc/]: [info] Created static channel: staff-chat
+Server threadEx[30Apr2025 00:08:37.796] [Server thread/INFO] [OpenAudioMc/]: [info] Loaded 3 static voice channels
+Server threadEx[30Apr2025 00:08:37.799] [Server thread/INFO] [OpenAudioMc/]: [info] The legacy cdn exporter is disabled, skipping boot.
+Server threadEx[30Apr2025 00:08:37.799] [Server thread/INFO] [OpenAudioMc/]: [info] Starting and loading took 1291MS
+Server threadEx[30Apr2025 00:08:37.800] [Server thread/INFO] [Sleeper/]: Enabling Sleeper v1.6.3
+Server threadEx[30Apr2025 00:08:37.800] [Server thread/INFO] [Sleeper/]: Sleeper Version 1.6.3 Has Been Enabled!
+Server threadEx[30Apr2025 00:08:37.814] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[30Apr2025 00:08:37.835] [Server thread/INFO] [Console/]: CONSOLE: Reload complete.
+Server threadEx[30Apr2025 00:08:37.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+Server threadEx[30Apr2025 00:08:37.861] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:37.861] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:37.861] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:37.862] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10009 scheduled after   0 µs: OkHttp account.openaudiomc.net
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:37.862] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:37.862] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   130 HEADERS       END_STREAM|END_HEADERS
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:37.864] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10009 starting              : OkHttp account.openaudiomc.net
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.864] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.864] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:37.864] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 finished run in  53 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.892] [Craft Scheduler Thread - 0/INFO] [BlockProt/]: BlockProt is up to date. (1.2.4)
+Craft Scheduler Thread - 0Ex[30Apr2025 00:08:37.899] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.899] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10006 scheduled after   0 µs: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.900] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10006 starting              : OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.900] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10008 scheduled after   0 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:37.900] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.901] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:37.901] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:37.902] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10008 starting              : OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.902] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10008 finished run in  55 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:37.902] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10006 finished run in   2 ms: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.233] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   587 HEADERS       END_HEADERS
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:38.234] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   155 DATA          
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:38.234] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:38.234] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.234] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.234] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:38.234] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10005 finished run in  64 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.566] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.566] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.566] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.566] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10015 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.566] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.566] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10015 starting              : OkHttp nif-1.openaudiomc.net
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.566] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.566] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:38.566] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 finished run in  52 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.567] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   188 HEADERS       END_STREAM|END_HEADERS
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.802] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    30 SETTINGS      
+OkHttp nif-1.openaudiomc.netEx[30Apr2025 00:08:38.803] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10012 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net applyAndAckSettings
+OkHttp nif-1.openaudiomc.netEx[30Apr2025 00:08:38.803] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10012 starting              : OkHttp nif-1.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.803] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp nif-1.openaudiomc.netEx[30Apr2025 00:08:38.803] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp nif-1.openaudiomc.netEx[30Apr2025 00:08:38.803] [OkHttp nif-1.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10014 scheduled after   0 µs: OkHttp nif-1.openaudiomc.net onSettings
+OkHttp nif-1.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:38.803] [OkHttp nif-1.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp nif-1.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:38.803] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10014 starting              : OkHttp nif-1.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.803] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10012 finished run in 805 µs: OkHttp nif-1.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.803] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10014 finished run in  43 µs: OkHttp nif-1.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.867] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   132 HEADERS       END_HEADERS
+OkHttp nif-1.openaudiomc.netEx[30Apr2025 00:08:38.867] [OkHttp nif-1.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003    30 DATA          END_STREAM
+OkHttp nif-1.openaudiomc.netEx[30Apr2025 00:08:38.868] [Craft Scheduler Thread - 2/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 scheduled after   0 µs: OkHttp ConnectionPool
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:38.868] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.868] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:38.868] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10011 finished run in  53 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:38.907] [Craft Scheduler Thread - 2/INFO] [OpenAudioMc/]: [info] Attempting to login to voice chat...
+Craft Scheduler Thread - 2Ex[30Apr2025 00:08:39.137] [OkHttp https://nif-1.openaudiomc.net/.../DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10010 scheduled after   0 µs: OkHttp ConnectionPool
+OkHttp https://nif-1.openaudiomc.net/...Ex[30Apr2025 00:08:39.137] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10010 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.137] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10010 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:39.137] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10010 finished run in  55 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.490] [OaVoiceWorker/INFO] [OpenAudioMc/]: [info] Voice chat connected!
+OaVoiceWorkerEx[30Apr2025 00:08:39.493] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 scheduled after   0 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OaVoiceWorkerEx[30Apr2025 00:08:39.493] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 already scheduled     : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OaVoiceWorkerEx[30Apr2025 00:08:39.493] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 already scheduled     : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OaVoiceWorkerEx[30Apr2025 00:08:39.494] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 starting              : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.496] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 scheduled after   0 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OaVoiceWorkerEx[30Apr2025 00:08:39.496] [OkHttp WebSocket https://nif-1.openaudiomc.net/... writer/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 already scheduled     : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp WebSocket https://nif-1.openaudiomc.net/... writerEx[30Apr2025 00:08:39.496] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 finished run in   3 ms: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.496] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 starting              : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.496] [OkHttp WebSocket https://nif-1.openaudiomc.net/... writer/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 run again after   0 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp WebSocket https://nif-1.openaudiomc.net/... writerEx[30Apr2025 00:08:39.496] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 finished run in  99 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.496] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 starting              : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.496] [OkHttp WebSocket https://nif-1.openaudiomc.net/... writer/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 run again after   0 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp WebSocket https://nif-1.openaudiomc.net/... writerEx[30Apr2025 00:08:39.496] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 finished run in 109 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.496] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 starting              : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.498] [OkHttp WebSocket https://nif-1.openaudiomc.net/... writer/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 scheduled after  60 s : OkHttp WebSocket https://nif-1.openaudiomc.net/... cancel
+OkHttp WebSocket https://nif-1.openaudiomc.net/... writerEx[30Apr2025 00:08:39.498] [OkHttp WebSocket https://nif-1.openaudiomc.net/... writer/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 run again after   0 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp WebSocket https://nif-1.openaudiomc.net/... writerEx[30Apr2025 00:08:39.498] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 finished run in   2 ms: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.498] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 starting              : OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.499] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 finished run in  15 µs: OkHttp WebSocket https://nif-1.openaudiomc.net/... writer
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.513] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+OaVoiceWorkerEx[30Apr2025 00:08:39.513] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+OaVoiceWorkerEx[30Apr2025 00:08:39.513] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+OaVoiceWorkerEx[30Apr2025 00:08:39.513] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10022 scheduled after   0 µs: OkHttp account.openaudiomc.net
+OaVoiceWorkerEx[30Apr2025 00:08:39.513] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10022 starting              : OkHttp account.openaudiomc.net
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.514] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 scheduled after   0 µs: OkHttp ConnectionPool
+OaVoiceWorkerEx[30Apr2025 00:08:39.514] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.514] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:39.514] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 finished run in  82 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.514] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000003   131 HEADERS       END_STREAM|END_HEADERS
+OaVoiceWorkerEx[30Apr2025 00:08:39.555] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.555] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10019 scheduled after   0 µs: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.555] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.555] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.556] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10019 starting              : OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.556] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10021 scheduled after   0 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:39.556] [OkHttp account.openaudiomc.net applyAndAckSettings/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+OkHttp account.openaudiomc.net applyAndAckSettingsEx[30Apr2025 00:08:39.556] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10021 starting              : OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.556] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10021 finished run in  45 µs: OkHttp account.openaudiomc.net onSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.556] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10019 finished run in 768 µs: OkHttp account.openaudiomc.net applyAndAckSettings
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.875] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003   591 HEADERS       END_HEADERS
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.875] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003    56 DATA          
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.876] [OkHttp account.openaudiomc.net/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+OkHttp account.openaudiomc.netEx[30Apr2025 00:08:39.876] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 scheduled after   0 µs: OkHttp ConnectionPool
+OaVoiceWorkerEx[30Apr2025 00:08:39.876] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10016 canceled              : OkHttp WebSocket https://nif-1.openaudiomc.net/... cancel
+OaVoiceWorkerEx[30Apr2025 00:08:39.876] [OaVoiceWorker/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10010 canceled              : OkHttp ConnectionPool
+OaVoiceWorkerEx[30Apr2025 00:08:39.877] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 starting              : OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:39.877] [OkHttp ConnectionPool/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 run again after 300 s : OkHttp ConnectionPool
+OkHttp ConnectionPoolEx[30Apr2025 00:08:39.877] [OkHttp TaskRunner/DEBUG] [com.craftmend.thirdparty.okhttp3.internal.concurrent.TaskRunner/]: Q10018 finished run in  44 µs: OkHttp ConnectionPool
+OkHttp TaskRunnerEx[30Apr2025 00:08:43.529] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> listo
+Async Chat Thread - #4Ex[30Apr2025 00:08:47.897] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ya
+Async Chat Thread - #4Ex[30Apr2025 00:08:49.686] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> muevete
+Async Chat Thread - #5Ex[30Apr2025 00:08:52.395] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ya puedes
+Async Chat Thread - #4Ex[30Apr2025 00:08:56.775] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> goood
+Async Chat Thread - #5Ex[30Apr2025 00:09:03.237] [Async Chat Thread - #4/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FABIAN_MIX> sigo sin ver un rabo
+Async Chat Thread - #4Ex
