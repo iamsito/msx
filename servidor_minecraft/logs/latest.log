@@ -603,4 +603,102 @@ Async Chat Thread - #5Ex[30Apr2025 03:43:24.347] [Async Chat Thread - #6/INFO] [
 Async Chat Thread - #6Ex[30Apr2025 03:43:36.651] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no sabia eso de ti
 Async Chat Thread - #5Ex[30Apr2025 03:43:46.586] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> me gusta hernan
 Async Chat Thread - #6Ex[30Apr2025 03:43:56.207] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiera> ahhh que paso
-Async Chat Thread - #5Ex
+Async Chat Thread - #5Ex[30Apr2025 03:44:28.796] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /tpa iam
+Server threadEx[30Apr2025 03:44:31.700] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes:tpaccept Marcuss988
+Server threadEx[30Apr2025 03:44:46.224] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> buenoo
+Async Chat Thread - #5Ex[30Apr2025 03:44:51.464] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> y el spawn donde estaba¿
+Async Chat Thread - #6Ex[30Apr2025 03:44:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Getting an Upgrade]
+Server threadEx[30Apr2025 03:44:58.464] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> aldea
+Async Chat Thread - #5Ex[30Apr2025 03:45:03.564] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> se puede hacer /spawn no?
+Async Chat Thread - #6Ex[30Apr2025 03:45:05.166] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /spawn
+Server threadEx[30Apr2025 03:45:08.024] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> nose
+Async Chat Thread - #5Ex[30Apr2025 03:45:12.914] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> venç
+Async Chat Thread - #6Ex[30Apr2025 03:45:16.980] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes help
+Server threadEx[30Apr2025 03:45:22.090] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes:huskhomes help 2
+Server threadEx[30Apr2025 03:45:32.468] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes:huskhomes help 3
+Server threadEx[30Apr2025 03:45:33.933] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> poatataaaaaaaaaaas
+Async Chat Thread - #5Ex[30Apr2025 03:45:36.311] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes:huskhomes help 2
+Server threadEx[30Apr2025 03:45:37.331] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /huskhomes:huskhomes help 1
+Server threadEx[30Apr2025 03:45:50.762] [Server thread/INFO] [net.minecraft.class_3244/]: Rubiera lost connection: Timed out
+Server threadEx[30Apr2025 03:45:50.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiera left the game
+Server threadEx[30Apr2025 03:45:51.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made iam a server operator
+Server threadEx[30Apr2025 03:45:56.849] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /setspawn
+Server threadEx[30Apr2025 03:46:00.112] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /spawn
+Server threadEx[30Apr2025 03:46:03.697] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> listo
+Async Chat Thread - #6Ex[30Apr2025 03:46:05.407] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> hay spawn
+Async Chat Thread - #5Ex[30Apr2025 03:46:16.799] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ya funciona el /spawn
+Async Chat Thread - #5Ex[30Apr2025 03:46:19.729] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /gamemode spectator
+Server threadEx[30Apr2025 03:46:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Spectator Mode]
+Server threadEx[30Apr2025 03:46:23.203] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> oka
+Async Chat Thread - #6Ex[30Apr2025 03:46:42.231] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tp @s -148 114.5 -193
+Server threadEx[30Apr2025 03:46:42.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to -147.500000, 114.500000, -192.500000]
+Server threadEx[30Apr2025 03:46:50.353] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> dios
+Async Chat Thread - #5Ex[30Apr2025 03:46:50.811] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tp @s -15 79.5 27
+Server threadEx[30Apr2025 03:46:50.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported iam to -14.500000, 79.500000, 27.500000]
+Server threadEx[30Apr2025 03:46:59.543] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> lo q comerdcia el loco este
+Async Chat Thread - #6Ex[30Apr2025 03:47:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Ice Bucket Challenge]
+Server threadEx[30Apr2025 03:47:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Diamonds!]
+Server threadEx[30Apr2025 03:47:06.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 has made the advancement [Suit Up]
+Server threadEx[30Apr2025 03:47:15.485] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /setspawn
+Server threadEx[30Apr2025 03:47:18.191] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /gamemode survival
+Server threadEx[30Apr2025 03:47:18.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Set own game mode to Survival Mode]
+Server threadEx[30Apr2025 03:47:23.909] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tpa Marcuss988
+Server threadEx[30Apr2025 03:47:29.010] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 issued server command: /huskhomes:tpaccept iam
+Server threadEx[30Apr2025 03:47:45.419] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a si
+Async Chat Thread - #5Ex[30Apr2025 03:47:52.139] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> tambien esta el plugin de los cofres
+Async Chat Thread - #5Ex[30Apr2025 03:48:00.752] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ?
+Async Chat Thread - #6Ex[30Apr2025 03:48:08.033] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el que teniamos nosotros
+Async Chat Thread - #5Ex[30Apr2025 03:48:13.242] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> para bloquear los cofres
+Async Chat Thread - #6Ex[30Apr2025 03:48:29.572] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> orlando se quedo sin internet eln el nauta
+Async Chat Thread - #5Ex[30Apr2025 03:48:34.902] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> toma
+Async Chat Thread - #6Ex[30Apr2025 03:48:37.136] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que tonto
+Async Chat Thread - #5Ex[30Apr2025 03:48:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Suit Up]
+Server threadEx[30Apr2025 03:48:48.552] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> toma
+Async Chat Thread - #6Ex[30Apr2025 03:48:57.218] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que lindas botillas tio
+Async Chat Thread - #5Ex[30Apr2025 03:48:59.792] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> se te agradece
+Async Chat Thread - #6Ex[30Apr2025 03:49:12.431] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ya tengo papas
+Async Chat Thread - #5Ex[30Apr2025 03:49:22.901] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> donde nos hacemos la casa?
+Async Chat Thread - #6Ex[30Apr2025 03:49:32.651] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> en la montaña del spawn esrtaba buena
+Async Chat Thread - #5Ex[30Apr2025 03:49:42.973] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp prefiero mucho mas esta generacion de mundos que la otra
+Async Chat Thread - #6Ex[30Apr2025 03:49:43.451] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> la de allado de la de orlando
+Async Chat Thread - #5Ex[30Apr2025 03:49:49.075] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> esta es muy buena
+Async Chat Thread - #6Ex[30Apr2025 03:49:56.691] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> esta que?=
+Async Chat Thread - #5Ex[30Apr2025 03:50:12.705] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp yo creo que hay que hacer una en el cielo
+Async Chat Thread - #6Ex[30Apr2025 03:50:16.031] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> como habias dicho
+Async Chat Thread - #5Ex[30Apr2025 03:50:18.321] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> me sirve
+Async Chat Thread - #6Ex[30Apr2025 03:50:23.951] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> lo q hace falta piedra
+Async Chat Thread - #5Ex[30Apr2025 03:50:31.731] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> mucha
+Async Chat Thread - #6Ex[30Apr2025 03:50:45.577] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp no hace falta hacer una escalera
+Async Chat Thread - #5Ex[30Apr2025 03:50:47.585] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> mira
+Async Chat Thread - #6Ex[30Apr2025 03:50:52.100] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ascensor
+Async Chat Thread - #5Ex[30Apr2025 03:50:53.651] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> lo hacemos en un lago
+Async Chat Thread - #6Ex[30Apr2025 03:51:00.731] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ?
+Async Chat Thread - #5Ex[30Apr2025 03:51:06.115] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> y para entrar usamos /home
+Async Chat Thread - #6Ex[30Apr2025 03:51:17.670] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> pp y si aguien quiere ir?
+Async Chat Thread - #5Ex[30Apr2025 03:51:24.587] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que se haga tp a nosotros
+Async Chat Thread - #6Ex[30Apr2025 03:51:29.554] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> pp ño
+Async Chat Thread - #5Ex[30Apr2025 03:51:34.845] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> ademas
+Async Chat Thread - #6Ex[30Apr2025 03:51:40.648] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> puedo poner un plugins de elevadores tambien
+Async Chat Thread - #5Ex[30Apr2025 03:51:43.207] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> relaja la raja
+Async Chat Thread - #6Ex[30Apr2025 03:51:47.330] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> ee
+Async Chat Thread - #5Ex[30Apr2025 03:51:53.205] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Unemployed'/6735, l='ServerLevel[world]', x=-372.68, y=63.00, z=97.16] died, message: 'Unemployed was slain by Zombie'
+Server threadEx[30Apr2025 03:51:54.293] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> el caso es que hacer escaleras es impractico
+Async Chat Thread - #6Ex[30Apr2025 03:52:08.869] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> y como nos hacemos granjas de animales?
+Async Chat Thread - #5Ex[30Apr2025 03:52:15.165] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> pp no
+Async Chat Thread - #6Ex[30Apr2025 03:52:18.737] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> eso sobrecarga el server
+Async Chat Thread - #5Ex[30Apr2025 03:52:22.930] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> bueno
+Async Chat Thread - #6Ex[30Apr2025 03:52:26.829] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> q hacemos¿
+Async Chat Thread - #5Ex[30Apr2025 03:52:27.511] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> las granjas en general
+Async Chat Thread - #6Ex[30Apr2025 03:52:39.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 was slain by Zombie
+Server threadEx[30Apr2025 03:52:45.469] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> a chuparla
+Async Chat Thread - #5Ex[30Apr2025 03:52:50.719] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marcuss988> no hay tumbas
+Async Chat Thread - #6Ex[30Apr2025 03:52:55.581] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /tp Marcuss988 iam
+Server threadEx[30Apr2025 03:52:55.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Teleported Marcuss988 to iam]
+Server threadEx[30Apr2025 03:52:57.056] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> no
+Async Chat Thread - #5Ex[30Apr2025 03:52:58.664] [Async Chat Thread - #6/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> apurateeee
+Async Chat Thread - #6Ex[30Apr2025 03:53:01.024] [Async Chat Thread - #5/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iam> que se borra
+Async Chat Thread - #5Ex[30Apr2025 03:53:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Diamonds!]
+Server threadEx[30Apr2025 03:53:27.657] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 lost connection: Timed out
+Server threadEx[30Apr2025 03:53:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 left the game
+Server threadEx[30Apr2025 03:53:31.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Ice Bucket Challenge]
+Server threadEx
