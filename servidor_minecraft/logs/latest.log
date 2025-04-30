@@ -701,4 +701,53 @@ Async Chat Thread - #5Ex[30Apr2025 03:53:21.407] [Server thread/INFO] [net.minec
 Server threadEx[30Apr2025 03:53:27.657] [Server thread/INFO] [net.minecraft.class_3244/]: Marcuss988 lost connection: Timed out
 Server threadEx[30Apr2025 03:53:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcuss988 left the game
 Server threadEx[30Apr2025 03:53:31.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Ice Bucket Challenge]
-Server threadEx
+Server threadEx[30Apr2025 03:54:18.807] [Server thread/INFO] [net.minecraft.class_1646/]: Villager class_1646['Farmer'/5902, l='ServerLevel[world]', x=-387.88, y=63.00, z=82.73] died, message: 'Farmer was slain by Zombie'
+Server threadEx[30Apr2025 03:54:23.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam has made the advancement [Monster Hunter]
+Server threadEx[30Apr2025 03:54:54.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam was blown up by Creeper
+Server threadEx[30Apr2025 03:56:27.872] [Server thread/INFO] [net.minecraft.class_3244/]: iam issued server command: /stop
+Server threadEx[30Apr2025 03:56:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [iam: Stopping the server]
+Server threadEx[30Apr2025 03:56:27.873] [Server thread/INFO] [ViaVersion/]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+Server threadEx[30Apr2025 03:56:27.904] [Server thread/INFO] [geyser/]: Shutting down Geyser.
+Server threadEx[30Apr2025 03:56:28.011] [Server thread/INFO] [geyser/]: Geyser shutdown successfully.
+Server threadEx[30Apr2025 03:56:28.125] [WebSocketConnectReadThread-112/INFO] [geyser/]: The skin uploader has been closed
+WebSocketConnectReadThread-112Ex[30Apr2025 03:56:28.794] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: java.util.concurrent.RejectedExecutionException: Server already shutting down
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//net.minecraft.server.MinecraftServer.method_40000(MinecraftServerMixin.java:1405)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.fabric.plugin.FabricServerSparkPlugin.executeSync(FabricServerSparkPlugin.java:142)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.common.platform.world.AsyncWorldInfoProvider.async(AsyncWorldInfoProvider.java:55)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.common.platform.world.AsyncWorldInfoProvider.pollCounts(AsyncWorldInfoProvider.java:77)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.common.platform.world.AsyncWorldInfoProvider.getCounts(AsyncWorldInfoProvider.java:93)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.common.sampler.window.WindowStatisticsCollector.measure(WindowStatisticsCollector.java:185)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.common.sampler.window.WindowStatisticsCollector.measureNow(WindowStatisticsCollector.java:123)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at knot//me.lucko.spark.common.sampler.async.AsyncSampler.rotateProfilerJob(AsyncSampler.java:140)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:28.795] [spark-async-sampler-worker-thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+spark-async-sampler-worker-threadEx[30Apr2025 03:56:30.016] [Server thread/INFO] [HuskHomes/]: Disabling HuskHomes v4.9.4...
+Server threadEx[30Apr2025 03:56:30.016] [Server thread/INFO] [HuskHomes/]: Successfully disabled HuskHomes v4.9.4
+Server threadEx[30Apr2025 03:56:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+Server threadEx[30Apr2025 03:56:30.017] [Server thread/INFO] [Sleeper/]: Disabling Sleeper v1.6.3
+Server threadEx[30Apr2025 03:56:30.017] [Server thread/INFO] [Sleeper/]: Sleeper Has Been Disabled!
+Server threadEx[30Apr2025 03:56:30.019] [Server thread/INFO] [OpenAudioMc/]: Disabling OpenAudioMc v6.10.10
+Server threadEx[30Apr2025 03:56:30.019] [Server thread/INFO] [OpenAudioMc/]: [info] Shutting down
+Server threadEx[30Apr2025 03:56:30.019] [Server thread/INFO] [OpenAudioMc/]: [info] Saving world cache...
+Server threadEx[30Apr2025 03:56:30.088] [Server thread/INFO] [OpenAudioMc/]: [info] Saved 1 media chunks to db.
+Server threadEx[30Apr2025 03:56:30.090] [Server thread/INFO] [OpenAudioMc/]: [info] Stopped OpenAudioMc. Goodbye.
+Server threadEx[30Apr2025 03:56:30.091] [Server thread/INFO] [BlockProt/]: Disabling BlockProt v1.2.4
+Server threadEx[30Apr2025 03:56:30.091] [Server thread/INFO] [BlockProt/]: Saving statistic file...
+Server threadEx[30Apr2025 03:56:30.098] [Server thread/INFO] [PlayerCarry/]: Disabling PlayerCarry v1.1
+Server threadEx[30Apr2025 03:56:30.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+Server threadEx[30Apr2025 03:56:30.153] [Server thread/INFO] [net.minecraft.class_3244/]: iam lost connection: Server closed
+Server threadEx[30Apr2025 03:56:30.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iam left the game.
+Server threadEx[30Apr2025 03:56:30.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+Server threadEx[30Apr2025 03:56:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+Server threadEx[30Apr2025 03:56:33.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+Server threadEx[30Apr2025 03:56:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+Server threadEx[30Apr2025 03:56:38.684] [Exit Thread/INFO] [Arclight/]: 5 threads not shutting down correctly, force exiting
+Exit ThreadEx[30Apr2025 03:56:38.686] [Server Shutdown Thread/INFO] [ViaVersion/]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+Server Shutdown ThreadEx
