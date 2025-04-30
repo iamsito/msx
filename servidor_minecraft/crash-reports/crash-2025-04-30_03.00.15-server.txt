@@ -1,0 +1,225 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 2025-04-30 03:00:15
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:716)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Linux (amd64) version 6.8.0-1026-azure
+	Java Version: 21.0.6, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 3534495640 bytes (3370 MiB) / 4294967296 bytes (4096 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 7995.01
+	Virtual memory used (MiB): 8938.72
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 89922.71, total: 120377.56
+	Space in storage for workdir (MiB): available: 16739.16, total: 32077.81
+	JVM Flags: 2 total; -Xms4G -Xmx12G
+	Fabric Mods: 
+		arclight: Arclight Mod 1.0.1-SNAPSHOT+e9dd116
+		collective: Collective 8.3
+		fabric-api: Fabric API 0.115.6+1.21.1
+			fabric-api-base: Fabric API Base 0.4.42+6573ed8c19
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.70+b559734419
+			fabric-biome-api-v1: Fabric Biome API (v1) 13.0.31+d527f9fd19
+			fabric-block-api-v1: Fabric Block API (v1) 1.0.22+0af3f5a719
+			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.11+ebb2264e19
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.49+f71b366f19
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.28+6ced4dd919
+			fabric-commands-v0: Fabric Commands (v0) 0.2.66+df3654b319
+			fabric-content-registries-v0: Fabric Content Registries (v0) 8.0.18+b559734419
+			fabric-convention-tags-v1: Fabric Convention Tags 2.1.4+7f945d5b19
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 2.11.0+a406e79519
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.29+0af3f5a719
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.4.3+a15b7ead19
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 20.2.28+16c4ae2519
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 4.0.0+6fc22b9919
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.7.0+2122d82819
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.7.13+ba9dae0619
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.53+6ced4dd919
+			fabric-item-api-v1: Fabric Item API (v1) 11.1.1+d5debaed19
+			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.1.7+def88e3a19
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.5.0+01d9a51c19
+			fabric-loot-api-v2: Fabric Loot API (v2) 3.0.15+3f89f5a519
+			fabric-loot-api-v3: Fabric Loot API (v3) 1.0.3+3f89f5a519
+			fabric-message-api-v1: Fabric Message API (v1) 6.0.13+6573ed8c19
+			fabric-networking-api-v1: Fabric Networking API (v1) 4.3.0+c7469b2119
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 15.2.1+40875a9319
+			fabric-particles-v1: Fabric Particles (v1) 4.0.2+6573ed8c19
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 5.0.14+248df81c19
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 5.2.0+34f5d91419
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.49+73761d2e19
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.6+1daea21519
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 4.3.0+8dc279b119
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 1.3.1+5b5275af19
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.88+b559734419
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 5.4.2+c24bd99419
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 6.2.0+45b9699719
+		fabricloader: Fabric Loader 0.16.10
+			mixinextras: MixinExtras 0.4.1
+		fallingtree: FallingTree 1.21.1.7
+		floodgate: Floodgate 2.2.4-SNAPSHOT
+			aopalliance_aopalliance: aopalliance 1.0
+			com_google_guava_failureaccess: failureaccess 1.0.1
+			jakarta_inject_jakarta_inject-api: jakarta.inject-api 2.0.1
+			javax_inject_javax_inject: javax.inject 1
+			org_geysermc_geyser_common_unshaded: common 2.2.1-SNAPSHOT
+			org_java-websocket_java-websocket: Java-WebSocket 1.5.2
+		geyser-fabric: Geyser-Fabric 2.4.4-SNAPSHOT
+			cloud: Cloud 2.0.0-beta.7
+				io_leangen_geantyref_geantyref: geantyref 1.3.15
+				org_incendo_cloud-brigadier: cloud-brigadier 2.0.0-beta.8
+				org_incendo_cloud-core: cloud-core 2.0.0-rc.2
+				org_incendo_cloud-minecraft-modded-common-fabric-repack_: cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.7
+				org_incendo_cloud-services: cloud-services 2.0.0-rc.2
+			com_fasterxml_jackson_core_jackson-annotations: jackson-annotations 2.17.0
+			com_fasterxml_jackson_core_jackson-core: jackson-core 2.17.0
+			com_fasterxml_jackson_core_jackson-databind: jackson-databind 2.17.0
+			com_fasterxml_jackson_dataformat_jackson-dataformat-yaml: jackson-dataformat-yaml 2.17.0
+			com_google_errorprone_error_prone_annotations: error_prone_annotations 2.27.0
+			com_nukkitx_natives: natives 1.0.3
+			io_airlift_aircompressor: aircompressor 0.25
+			io_jsonwebtoken_jjwt-api: jjwt-api 0.12.6
+			io_jsonwebtoken_jjwt-gson: jjwt-gson 0.12.6
+			io_jsonwebtoken_jjwt-impl: jjwt-impl 0.12.6
+			io_netty_netty-codec-dns: netty-codec-dns 4.1.107
+			io_netty_netty-codec-haproxy: netty-codec-haproxy 4.1.107
+			io_netty_netty-resolver-dns-classes-macos: netty-resolver-dns-classes-macos 4.1.107
+			net_bytebuddy_byte-buddy: byte-buddy 1.14.9
+			net_jodah_expiringmap: expiringmap 0.5.10
+			net_kyori_adventure-nbt: adventure-nbt 4.15.0
+			net_kyori_adventure-text-serializer-json-legacy-impl: adventure-text-serializer-json-legacy-impl 4.15.0
+			net_kyori_adventure-text-serializer-legacy: adventure-text-serializer-legacy 4.15.0
+			net_kyori_examination-api: examination-api 1.3.0
+			net_kyori_examination-string: examination-string 1.3.0
+			net_kyori_option: option 1.0.0
+			net_lenni0451_commons_httpclient: httpclient 1.6.0
+			net_raphimc_minecraftauth: MinecraftAuth 4.1.1
+			org_bitbucket_b_c_jose4j: jose4j 0.9.6
+			org_cloudburstmc_math_api: api 2.0
+			org_cloudburstmc_math_immutable: immutable 2.0
+			org_cloudburstmc_nbt: nbt 3.0.3
+			org_geysermc_api_base-api: base-api 1.0.1
+			org_geysermc_cumulus_cumulus: cumulus 1.1.2
+			org_geysermc_event_events: events 1.1-SNAPSHOT
+			org_lanternpowered_lmbda: lmbda 2.0.0
+			org_yaml_snakeyaml: snakeyaml 2.2
+		huskhomes: HuskHomes 4.9.4
+			adventure-platform-fabric: adventure-platform-fabric 5.14.1
+				net_kyori_adventure-api: adventure-api 4.17.0
+				net_kyori_adventure-key: adventure-key 4.17.0
+				net_kyori_adventure-platform-api: adventure-platform-api 4.3.3
+				net_kyori_adventure-text-logger-slf4j: adventure-text-logger-slf4j 4.17.0
+				net_kyori_adventure-text-minimessage: adventure-text-minimessage 4.17.0
+				net_kyori_adventure-text-serializer-ansi: adventure-text-serializer-ansi 4.17.0
+				net_kyori_adventure-text-serializer-gson: adventure-text-serializer-gson 4.17.0
+				net_kyori_adventure-text-serializer-json: adventure-text-serializer-json 4.17.0
+				net_kyori_adventure-text-serializer-plain: adventure-text-serializer-plain 4.17.0
+				net_kyori_ansi: ansi 1.1.0
+			com_fatboyindustrial_gson-javatime-serialisers_gso6b8820f28ed4bb: gson-javatime-serialisers 1.1.2
+			com_google_code_gson_gson: gson 2.12.1
+			com_h2database_h2: h2 2.3.232
+			com_mysql_mysql-connector-j: mysql-connector-j 9.2.0
+			com_zaxxer_hikaricp: HikariCP 6.2.1
+			commons-io_commons-io: commons-io 2.18.0
+			de_exlll_configlib-core: configlib-core 4.5.0
+			de_exlll_configlib-yaml: configlib-yaml 4.5.0
+			huskhomes_common: common 4.9.4
+			net_impactdev_impactor_api_economy_dev-slim: economy 5.3.0
+			net_william278_desertwell: DesertWell 2.0.4
+			net_william278_minedown: minedown 1.8.2
+			net_william278_paginedown: paginedown 1.1.2
+			org_apache_commons_commons-pool2: commons-pool2 2.12.1
+			org_apache_commons_commons-text: commons-text 1.13.0
+			org_mariadb_jdbc_mariadb-java-client: mariadb-java-client 3.5.2
+			org_snakeyaml_snakeyaml-engine: snakeyaml-engine 2.7
+			org_xerial_sqlite-jdbc: sqlite-jdbc 3.49.1.0
+			placeholder-api: Placeholder API 2.4.2+1.21
+			redis_clients_jedis: jedis 5.2.0
+			toilet: toilet 1.0.12
+		incendium: Incendium 5.4.3
+		jade: Jade 15.10.0+fabric
+		java: OpenJDK 64-Bit Server VM 21
+		ksyxis: Ksyxis 1.3.3
+		lithium: Lithium 0.15.0+mc1.21.1
+		minecraft: Minecraft 1.21.1
+		mr_vanilla_backpacks: Backpacks! 1.3.1
+		nullscape: Nullscape 1.2.11
+		skinrestorer: SkinRestorer 2.3.0+1.21-fabric
+			org_mineskin_java-client: java-client 3.0.1-SNAPSHOT
+		skinshuffle: SkinShuffle 2.9.0+1.21
+			com_drewnoakes_metadata-extractor: metadata-extractor 2.19.0
+			com_konghq_unirest-java_standalone: unirest-java 3.11.9
+			commons-validator_commons-validator: commons-validator 1.7
+			org_jsoup_jsoup: jsoup 1.16.1
+			yet_another_config_lib_v3: YetAnotherConfigLib 3.6.2+1.21-fabric
+				com_twelvemonkeys_common_common-image: common-image 3.12.0
+				com_twelvemonkeys_common_common-io: common-io 3.12.0
+				com_twelvemonkeys_common_common-lang: common-lang 3.12.0
+				com_twelvemonkeys_imageio_imageio-core: imageio-core 3.12.0
+				com_twelvemonkeys_imageio_imageio-metadata: imageio-metadata 3.12.0
+				com_twelvemonkeys_imageio_imageio-webp: imageio-webp 3.12.0
+				org_quiltmc_parsers_gson: gson 0.2.1
+				org_quiltmc_parsers_json: json 0.2.1
+		spark: spark 1.10.109
+			fabric-permissions-api-v0: fabric-permissions-api 0.3.1
+		taking-a-break: Taking a Break 1.0.3
+		viabackwards: ViaBackwards 5.3.3-SNAPSHOT
+		viafabric: ViaFabric 0.4.15+84-main
+			viafabric-mc1211: ViaFabric for 1.21.1 0.4.15+84-main
+		viaversion: ViaVersion 5.3.3-SNAPSHOT
+		wwoo: William Wythers' Overhauled Overworld 2.3.4
+	Arclight Release: FeudalKings
+	Arclight: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException: Cannot invoke "org.bukkit.Server.getName()" because "org.bukkit.Bukkit.server" is null
+	at knot//org.bukkit.Bukkit.getName(Bukkit.java:109)
+	at knot//org.bukkit.craftbukkit.v1_21_R1.CraftCrashReport.get(CraftCrashReport.java:23)
+	at knot//org.bukkit.craftbukkit.v1_21_R1.CraftCrashReport.get(CraftCrashReport.java:17)
+	at knot//net.minecraft.class_6396.method_37123(class_6396.java:70)
+	at knot//net.minecraft.class_128.handler$zbc000$arclight$additional(CrashReportMixin.java:522)
+	at knot//net.minecraft.class_128.<init>(CrashReportMixin.java:40)
+	at knot//net.minecraft.server.MinecraftServer.method_40376(MinecraftServerMixin.java:787)
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:720)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+	Server Running: true
+	Active Data Packs: vanilla, fabric, collective, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, wwoo
+	Available Data Packs: bundle, collective, fabric, fabric-convention-tags-v2, incendium, mr_vanilla_backpacks, nullscape, taking-a-break, trade_rebalance, vanilla, wwoo
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Experimental
+	World Seed: 4753811569886230586
+	Is Modded: Definitely; Server brand changed to 'fabric arclight/FeudalKings'
+	Type: Dedicated Server (map_server.txt)
